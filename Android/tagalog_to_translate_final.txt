@@ -1,0 +1,1210 @@
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/add-tribe-member/add-tribe-member/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_member_header_name">ADD TRIBE MEMBER</string>
+    <string name="add_member">Add Member</string>
+    <string name="member_alias">Alias *</string>
+    <string name="member_image">Tribe member image</string>
+    <string name="member_public_key">Public Key *</string>
+    <string name="member_route_hint">Route Hint</string>
+    <string name="member_contact_key">Contact Key *</string>
+    <string name="bottom_menu_member_pic_header_text">Member Picture</string>
+    <string name="member_info_required">Alias, Public Key and Contact Key are required</string>
+    <string name="invalid_public_key">Invalid Public Key</string>
+    <string name="invalid_route_hint">Invalid Route Hint</string>
+    <string name="failed_to_add_member">Failed to add member</string>
+    <string name="failed_to_process_image">Failed to process image</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/chat-detail/tribe-detail/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tribe_detail_header_name">TRIBE DETAIL</string>
+    <string name="qr_code_title">Join Tribe Link</string>
+    <string name="podcast_sats_per_minute">Podcast: sats per minute</string>
+    <string name="alias">Alias</string>
+
+    <string name="bottom_menu_tribe_profile_pic_header_text">Tribe Profile Picture</string>
+
+    <string name="tribe_created_on">Created on %s</string>
+    <string name="tribe_costs">Price per message: %d sat - Amount to Stake: %d sat</string>
+    <string name="profile_picture">Profile Picture</string>
+
+    <string name="failed_to_update_profile_alias">Failed to update tribe alias</string>
+    <string name="failed_to_update_profile_pic">Failed to update tribe profile picture</string>
+
+    <string name="alert_confirm_delete_tribe_heading">Delete %s</string>
+    <string name="alert_confirm_delete_tribe_message">Are you sure you want to delete the tribe?</string>
+    <string name="failed_to_delete_tribe">Failed to delete tribe</string>
+
+    <string name="alert_confirm_exit_tribe_heading">Exit %s</string>
+    <string name="alert_confirm_exit_tribe_message">Are you sure you want to exit the tribe?</string>
+    <string name="failed_to_exit_tribe">Failed to exit tribe</string>
+
+    <string name="tribe_members_list">MEMBERS LIST</string>
+    <string name="tribe_badges">Tribe Badges</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-receive/payment-receive/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_receive_header_name">REQUEST AMOUNT</string>
+    <string name="requested_amount_too_high">Requested amount is too high</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-template/payment-template/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_template_header_name">PAYMENT TEMPLATE</string>
+    <string name="text_view_message_place_holder">No Message</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-common/payment-common/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_common_header_name">SEND PAYMENT</string>
+
+    <string name="destination_key">Public Key</string>
+    <string name="balance_too_low">Balance too low</string>
+    <string name="add_message_hint">Add Message</string>
+    <string name="confirm_button">CONFIRM</string>
+    <string name="continue_button">CONTINUE</string>
+    <string name="error_processing_payment">There was an error processing payment, please try again later.</string>
+    <string name="payment_sent">Payment of %1$d sat sent to %2$s</string>
+
+    <string name="alert_confirm_payment_send_title">Send Payment</string>
+    <string name="alert_confirm_payment_send_message">Are you sure you want to send a payment of %1$d sat to %2$s?</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-send/payment-send/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="payment_send_header_name">SEND PAYMENT</string>
+
+    <string name="invalid_node_pub_key_qr_code">QR code is not a Lightning Node Public Key</string>
+    <string name="amount_too_high">Amount is too high</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/contact/new-contact/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_contact_header_name">NEW CONTACT</string>
+    <string name="save_to_contacts_button">SAVE TO CONTACTS</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/contact/edit-contact/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="edit_contact_header_name">EDIT CONTACT</string>
+    <string name="save_contact_button">SAVE</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/contact/contact-common/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_contact_nickname_label">Nickname *</string>
+    <string name="new_contact_address_label">Address *</string>
+    <string name="new_contact_route_hint_label">Route Hint</string>
+    <string name="new_contact_nickname_address_empty">Nickname and Address are required</string>
+    <string name="new_contact_privacy_setting_help">If the privacy setting is active, the contact will only show when the correct privacy PIN is used to log into Sphinx. You first need to set Privacy PIN from Profile to use this feature</string>
+    <string name="new_contact_invalid_public_key_error">Invalid Public Key</string>
+    <string name="new_contact_invalid_route_hint_error">Invalid Route Hint</string>
+    <string name="failed_to_update_contact">Failed to save contact</string>
+    <string name="edit_contact_header_subscribe_button">Subscribe</string>
+    <string name="edit_contact_header_subscribed_button">Subscribed</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/notification-level/notification-level/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_level_header_name">NOTIFICATIONS</string>
+    <string name="notification_level_failed">Failed to set notification level</string>
+
+    <string name="notification_level_see_all">See all</string>
+    <string name="notification_level_only_mentions">Only mentions</string>
+    <string name="notification_level_mute_chat">Mute chat</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/join-tribe/join-tribe/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="join_tribe_header_name">JOIN TRIBE</string>
+    <string name="loading_tribe_text_view">Loading Tribe info...</string>
+    <string name="join_tribe_button">JOIN TRIBE</string>
+
+    <string name="bottom_menu_tribe_profile_pic_header_text">Tribe Profile Picture</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="price_to_join_label">Price to join:</string>
+    <string name="price_per_message_label">Price per message:</string>
+    <string name="amount_to_stake_label">Amount to stake:</string>
+    <string name="time_to_stake_label">Time to stake (hours):</string>
+
+    <string name="alias_edit_text_label">Alias</string>
+    <string name="join_tribe_alias_empty">Alias is required.</string>
+    <string name="invalid_tribe">Invalid Tribe</string>
+    <string name="error_joining">There was an error joining tribe. Please try again later</string>
+    <string name="failed_to_process_image">Failed to process image</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/newsletter-detail/newsletter-detail/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="newsletter">NEWSLETTER</string>
+    <string name="articles">Articles</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/camera/camera/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_permissions_required">Camera and Audio Permissions are required to use this feature, please enable them in Settings.</string>
+    <string name="camera_retake">Retake</string>
+    <string name="camera_use_photo">Use Photo</string>
+    <string name="camera_use_video">Use Video</string>
+    <string name="camera_cancel">Cancel</string>
+    <string name="camera_shutter_instruction">Tap for picture, hold for video</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/known-badges/known-badges/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-members-list/tribe-members-list/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tribe_members_list">MEMBERS LIST</string>
+    <string name="tribe_members_list_header">TRIBE MEMBERS</string>
+    <string name="pending_tribe_members_header">PENDING MEMBERS</string>
+    <string name="loading_more">Loading more...</string>
+    <string name="delete_member">Delete</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/qr-code/qr-code/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="share">Share</string>
+    <string name="copy">Copy</string>
+    <string name="paid">PAID</string>
+    <string name="qr_code_notify_copied">%s copied to clipboard</string>
+    <string name="share_qr_code_as_image_plus_text">Share QR Code as Image+Text</string>
+    <string name="share_qr_code_as_text">Share QR Code as Text</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/subscription/subscription/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="subscription_header_name">RECURRING</string>
+    <string name="amount">Amount</string>
+    <string name="_500_sats">500 sats</string>
+    <string name="_1000_sats">1000 sats</string>
+    <string name="_2000_sats">2000 sats</string>
+    <string name="custom_amount">Custom amount:</string>
+    <string name="time_interval">TIME INTERVAL</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+    <string name="end_rule">END RULE</string>
+    <string name="make">Make</string>
+    <string name="payments">Payments</string>
+    <string name="pay_until">Pay until</string>
+    <string name="delete_subscription">Delete subscription</string>
+    <string name="are_you_sure_you_want_to_delete_subscription">Are you sure you want to delete this subscription?</string>
+    <string name="amount_is_required">Amount is required</string>
+    <string name="time_interval_is_required">Time Interval is required</string>
+    <string name="please_set_either_the_number_of_payments_to_make_or_end_date">Please set either the number of payments to make or end date</string>
+    <string name="failed_to_save_subscription">Failed to save subscription</string>
+    <string name="saved_subscription_successfully">Saved subscription successfully</string>
+    <string name="deleting_subscription">Deleting subscription</string>
+    <string name="failed_to_pause_subscription">Failed to pause subscription</string>
+    <string name="successfully_paused_subscription">Successfully paused subscription</string>
+    <string name="failed_to_restart_subscription">Failed to restart subscription</string>
+    <string name="successfully_restarted_subscription">Successfully restarted subscription</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="update_subscription">Update</string>
+    <string name="failed_to_delete_subscription">Failed to delete subscription</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/transactions/transactions/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="transactions_header_name">TRANSACTIONS</string>
+    <string name="loading_more">Loading more...</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/invite-friend/invite-friend/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invite_friend_header_name">INVITE FRIEND</string>
+
+    <string name="invite_friend_nickname_label">NICKNAME</string>
+    <string name="invite_friend_message_label">INCLUDE A MESSAGE...</string>
+    <string name="invite_friend_message_hint">Welcome to Sphinx!</string>
+    <string name="invite_friend_create_invitation_button">Create Invitation</string>
+    <string name="invite_friend_estimated_cost_text_view">ESTIMATED COST</string>
+
+    <string name="invite_friend_nickname_empty">Nickname can not be empty</string>
+    <string name="invite_failed">Invite failed. Please try again later.</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/video-screen/video-screen/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_text_videos_list_header">Videos</string>
+    <string name="delete_download">Delete Download</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/web-view/web-view/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="web_view_header_name">WEB VIEW</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/add-friend/add-friend/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_friend_header_name">ADD FRIEND</string>
+    <string name="new_to_sphinx_button">New to Sphinx</string>
+    <string name="already_on_sphinx_button">Already on Sphinx</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/common-player/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_loading_recommendations">Error loading recommendations. Please try again later.</string>
+    <string name="error_playing_clip">This clip can\'t be played.</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-badge/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="badge_already_exist">You already have a badge of this type. You can manage it in the Existing Badges section</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/scanner/scanner/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="scanner_header_name">SCAN</string>
+    <string name="scanner_bottom_content_label">OR ENTER MANUALLY</string>
+    <string name="scanner_edit_text_hint">Code</string>
+    <string name="scanner_verify_button">VERIFY</string>
+
+    <string name="scanner_notify_permissions_needed">Camera Permissions are required to use this feature, please enable them in Settings</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribes-discover/tribes-discover/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="discover_tribes_header_name">DISCOVER TRIBES</string>
+    <string name="discover_tribes_tags">Tags</string>
+    <string name="discover_tribes_join">Join</string>
+    <string name="discover_tribes_open">Open</string>
+    <string name="discover_tribes_apply">Apply</string>
+    <string name="discover_tribes_no_results">No tribes found</string>
+    <string name="discover_tribes_loading">Loading...</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/podcast-player/podcast-player/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_text_episodes_list_header">Episodes</string>
+    <string name="boost_sent">Boost sent</string>
+    <string name="podcast_sats_per_minute">Sats per minute</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/create-tribe/create-tribe/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_tribe_header_name">NEW TRIBE</string>
+    <string name="edit_tribe_header_name">EDIT TRIBE</string>
+    <string name="create_tribe">Create Tribe</string>
+    <string name="save">Save</string>
+    <string name="add_icon"></string>
+
+    <string name="bottom_menu_tribe_pic_header_text">Tribe Picture</string>
+
+    <string name="name_and_description_required">Name and description required</string>
+    <string name="failed_to_create_tribe">Failed to create tribe</string>
+    <string name="failed_to_update_tribe">Failed to update tribe</string>
+    <string name="failed_to_load_tribe">Failed to load tribe</string>
+    <string name="failed_to_process_image">Failed to process image</string>
+    <string name="list_on_tribes_sphinx_chat">List on tribes.sphinx.chat?</string>
+    <string name="name">Name *</string>
+    <string name="image">Image</string>
+    <string name="description">Description *</string>
+    <string name="tags">Tags</string>
+    <string name="price_to_join_sats">Price to Join</string>
+    <string name="price_per_message_sats">Price Per Message</string>
+    <string name="amount_to_stake_sats">Amount to Stake</string>
+    <string name="time_to_stake_hours">Time to Stake (hours)</string>
+    <string name="app_url">App Url</string>
+    <string name="rss_feed_url">Feed URL</string>
+    <string name="feed_content_type">Feed Content Type</string>
+    <string name="approve_each_membership_request">Approve each membership request?</string>
+
+    <string name="feed_type_podcast">Podcast</string>
+    <string name="feed_type_video">Video</string>
+    <string name="feed_type_newsletter">Newsletter</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/support-ticket/support-ticket/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="support_ticket_header_name">SUPPORT</string>
+    <string name="send_message">Send Message</string>
+    <string name="copy_logs">Copy Logs</string>
+    <string name="describe_your_problem_here">Describe your problem here…</string>
+    <string name="message_required">Message required</string>
+    <string name="fetch_logs_failed">Failed to fetch logs</string>
+    <string name="logs_copied_to_clipboard">Logs copied to clipboard</string>
+    <string name="no_logs_loaded">No logs loaded</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/splash/splash/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_board_welcome">Welcome</string>
+    <string name="on_board_welcome_info_code">Paste the connection string\nor scan the QR code</string>
+    <string name="on_board_edit_text_hint_code">Enter Code…</string>
+
+    <string name="side_effect_generate_token_failed">Generate token failed</string>
+
+    <string name="on_board_welcome_info_decrypt">Enter PIN\nto decrypt</string>
+    <string name="on_board_edit_text_hint_decrypt">Enter PIN…</string>
+
+    <string name="side_effect_decryption_failure">Failed to decrypt</string>
+    <string name="side_effect_empty_input">Input must not be empty</string>
+    <string name="side_effect_pin_length">Invalid PIN length</string>
+    <string name="side_effect_invalid_code">Invalid Code</string>
+    <string name="side_effect_invalid_pin">Invalid PIN</string>
+    <string name="side_effect_feature_not_implemented">That feature is not yet implemented</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-picture/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_board_picture_bottom_menu_header">Profile Picture</string>
+    <string name="on_board_picture_side_effect_upload_failure">Failed to upload image</string>
+    <string name="on_board_select_picture">Select Image</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-resources/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="on_board_welcome">Welcome</string>
+    <string name="on_board_new_user">New User</string>
+    <string name="on_board_existing_user">Existing User</string>
+    <string name="on_board_continue">Continue</string>
+    <string name="on_board_paste_connection_code">"Paste your connection code\ninto Sphinx"</string>
+    <string name="on_board_paste_keys">"Copy your keys from your\ndesktop app and paste it here"</string>
+    <string name="on_board_connect">Connect</string>
+    <string name="on_board_connecting">Connecting...</string>
+    <string name="on_board_submit">Submit</string>
+    <string name="on_board_connect_paste_connection_code">Paste your connection code...</string>
+    <string name="on_board_connect_paste_keys">Paste your keys...</string>
+    <string name="on_board_connected_subtitle">Your app is now connected</string>
+    <string name="on_board_lightning_title">"You are now on the\nLightning Network!"</string>
+    <string name="on_board_desktop_title">"Don't you have\nSphinx for desktop?"</string>
+    <string name="on_board_desktop_skip">Skip</string>
+    <string name="on_board_desktop_get_it_now">Get It Now</string>
+
+    <string name="side_effect_generate_token_failed">Generate token failed</string>
+
+    <string name="on_board_welcome_info_decrypt">Enter PIN\nto decrypt</string>
+    <string name="on_board_edit_text_hint_decrypt">Enter PIN…</string>
+
+    <string name="side_effect_decryption_failure">Failed to decrypt</string>
+    <string name="side_effect_empty_input">Input must not be empty</string>
+    <string name="side_effect_pin_length">Invalid PIN length</string>
+    <string name="side_effect_invalid_code">Invalid Code</string>
+    <string name="side_effect_invalid_invite">Invalid Invite</string>
+    <string name="side_effect_invalid_pin">Invalid PIN</string>
+
+    <string name="on_board_finish_button">Finish</string>
+    <string name="on_board_next_button">Next</string>
+
+    <string name="on_board_get_started_button">Get Started</string>
+    <string name="on_board_friend_message">A message from your friend…</string>
+
+    <string name="side_effect_create_inviter_failed">Failed to create inviter</string>
+    <string name="side_effect_get_contacts_failed">Failed to retrieve main contact</string>
+    <string name="side_effect_update_owner_failed">Failed to update main contact</string>
+
+    <string name="sign_up_name_edit_text_hint">Set Your Name</string>
+    <string name="sign_up_name_text_view">Your Name</string>
+
+    <string name="sphinx_ready_label">"You\'re ready\nto use Sphinx!"</string>
+    <string name="sphinx_ready_balance_label">"You can send messages,\nspend %d sats, or receive\nup to %d sats."</string>
+    <string name="sphinx_ready_loading_balance">Loading node balance…</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/dashboard/dashboard/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_icon"></string>
+    <string name="join_tribe_link">Join Tribe Link</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="add_tribe">Add Tribe</string>
+    <string name="create_tribe">Create Tribe</string>
+    <string name="contacts">Contacts</string>
+    <string name="profile">Profile</string>
+    <string name="support">Support</string>
+    <string name="add_sats">ADD SATS</string>
+    <string name="search">Search</string>
+
+    <string name="upgrade_app">UPGRADE APP</string>
+
+    <string name="not_valid_tribe_link">QR code is not a Join Tribe link</string>
+    <string name="invite_name">Invite: %s</string>
+    <string name="invite_qr_code_header_name">INVITE CODE</string>
+
+    <string name="alert_confirm_pay_invite_title">Pay Invite</string>
+    <string name="alert_confirm_pay_invite_message">Are you sure you want to pay %d sat for this invite?</string>
+    <string name="pay_invite_balance_too_low">"Can't pay invite. Balance is too low"</string>
+
+    <string name="alert_confirm_delete_invite_title">Delete Invite</string>
+    <string name="alert_confirm_delete_invite_message">Are you sure you want to delete this invite?</string>
+
+    <string name="paste_invoice_of_tribe_link">Paste Invoice or Join Tribe Link</string>
+    <string name="paste_invoice_or_public_key">Invoice or Public Key</string>
+    <string name="alert_confirm_pay_invoice_title">Pay Invoice</string>
+    <string name="alert_confirm_pay_invoice_message">Are you sure you want to pay scanned invoice?\n\nAmount: %d sat\n\nMemo: %s</string>
+
+    <string name="payment_request_missing_amount">Payment request is missing amount</string>
+    <string name="not_valid_invoice_or_tribe_link">QR code is not a lightning invoice or Join Tribe link</string>
+
+    <string name="attempting_payment_request">Attempting Payment Request</string>
+    <string name="failed_to_pay_request">Failed to pay request</string>
+    <string name="successfully_paid_invoice">Successfully paid invoice</string>
+
+    <string name="last_message_description_message_deleted">Message deleted</string>
+    <string name="last_message_description_you">You</string>
+    <string name="last_message_description_gif_shared">%sGIF shared</string>
+    <string name="last_message_description_boost">%sBoost %s</string>
+    <string name="last_message_description_call_invite">%sJoin Call</string>
+    <string name="last_message_description_invoice_sent">Invoice Sent: %s</string>
+    <string name="last_message_description_invoice_receive">Invoice Received: %s</string>
+    <string name="last_message_description_payment_sent">Payment Sent: %s</string>
+    <string name="last_message_description_tribe_payment_sent">Payment of %s sent to %s</string>
+    <string name="last_message_description_payment_received">Payment Received: %s</string>
+    <string name="last_message_description_tribe_payment">%s sent a payment of %s to %s</string>
+
+    <string name="last_message_description_sent">sent</string>
+    <string name="last_message_description_an_audio_clip">an Audio Clip</string>
+    <string name="last_message_description_a_gif">a Gif</string>
+    <string name="last_message_description_an_image">an Image</string>
+    <string name="last_message_description_a_pdf">a PDF</string>
+    <string name="last_message_description_a_paid_message">a Paid Message</string>
+    <string name="last_message_description_an_attachment">an Attachment</string>
+    <string name="last_message_description_a_video">a Video</string>
+
+    <string name="last_message_description_has_join_tribe">%s has joined the tribe</string>
+    <string name="last_message_description_just_left_tribe">%s just left the tribe</string>
+    <string name="last_message_description_wants_to_join">%s wants to join the tribe</string>
+    <string name="last_message_description_declined_request_from">You have declined the request from %s</string>
+    <string name="last_message_description_approved_request_from">You have approved the request from %s</string>
+    <string name="last_message_description_admin_declined_request">The admin declined your request</string>
+    <string name="last_message_description_welcome_member">Welcome! You’re now a member</string>
+    <string name="last_message_description_group_kick">The admin has removed you from this group</string>
+    <string name="last_message_description_tribe_deleted">The admin deleted this tribe</string>
+
+    <string name="last_message_description_invite">Invite: %s</string>
+    <string name="last_message_description_looking_available_node">Looking for an available node for %s</string>
+    <string name="last_message_description_invite_ready">Ready! Tap to share. Expires in 24 hrs</string>
+    <string name="last_message_description_invite_signing_on">%s is signing on</string>
+    <string name="last_message_description_invite_tap_to_pay">Tap to pay and activate the invite</string>
+    <string name="last_message_description_invite_payment_sent">Payment sent. Waiting confirmation</string>
+    <string name="last_message_description_invite_signup_complete">Signup complete</string>
+    <string name="last_message_description_invite_expired">Expired</string>
+
+    <!-- Deep link authorize popup -->
+    <string name="dashboard_authorize_popup_title">Do you want to authorize with:</string>
+    <string name="dashboard_authorize_button">AUTHORIZE</string>
+    <string name="dashboard_authorize_generic_error">Something went wrong while authorizing external source, please try again later</string>
+
+    <string name="dashboard_redeem_sats_popup_title">Redeem %s sats from:</string>
+    <string name="dashboard_redeem_sats_button">Confirm</string>
+
+    <string name="dashboard_connect_button">CONNECT</string>
+    <string name="dashboard_connect_price_to_meet">Price to meet: %s</string>
+    <string name="dashboard_connect_description_missing">No description</string>
+    <string name="dashboard_connect_initial_message_hint">Initial message to %s</string>
+    <string name="dashboard_connect_retrieve_person_data_error">Failed to retrieve person information</string>
+    <string name="dashboard_connect_message_empty">Message can not be empty</string>
+    <string name="dashboard_connect_generic_error">Something went wrong while connecting to user, please try again later</string>
+
+    <string name="dashboard_network_disconnected_node_toast">Disconnected node</string>
+    <string name="dashboard_network_connected_node_toast">Connected node</string>
+
+    <string name="dashboard_save_profile_popup_title">Save Profile from:</string>
+    <string name="dashboard_delete_profile_popup_title">Delete Profile from:</string>
+    <string name="dashboard_save_profile_button">SAVE</string>
+    <string name="dashboard_delete_profile_button">DELETE</string>
+    <string name="dashboard_save_profile_generic_error">Request attempt failed</string>
+    <string name="dashboard_save_profile_success">Profile successfully saved</string>
+    <string name="dashboard_delete_profile_generic_error">Could not Delete Profile</string>
+    <string name="dashboard_delete_profile_success">Profile successfully deleted</string>
+
+    <string name="dashboard_redeem_badge_token_popup_title">Redeem Badge Token from:</string>
+    <string name="dashboard_redeem_badge_token_generic_error">Could not Redeem Badge Token</string>
+    <string name="dashboard_redeem_badge_token_success">Redeemed Badge Token successfully</string>
+
+    <string name="dashboard_feed_tab_name">Feed</string>
+    <string name="dashboard_friends_tab_name">Friends</string>
+    <string name="dashboard_tribes_tab_name">Tribes</string>
+
+    <string name="all">All</string>
+    <string name="listen">Listen</string>
+    <string name="watch">Watch</string>
+    <string name="read">Read</string>
+    <string name="play">Play</string>
+    <string name="listen_now">Listen Now</string>
+    <string name="following">Following</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="read_now">Read Now</string>
+    <string name="watch_now">Watch Now</string>
+
+    <string name="recommendations">Recommendations</string>
+
+    <string name="all_place_holder">No \"Feed\" Results Found</string>
+    <string name="listen_place_holder">No \"Listen\" Results Found</string>
+    <string name="watch_place_holder">No \"Watch\" Results Found</string>
+    <string name="read_place_holder">No \"Read\" Results Found</string>
+    <string name="play_place_holder">No \"Play\" Results Found</string>
+
+    <string name="feed_search_placeholder_1">Search over</string>
+    <string name="feed_search_placeholder_2">your subscribed feeds</string>
+
+    <string name="feed_search_result_load_error">Something went wrong while loading feed content, please try again later</string>
+
+    <string name="video_search_placeholder_1">Search over</string>
+    <string name="video_search_placeholder_2">thousand of videos</string>
+    <string name="video_search_placeholder_3">on Youtube</string>
+
+    <string name="podcast_search_placeholder_1">Search over</string>
+    <string name="podcast_search_placeholder_2">4 000 000 podcasts</string>
+    <string name="podcast_search_placeholder_3">on the Podcast Index</string>
+
+    <string name="dashboard_restore_progress">Restoring: %s</string>
+    <string name="dashboard_restore_progress_contacts">Restoring Contacts: %s</string>
+    <string name="dashboard_restore_progress_feeds">Restoring Feeds: %s</string>
+    <string name="dashboard_restore_progress_messages">Restoring Messages: %s</string>
+    <string name="dashboard_stop_restore">Continue later</string>
+
+    <string name="loading_recommendations">Loading Recommendations...</string>
+    <string name="refresh_while_loading">You can\'t get new recommendations while playing them. Please stop playing before refreshing</string>
+
+    <string name="time_left">%s left</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/profile/profile/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_header_name">Profile</string>
+    <string name="profile_basic_tab">Basic</string>
+    <string name="profile_advanced_tab">Advanced</string>
+    <string name="profile_user_name">User Name</string>
+    <string name="profile_address">Address</string>
+    <string name="profile_route_hint">Route Hint</string>
+    <string name="profile_share_picture">Share my profile photo with contacts</string>
+    <string name="profile_tip">Default tip amount</string>
+    <string name="profile_meeting_server">Meeting Server</string>
+    <string name="profile_sync_devices">Sync more devices</string>
+    <string name="profile_backup_keys">Backup your key</string>
+    <string name="profile_server_url">Server URL</string>
+    <string name="profile_pin_timeout">PIN Timeout</string>
+    <string name="profile_pin_timeout_hours">12 hours</string>
+    <string name="profile_change_pin">Change PIN</string>
+    <string name="profile_change_privacy_pin">Change Privacy PIN</string>
+    <string name="profile_always_require_pin">Always require PIN</string>
+    <string name="profile_set_github_pat">Set Github Personal Access Token</string>
+    <string name="profile_export_keys_title_alert">Export Keys</string>
+    <string name="profile_export_keys_pin_message">"Enter your PIN to encrypt your keys. You will need it when restoring account on other device."</string>
+    <string name="profile_keys_copied_clipboard">Your keys will be copied to the clipboard. Save this string &amp; remember your pin before deleting the app or all data will be lost.</string>
+    <string name="profile_link_previews">Link Previews enabled</string>
+    <string name="profile_recommendations">Feed Recommendations</string>
+    <string name="side_effect_backup_keys_exported">Export keys copied to clipboard</string>
+    <string name="side_effect_wrong_pin">Wrong PIN provided</string>
+    <string name="side_effect_backup_keys_failed">Backup keys failed</string>
+    <string name="profile_qr_code_header_name">PUBLIC KEY</string>
+    <string name="bottom_menu_profile_pic_header_text">Profile Picture</string>
+    <string name="failed_to_process_image">Failed to process image</string>
+    <string name="image_uploaded_successfully">Image uploaded successfully</string>
+    <string name="invalid_meeting_server_url">Invalid Meeting Server Url</string>
+
+    <string name="empty_or_null_relay_url">New Relay URL can not be empty or null</string>
+    <string name="invalid_relay_url">New Relay URL is invalid</string>
+    <string name="relay_url_update_from_http_to_tor_not_implemented">Updating to an onion address is currently not supported.</string>
+    <string name="testing_new_relay_url">Testing new Relay URL…</string>
+    <string name="failed_updating_relay_url">New URL test failed, restoring previous setting…</string>
+    <string name="updating_relay_url_succeed">Relay URL successfully updated</string>
+
+    <string name="github_pat_title">Github Personal Access Token</string>
+    <string name="github_pat_message">Generate a Personal Access Token on github with the repo scope</string>
+    <string name="github_pat_succeed">Github Personal Access Token successfully set</string>
+    <string name="github_pat_failed">Github Personal Access Token could not be set</string>
+
+    <string name="network_check_title">Check your network</string>
+    <string name="network_check_message">Before starting you need to connect to \"sphinxkey\" WiFi network. Otherwise you won’t be able to setup your device. Are you connected to this network?</string>
+    <string name="network_name_title">WiFi network</string>
+    <string name="network_name_message">Please specify your WiFi network</string>
+    <string name="network_password_title">WiFi password</string>
+    <string name="network_password_message">Enter the WiFi password for %s</string>
+    <string name="lightning_node_ip_title">Lightning node IP</string>
+    <string name="lightning_node_ip_message">Enter the IP of your lightning node</string>
+    <string name="lightning_node_port_title">Lightning node Port</string>
+    <string name="lightning_node_port_message">Enter the Port number of your lightning node</string>
+    <string name="store_mnemonic">Store your Mnemonic securely</string>
+    <string name="sending_seed">Sending seed to hardware</string>
+    <string name="error_setting_up_signing_device">There was an error setting up signing device: %s</string>
+    <string name="signing_device_successfully_set">Seed sent to hardware successfully</string>
+    <string name="setup_signing_device">Setup Signing Device</string>
+    <string name="configure_signing_device">Configure Signing Device</string>
+    <string name="mnemonic_copied_to_clipboard">Mnemonic words copied to clipboard</string>
+    <string name="bitcoin_network">Bitcoin Network</string>
+    <string name="select_bitcoin_network">Select Bitcoin Network</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/address-book/address-book/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="address_book_header_name">Address Book</string>
+    <string name="search">Search</string>
+    <string name="add_icon"></string>
+    <string name="add_friend">Add Friend</string>
+    <string name="delete_contact">Delete</string>
+    <string name="block_contact">Block</string>
+    <string name="unblock_contact">Unblock</string>
+    <string name="swipe_left_to_delete">Swipe left to delete or block contact</string>
+    <string name="alert_confirm_delete_contact_title">Delete Contact</string>
+    <string name="alert_confirm_delete_contact">Are you sure you want to delete this contact?</string>
+    <string name="alert_confirm_block_contact_title">Block Contact</string>
+    <string name="alert_confirm_block_contact">Are you sure you want to block this contact?</string>
+    <string name="alert_confirm_unblock_contact_title">Unblock Contact</string>
+    <string name="alert_confirm_unblock_contact">Are you sure you want to unblock this contact?</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/chats/chat-common/chat-common/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="edit_text_message_hint">Message...</string>
+    <string name="edit_text_optional_message_hint">Optional Message...</string>
+    <string name="text_view_loading_attachment">Loading/Decrypting...</string>
+    <string name="option_block_user">Block</string>
+    <string name="option_delete_user">Delete</string>
+    <string name="alert_confirm_delete_contact">Are you sure you want to delete this contact?</string>
+    <string name="alert_confirm_delete_contact_title">Delete Contact</string>
+    <string name="alert_confirm_block_contact_title">Block Contact</string>
+    <string name="alert_confirm_block_contact">Are you sure you want to block this contact?</string>
+    <string name="alert_confirm_unblock_contact_title">Unblock Contact</string>
+    <string name="alert_confirm_unblock_contact">Are you sure you want to unblock this contact?</string>
+    <string name="alert_not_encrypted_contact">You can\'t send a message to an unencrypted contact</string>
+
+    <string name="chat_muted_message"> Chat is now muted. You won\'t get push notifications for incoming messages on this chat</string>
+    <string name="chat_muted_waiting_on_network">Waiting on network…</string>
+    <string name="chat_tribe_contributed">Contributed:</string>
+    <string name="chat_tribe_earned">Earned:</string>
+
+    <string name="unsupported_message_type_placeholder_text">%1$s: Not supported yet</string>
+    <string name="deleted_message_label_text">This message has been deleted</string>
+    <string name="flagged_message_label_text">This message has been flagged</string>
+    <string name="join_call_header_label_text">Join call by…</string>
+
+    <string name="failed_message">Failed Message</string>
+
+    <string name="send_message_empty_destination_error">Contact or Chat is required</string>
+    <string name="send_message_empty_content_error">Message or Attachment is required</string>
+    <string name="send_message_empty_price_error">Price is required</string>
+
+    <!--  Separators  -->
+    <string name="unseen_messages">Unseen Messages</string>
+    <string name="today">Today</string>
+
+    <!--  Message type invoices  -->
+    <string name="request_expired">REQUEST EXPIRED</string>
+    <string name="request_expiration">EXPIRES AT: %s</string>
+    <string name="invoice_paid_on">Invoice paid on %s</string>
+    <string name="alert_confirm_pay_chat_invoice_title">Confirm Paying Invoice</string>
+    <string name="alert_confirm_pay_chat_invoice_message">Are you sure you want to pay for this invoice?</string>
+
+    <!--  Message type placeholder display names  -->
+    <string name="placeholder_display_name_message_type_attachment">Attachment Message</string>
+    <string name="placeholder_display_name_message_type_bot_response">Bot Response Message</string>
+    <string name="placeholder_display_name_message_type_invoice">Invoice Message</string>
+    <string name="placeholder_display_name_message_type_payment">Invoice Payment Message</string>
+    <string name="placeholder_display_name_message_type_tribe_delete">Tribe Delete Message</string>
+    <string name="placeholder_unsupported_message_type_default">Unsupported Message Type</string>
+
+    <!-- Paid Message Details: Status Labels   -->
+    <string name="paid_message_details_status_label_pay">Pay</string>
+    <string name="paid_message_details_status_label_payment_accepted">Purchase Succeeded</string>
+    <string name="paid_message_details_status_label_payment_denied">Purchase Denied</string>
+    <string name="paid_message_details_status_label_processing_payment">Processing payment…</string>
+
+    <!-- Paid Message Overlays -->
+    <string name="paywall_overlay_label_text_message_received">Pay to unlock Message</string>
+    <string name="paywall_overlay_content_description_image_message_received">Pay to unlock this Image</string>
+    <string name="paywall_overlay_content_description_video_message_received">Pay to unlock this Video</string>
+
+
+    <!-- Link Previews -->
+    <string name="link_preview_add_contact_banner_label">Add Contact</string>
+    <string name="link_preview_see_tribe_banner_label">See Tribe</string>
+
+    <!-- Replies -->
+    <string name="reply_message_media_content_description">Media content of the original message</string>
+    <string name="reply_message_close_button_content_description">Close</string>
+    <string name="share_audio_clip">"Share audio clip:"</string>
+
+    <!--  Purchase Status Labels: Paid Message Details  -->
+    <string name="purchase_status_label_paid_message_details_pending">Pending</string>
+    <string name="purchase_status_label_paid_message_details_accepted">Purchase Succeeded</string>
+    <string name="purchase_status_label_paid_message_details_denied">Purchase Denied</string>
+    <string name="purchase_status_label_paid_message_details_processing">Processing Payment</string>
+    <string name="purchase_status_label_paid_message_details_default">Pay</string>
+
+    <!--  Purchase Status Labels: Paid Message Sent Status  -->
+    <string name="purchase_status_label_paid_message_sent_status_pending">Pending</string>
+    <string name="purchase_status_label_paid_message_sent_status_accepted">Succeeded</string>
+    <string name="purchase_status_label_paid_message_sent_status_denied">Denied</string>
+    <string name="purchase_status_label_paid_message_sent_status_processing">Processing payment…</string>
+    <string name="purchase_status_label_paid_message_sent_status_default">Unknown</string>
+
+
+    <!--  Group Action  -->
+    <string name="tribe_request_admin_side">%1$s wants to\njoin the tribe</string>
+    <string name="tribe_request_approved_admin_side">You have approved\nthe request from %1$s</string>
+    <string name="tribe_request_rejected_admin_side">You have declined\nthe request from %1$s</string>
+    <string name="tribe_request_rejected_member_side">The admin\ndeclined your request</string>
+    <string name="tribe_join_announcement">%1$s has joined the tribe</string>
+    <string name="group_join_announcement">%1$s has joined the group</string>
+    <string name="tribe_leave_announcement">%1$s just left the tribe</string>
+    <string name="group_leave_announcement">%1$s just left the group</string>
+    <string name="tribe_deleted_announcement">The admin has deleted\nthis tribe</string>
+    <string name="group_kick_announcement_member_side">The admin has removed you from this group</string>
+    <string name="tribe_kick_announcement_member_side">The admin has removed you from this tribe</string>
+    <string name="tribe_welcome_announcement_member_side">Welcome! You are now a member</string>
+    <string name="tribe_deleted_announcement_button_delete">Delete Tribe</string>
+
+    <!-- Selected Item Menu Labels -->
+    <string name="selected_message_menu_item_boost">Boost</string>
+    <string name="selected_message_menu_item_copy_text">Copy Text</string>
+    <string name="selected_message_menu_item_copy_call_link">Copy Call Link</string>
+    <string name="selected_message_menu_item_copy_link">Copy Link</string>
+    <string name="selected_message_menu_item_delete">Delete Message</string>
+    <string name="selected_message_menu_item_reply">Reply</string>
+    <string name="selected_message_menu_item_save_file">Save File</string>
+    <string name="selected_message_menu_item_resend">Resend</string>
+    <string name="selected_message_menu_item_flag">Flag</string>
+
+    <string name="alert_confirm_flag_message_title">Confirm Flagging message</string>
+    <string name="alert_confirm_flag_message_message">Are you sure you want to flag this message? This action can not be undone</string>
+
+    <string name="alert_confirm_delete_message_title">Confirm Deleting message</string>
+    <string name="alert_confirm_delete_message_message">Are you sure you want to delete this message? This action can not be undone</string>
+
+    <!-- Notify -->
+    <string name="notify_boost_failure">Boost payment failed</string>
+    <string name="side_effect_text_copied">Text copied to clipboard</string>
+    <string name="side_effect_call_link_copied">Call link copied to clipboard</string>
+    <string name="side_effect_link_copied">Copied %s</string>
+    <string name="side_effect_no_link_to_copy">No link to copy</string>
+
+    <string name="file_name_loading">Loading...</string>
+    <string name="pdf_page">page</string>
+    <string name="pdf_pages">pages</string>
+    <string name="pdf_page_of">Page %d of %d</string>
+
+    <!-- Send Attachment -->
+    <string name="attachment_send_header_image">SEND IMAGE</string>
+    <string name="attachment_send_header_video">SEND VIDEO</string>
+    <string name="attachment_send_header_pdf">SEND PDF</string>
+    <string name="attachment_send_header_file">SEND FILE</string>
+    <string name="attachment_send_header_giphy">SEND GIPHY</string>
+    <string name="attachment_send_header_paid_message">SEND PAID MESSAGE</string>
+
+    <!-- Pay Attachment -->
+    <string name="paid_message_pay_to_unlock">PAY TO UNLOCK MESSAGE</string>
+    <string name="paid_file_pay_to_unlock">PAY TO UNLOCK FILE</string>
+    <string name="paid_message_loading">LOADING MESSAGE...</string>
+    <string name="paid_message_unable_to_load">UNABLE TO LOAD MESSAGE DATA</string>
+    <string name="attachment_price_label">Price: </string>
+    <string name="alert_confirm_pay_attachment_title">Confirm Purchase</string>
+    <string name="alert_confirm_pay_attachment_message">Are you sure you want to purchase this item?</string>
+
+    <!-- Save Attachment -->
+    <string name="saved_attachment_successfully">Saved attachment successfully</string>
+    <string name="failed_to_save_file">Failed to save file</string>
+
+    <!-- Exit Tribe -->
+    <string name="delete_own_tribe_not_supported">Delete own tribe is not supported yet</string>
+    <string name="alert_confirm_exit_tribe_title">Exit Tribe</string>
+    <string name="alert_confirm_exit_tribe_message">Are you sure you wat to exit and delete this tribe?</string>
+
+    <!-- Menu -->
+    <string name="attachments_menu_cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="camera_attachment_option">Camera</string>
+    <string name="library_attachment_option">Library</string>
+    <string name="gif_attachment_option">Gif</string>
+    <string name="file_attachment_option">File</string>
+    <string name="paid_message_attachment_option">Paid Message</string>
+    <string name="request_attachment_option">Request</string>
+    <string name="send_attachment_option">Send</string>
+    <string name="waiting_for_admin_approval">Waiting for admin approval</string>
+    <string name="failed_to_delete_tribe">Failed to delete Tribe</string>
+
+    <string name="podcast_boost_label">Boost!</string>
+
+    <string name="bottom_menu_call_header_text">Call Options</string>
+    <string name="bottom_menu_call_option_audio">Audio</string>
+    <string name="bottom_menu_call_option_video_or_audio">Video or Audio</string>
+
+    <string name="bottom_menu_more_header_text">Chat Options</string>
+    <string name="bottom_menu_more_option_call">Create Call</string>
+    <string name="bottom_menu_more_option_share">Share Tribe Link</string>
+    <string name="bottom_menu_more_option_search">Search Messages</string>
+    <string name="bottom_menu_more_option_notification">Notifications</string>
+
+    <string name="searching_messages">Searching...</string>
+    <string name="results_found">%d Results Found</string>
+
+    <string name="slide_to_cancel">&lt;&lt; Slide to cancel</string>
+    <string name="recording_permission_granted">Recording permission granted</string>
+    <string name="recording_permission_required">Recording permissions required</string>
+
+    <string name="send_sats">Send Sats</string>
+
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication-resources/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sphinx_authentication_enter_pin">ENTER PIN</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wrong_pin">Wrong PIN</string>
+    <string name="wrong_pin_one_more_attempt">1 more attempt before being locked out</string>
+    <string name="wrong_pin_pin_does_not_match">PIN did not match</string>
+    <string name="header_enter_pin">Enter PIN</string>
+    <string name="header_confirm_pin">Confirm PIN</string>
+    <string name="header_reset_step_1">Enter New PIN</string>
+    <string name="header_reset_step_2">Confirm New PIN</string>
+
+    <string name="flow_response_decrypting_key">Validating PIN</string>
+    <string name="flow_response_encrypting_key_with_new_pin">Re-encrypting your key with new PIN</string>
+    <string name="flow_response_generating_encrypting_key">Generating and encrypting your key</string>
+
+    <string name="enter_pin_encrypt">Enter your PIN to encrypt your keys. You will need it when restoring your account on another device</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/resources/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="to">To</string>
+    <string name="from">From</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="sat">sat</string>
+    <string name="sats">sats</string>
+    <string name="new_contact">New Contact</string>
+    <string name="default_sats_amount">…</string>
+    <string name="uploading">Uploading</string>
+    <string name="unknown">Unknown</string>
+    <string name="decryption_error">DECRYPTION ERROR...</string>
+    <string name="null_name_error">ERROR: NULL NAME</string>
+    <string name="public_key">Public Key</string>
+
+    <!--  Number Pad   -->
+    <string name="_1" translatable="false">1</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="_0" translatable="false">0</string>
+
+    <!--  Material Icons   -->
+    <string name="material_icon_name_lock_outline" translatable="false">lock_outline</string>
+    <string name="material_icon_name_lock" translatable="false">lock</string>
+    <string name="material_icon_name_error" translatable="false">error</string>
+    <string name="material_icon_name_bolt" translatable="false">flash_on</string>
+    <string name="material_icon_name_backspace_button" translatable="false">backspace</string>
+    <string name="material_icon_name_call_button" translatable="false">phone</string>
+    <string name="material_icon_name_close" translatable="false">close</string>
+    <string name="material_icon_name_nav_back" translatable="false">arrow_back</string>
+    <string name="material_icon_name_nav_forward" translatable="false">arrow_forward</string>
+    <string name="material_icon_name_arrow_outward" translatable="false">arrow_outward</string>
+    <string name="material_icon_name_file_attachment" translatable="false">insert_drive_file</string>
+    <string name="material_icon_name_file_pdf" translatable="false">picture_as_pdf</string>
+    <string name="material_icon_name_file_download" translatable="false">file_download</string>
+    <string name="material_icon_name_cloud_download" translatable="false">cloud_download</string>
+    <string name="material_icon_name_play_button" translatable="false">play_arrow</string>
+    <string name="material_icon_name_chevron_right_button" translatable="false">chevron_right</string>
+    <string name="material_icon_name_brightness_button" translatable="false">brightness_1</string>
+    <string name="material_icon_name_pause_button" translatable="false">pause</string>
+    <string name="material_icon_name_volume_up" translatable="false">volume_up</string>
+    <string name="material_icon_name_video_camera" translatable="false">videocam</string>
+    <string name="material_icon_name_microphone" translatable="false">mic</string>
+    <string name="material_icon_name_payment_accepted" translatable="false">check</string>
+    <string name="material_icon_name_payment_denied" translatable="false">error_outline</string>
+    <string name="material_icon_name_message_editor_send" translatable="false">send</string>
+    <string name="material_icon_name_message_editor_attachment" translatable="false">add</string>
+    <string name="material_icon_name_circled_close_button" tools:ignore="ButtonCase" translatable="false">cancel</string>
+    <string name="material_icon_name_help_outline" translatable="false">help_outline</string>
+    <string name="material_icon_name_replay" translatable="false">replay</string>
+    <string name="material_icon_name_key" translatable="false">vpn_key</string>
+    <string name="material_icon_name_dismiss_modal_down" translatable="false">keyboard_arrow_down</string>
+    <string name="material_icon_name_gif" translatable="false">gif</string>
+    <string name="material_icon_name_verified_user" translatable="false">verified_user</string>
+    <string name="material_icon_name_play_outline" translatable="false">play_circle_outline</string>
+    <string name="material_icon_name_play_circle_filled" translatable="false">play_circle_filled</string>
+    <string name="material_icon_name_cancel" translatable="false">cancel</string>
+    <string name="material_icon_name_add" translatable="false">add</string>
+    <string name="material_icon_name_lens" translatable="false">lens</string>
+    <string name="material_icon_name_block" translatable="false">block</string>
+    <string name="material_icon_name_search" translatable="false">search</string>
+    <string name="material_icon_name_done" translatable="false">done</string>
+    <string name="material_icon_name_expand_more" translatable="false">expand_more</string>
+    <string name="material_icon_name_expand_less" translatable="false">expand_less</string>
+    <string name="material_icon_name_more_horizontal" translatable="false">more_horiz</string>
+
+    <!--  Message Action Material Icons  -->
+    <string name="material_icon_name_message_action_delete" translatable="false">delete</string>
+    <string name="material_icon_name_message_action_copy_text" translatable="false">content_copy</string>
+    <string name="material_icon_name_message_action_copy_link" translatable="false">link</string>
+    <string name="material_icon_name_message_action_copy_pubkey" translatable="false">supervisor_account</string>
+    <string name="material_icon_name_message_action_copy_call_link" translatable="false">link</string>
+    <string name="material_icon_name_message_action_reply" translatable="false">reply</string>
+    <string name="material_icon_name_message_action_resend" translatable="false">redo</string>
+    <string name="material_icon_name_message_action_save_file" translatable="false">file_download</string>
+    <string name="material_icon_name_message_action_flag" translatable="false">flag</string>
+
+    <!--  Invite Status Material Icons  -->
+    <string name="material_icon_name_invite_pending" translatable="false">error</string>
+    <string name="material_icon_name_invite_payment_pending" translatable="false">payment</string>
+    <string name="material_icon_name_invite_payment_sent" translatable="false">sync</string>
+    <string name="material_icon_name_invite_ready" translatable="false">done</string>
+    <string name="material_icon_name_invite_in_progress" translatable="false">sync</string>
+    <string name="material_icon_name_invite_expired" translatable="false">error</string>
+    <string name="material_icon_name_invite_complete" translatable="false">done</string>
+
+    <!--  Group Action Material Icons  -->
+    <string name="material_icon_name_group_action_accept_join_request" translatable="false">done</string>
+    <string name="material_icon_name_group_action_reject_join_request" translatable="false">close</string>
+
+    <!--  Media Type Labels -->
+    <string name="media_type_label_audio">Audio</string>
+    <string name="media_type_label_video">Video</string>
+
+    <!--  Group Pin View -->
+    <string name="group_pin_label">Privacy Setting</string>
+    <string name="new_contact_pin_standard_private_label">Standard PIN / Privacy PIN</string>
+
+    <string name="invalid_url">Invalid URL</string>
+    <string name="relay_url_http_message">The Relay URL to be saved is using \'http\'. Network traffic will not be encrypted. Https is strongly recommended. Please confirm the URL Scheme to use.</string>
+    <string name="relay_url_http_negative_keep_http">http</string>
+    <string name="relay_url_http_positive_change_to_https">https</string>
+
+    <string name="payment_request">Payment Request</string>
+    <string name="amount_n_sats">Amount: %d sats</string>
+    <string name="failed_to_request_payment">Failed to request payment</string>
+
+    <string name="failed_to_approve_member">Failed to approve member</string>
+    <string name="failed_to_reject_member">Failed to reject member</string>
+
+    <string name="newsletter_article">NEWSLETTER ARTICLE</string>
+
+    <string name="subscribe">SUBSCRIBE</string>
+    <string name="unsubscribe">UNSUBSCRIBE</string>
+    <string name="feed_search_following_section">FOLLOWING</string>
+    <string name="feed_search_directory_section">DIRECTORY</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="refresh" translatable="false">Refresh</string>
+    <string name="loading" translatable="false">Loading</string>
+    <string name="refresh_icon" translatable="false">refresh</string>
+    <string name="no_recommendations" translatable="false">No recommendations to show</string>
+
+    <string name="select_badges">Select and customize</string>
+    <string name="your_badges">your tribe badges</string>
+    <string name="badges_title_hint" translatable="false">Badge Title</string>
+    <string name="badges_upload_icon" translatable="false">Upload Icon</string>
+    <string name="badges_requirement" translatable="false">Requirement</string>
+    <string name="badges_quantity" translatable="false">Quantity</string>
+    <string name="badges_price_per_badge" translatable="false">Price per badge</string>
+    <string name="badges_price_total" translatable="false">Total</string>
+    <string name="badges_purchase_badges" translatable="false">Purchase Badges</string>
+    <string name="badges_quantity_button_minus" translatable="false">-</string>
+    <string name="badges_quantity_button_plus" translatable="false">+</string>
+    <string name="badges_icon_dimen_text" translatable="false">PNG, GIF or SVG, Min. Size 512 x512 px</string>
+    <string name="badges_no_found" translatable="false">No badges found</string>
+    <string name="badges_manage_label" translatable="false">Manage Existing Badges</string>
+    <string name="badges_state_label" translatable="false">Toggle active state</string>
+    <string name="badges_template" translatable="false">TEMPLATE</string>
+    <string name="badges_active">ACTIVE</string>
+    <string name="badges_inactive">INACTIVE</string>
+    <string name="badges_template_description">%s at least %s sats in this tribe. </string>
+    <string name="badges_earn" >Earn</string>
+    <string name="badges_spend" >Spend</string>
+    <string name="badges_left" >of %s left</string>
+    <string name="badges_header" translatable="false">Tribe Badges</string>
+    <string name="badges_create_error">Failed to create badge</string>
+    <string name="badges_state_error">Failed to change badge state</string>
+
+    <string name="balance_too_low">Balance too low</string>
+    <string name="boost_amount_too_low">Boost amount must be greater than 0</string>
+
+    <string name="tribe_member_profile_send_sats">Send Sats</string>
+    <string name="tribe_member_profile_earn_badges" translatable="false">Earn Badges</string>
+    <string name="tribe_member_profile_on_chain" translatable="false">ON-CHAIN</string>
+    <string name="tribe_member_profile_price_to_meet">Price to Meet:</string>
+    <string name="tribe_member_profile_badges" translatable="false">Badges</string>
+    <string name="tribe_member_profile_reputation">Reputation</string>
+    <string name="tribe_member_profile_coding_languages">Coding Languages:</string>
+    <string name="tribe_member_profile_post">Posts:</string>
+    <string name="tribe_member_profile_twitter">Twitter:</string>
+    <string name="tribe_member_profile_github">Github:</string>
+    <string name="tribe_member_profile_contributions">Contributions</string>
+    <string name="tribe_member_profile_earnings" translatable="false">Earnings</string>
+    <string name="tribe_member" translatable="false">TRIBE MEMBER</string>
+    <string name="known_badges_title" translatable="false">LIST OF KNOWN BADGES</string>
+
+    <string name="episode_detail_download">Download</string>
+    <string name="episode_detail_erase">Erase from device</string>
+    <string name="episode_detail_share">Share</string>
+    <string name="episode_detail_copy_link">Copy Link</string>
+    <string name="episode_detail_played">Mark as Played</string>
+    <string name="episode_detail_upplayed">Mark as Unplayed</string>
+    <string name="episode_detail_close">CLOSE</string>
+    <string name="episode_detail_clipboard">Link copied to clipboard</string>
+    <string name="episode_detail_share_link">Share episode link</string>
+    <string name="episode_detail_played_holder" translatable="false">Played</string>
+    <string name="episode_description_show_more">SHOW MORE</string>
+    <string name="episode_description_show_less">SHOW LESS</string>
+
+    <string name="time_left">%s left</string>
+
+    <string name="youtube" translatable="false">Youtube</string>
+    <string name="podcast" translatable="false">Podcast</string>
+
+    <string name="alias_allowed_characters">Only letters, numbers and underscore\nare allowed in tribe aliases</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-tribe/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_menu_tribe_header_text">Tribe Options</string>
+    <!-- Menu -->
+    <string name="bottom_menu_tribe_option_share_tribe">Share Tribe QR code</string>
+    <string name="bottom_menu_tribe_option_delete_tribe">Delete Tribe</string>
+    <string name="bottom_menu_tribe_option_exit_tribe">Exit Tribe</string>
+    <string name="bottom_menu_tribe_option_edit_tribe">Edit Tribe</string>
+    <string name="bottom_menu_tribe_option_add_member">Add Member</string>
+</resources>
+----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-scanner/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_menu_scanner_header_text">Public Key Options</string>
+    <!-- Menu -->
+    <string name="bottom_menu_scanner_option_set_create_contact">Create Contact</string>
+    <string name="bottom_menu_scanner_option_set_direct_payment">Send Direct Payment</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-share-qr-code/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_menu_share_qr_code_header_text">Share QR Code Options</string>
+    <!-- Menu -->
+    <string name="bottom_menu_share_qr_code_option_share_text">Share Text</string>
+    <string name="bottom_menu_share_qr_code_option_save_and_share_image">Save and Share Image</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-picture/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_menu_profile_pic_option_camera">Camera</string>
+    <string name="bottom_menu_profile_pic_option_photo_library">Photo Library</string>
+</resources>----------
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom/src/main/res/values-b+fil/strings.xml~~
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_bottom_header_subtext">Please select an option</string>
+    <string name="menu_bottom_dismiss">Dismiss</string>
+    <string name="menu_bottom_cancel">Cancel</string>
+</resources>----------

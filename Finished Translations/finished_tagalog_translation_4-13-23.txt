@@ -1,0 +1,1348 @@
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/WebAppsAndPodcasts/en.lproj/WebApps.strings~~
+
+
+/* Class = "UILabel"; text = "SATS EARNED"; ObjectID = "L59-9f-2z9"; */
+"L59-9f-2z9.text" = "SATS NA NAIPON";
+
+
+"bmE-a4-L39.text" = "BAGONG EPISODE";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/WebAppsAndPodcasts/Views/en.lproj/AuthorizeAppView.strings~~
+
+
+/* Class = "UIButton"; normalTitle = "AUTHORIZE"; ObjectID = "gJV-Mb-BKs"; 
+*/
+"gJV-Mb-BKs.normalTitle" = "PAHINTULUTAN";
+
+
+/* Class = "UILabel"; text = "sats before reauthorizing"; ObjectID = 
+"hnl-fy-YH4"; */
+"hnl-fy-YH4.text" = "sats bago pahintulutan muli";
+
+
+/* Class = "UILabel"; text = "Authorize"; ObjectID = "or5-Hw-Tjf"; */
+"or5-Hw-Tjf.text" = "Pahintulutan";
+
+
+/* Class = "UILabel"; text = "to withdraw up to"; ObjectID = "x6U-ec-b6h"; 
+*/
+"x6U-ec-b6h.text" = "mag withdraw hanggang";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Pin/en.lproj/Pin.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "ENTER PIN"; ObjectID = "2Ad-3F-LRd"; */
+"2Ad-3F-LRd.text" = "IPASOK ANG PIN";
+
+
+/* Class = "UILabel"; text = "CHOOSE PIN"; ObjectID = "JQG-3J-yyD"; */
+"JQG-3J-yyD.text" = "PUMILI NG PIN";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/QR Code 
+Details/en.lproj/QRCodeDetail.strings~~
+
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "4kd-55-TFX"; 
+*/
+"4kd-55-TFX.normalTitle" = "KUMPIRMAHIN";
+
+
+/* Class = "UILabel"; text = "Generate Invoice"; ObjectID = "Eej-fz-fO1"; 
+*/
+"Eej-fz-fO1.text" = "Bumuo ng Invoice";
+
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "R9A-Rd-gNX"; */
+"R9A-Rd-gNX.normalTitle" = "Ibahagi";
+
+
+/* Class = "UILabel"; text = "Amount: "; ObjectID = "VB7-rS-zTG"; */
+"VB7-rS-zTG.text" = "Halaga: ";
+
+
+/* Class = "UILabel"; text = "PAID"; ObjectID = "daJ-Bf-qdS"; */
+"daJ-Bf-qdS.text" = "BINAYARAN";
+
+
+/* Class = "UIButton"; normalTitle = "Copy"; ObjectID = "t6Q-AH-Dpt"; */
+"t6Q-AH-Dpt.normalTitle" = "Kopya";
+
+
+/* Class = "UILabel"; text = "PUBLIC KEY"; ObjectID = "xtc-ef-mNL"; */
+"xtc-ef-mNL.text" = "PAMPUBLIKONG SUSI";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/en.lproj/Chat.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Camera"; ObjectID = "2gk-Fb-5y1"; */
+"2gk-Fb-5y1.text" = "Camera";
+
+
+/* Class = "UILabel"; text = "Set a price and enter your message."; 
+ObjectID = "4FV-0A-lup"; */
+"4FV-0A-lup.text" = "Magtakda ng presyo at ilagay ang iyong mensahe.";
+
+
+/* Class = "UILabel"; text = "Loading Templates..."; ObjectID = 
+"BeD-Td-UVZ"; */
+"BeD-Td-UVZ.text" = "Naglo-load ng Mga Template...";
+
+
+/* Class = "UILabel"; text = "SET PRICE"; ObjectID = "EGL-XG-Ej5"; */
+"EGL-XG-Ej5.text" = "MAGTAKDA NG PRESYO";
+
+
+/* Class = "UILabel"; text = "Paid Message"; ObjectID = "F2I-3M-f6u"; */
+"F2I-3M-f6u.text" = "Bayad na Mensahe";
+
+
+/* Class = "UILabel"; text = "Request"; ObjectID = "HTw-wx-D0f"; */
+"HTw-wx-D0f.text" = "Humiling";
+
+
+/* Class = "UILabel"; text = "REQUEST AMOUNT"; ObjectID = "JH8-XK-2TQ"; */
+"JH8-XK-2TQ.text" = "HUMILING NG HALAGA";
+
+
+/* Class = "UILabel"; text = "Send"; ObjectID = "NHj-ji-e9m"; */
+"NHj-ji-e9m.text" = "Ipadala";
+
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "RCs-d3-bab"; 
+*/
+"RCs-d3-bab.normalTitle" = "KUMPIRMAHIN";
+
+
+/* Class = "UILabel"; text = "From"; ObjectID = "UY6-eK-1Qs"; */
+"UY6-eK-1Qs.text" = "Galing kay/sa";
+
+
+/* Class = "UILabel"; text = "SEND IMAGE"; ObjectID = "ZEJ-HW-iL9"; */
+"ZEJ-HW-iL9.text" = "MAGPADALA NG IMAHE";
+
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "aEd-yg-3LK"; 
+*/
+"aEd-yg-3LK.placeholder" = "Maghanap";
+
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "bqg-tt-jE5"; */
+"bqg-tt-jE5.normalTitle" = "KANSELAHIN";
+
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "dgR-PH-JGP"; 
+*/
+"dgR-PH-JGP.normalTitle" = "KOMPIRMAHIN";
+
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "fwf-Iy-Dpd"; 
+*/
+"fwf-Iy-Dpd.normalTitle" = "KOMPIRMAHIN";
+
+
+/* Class = "UITextField"; placeholder = "No Message"; ObjectID = 
+"mnK-0f-aOi"; */
+"mnK-0f-aOi.placeholder" = "Walang Mensahe";
+
+
+/* Class = "UITextField"; placeholder = "Add Message"; ObjectID = 
+"uzk-r4-4Vh"; */
+"uzk-r4-4Vh.placeholder" = "Magdagdag ng Mensahe";
+
+
+/* Class = "UILabel"; text = "Library"; ObjectID = "vqQ-dy-2SC"; */
+"vqQ-dy-2SC.text" = "Library";
+
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "x1w-R5-F90"; 
+*/
+"x1w-R5-F90.normalTitle" = "KUMPIRMAHIN";
+
+
+/* Class = "UILabel"; text = "REQUEST: "; ObjectID = "ypU-tY-BWb"; */
+"ypU-tY-BWb.text" = "HUMILING: ";
+
+
+"vI1-az-0QI.text" = "File";
+
+
+"SpZ-Zf-bcC.text" = "Mga Notipikasyon";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View 
+Cells/Chat/Received/en.lproj/ExpiredInvoiceReceivedTableViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "REQUEST EXPIRED"; ObjectID = "v2S-lD-9aN"; 
+*/
+"v2S-lD-9aN.text" = "EXPIRED NA ANG KAHILINGAN";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View 
+Cells/Chat/Received/en.lproj/DeletedMessageReceivedTableViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "This message has been deleted"; ObjectID = 
+"GGd-Id-cgM"; */
+"GGd-Id-cgM.text" = "Ang mensaheng ito ay tinanggal na";
+
+
+/* Class = "UILabel"; text = "Monday 6:05 AM"; ObjectID = "LJJ-F6-lrB"; */
+"LJJ-F6-lrB.text" = "Lunes 6:05 AM";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Received/en.lproj/InvoiceReceivedTableViewCell.strings~~
+
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "wUm-4G-XfL"; */
+"wUm-4G-XfL.text" = "MAGBAYAD";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Groups/en.lproj/GroupRemovedTableViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "The admin has removed \nyou from this 
+group"; ObjectID = "bMf-V2-wL4"; */
+"bMf-V2-wL4.text" = "Inalis ka ng admin sa tribong ito";
+
+
+/* Class = "UIButton"; normalTitle = "Delete group"; ObjectID = 
+"o85-do-HbP"; */
+"o85-do-HbP.normalTitle" = "Tanggalin ang tribo";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Groups/en.lproj/GroupLeaveTableViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Tomas just left the group"; ObjectID = 
+"Tkv-4T-hEB"; */
+"Tkv-4T-hEB.text" = "Si Tomas ay umalis na sa grupo";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Sent/en.lproj/InvoiceSentTableViewCell.strings~~
+
+
+/* Class = "UILabel"; text = "Expire in 39 minutes"; ObjectID = 
+"gIK-Ok-irq"; */
+"gIK-Ok-irq.text" = "Mag-e-expire sa loob ng 39 minutos";
+
+
+/* Class = "UILabel"; text = "CANCEL"; ObjectID = "wUm-4G-XfL"; */
+"wUm-4G-XfL.text" = "KANSELAHIN";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Sent/en.lproj/ExpiredInvoiceSentTableViewCell.strings~~
+
+
+/* Class = "UILabel"; text = "REQUEST EXPIRED"; ObjectID = "gji-Ko-PF6"; 
+*/
+"gji-Ko-PF6.text" = "EXPIRED NA ANG KAHILINGAN";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Sent/en.lproj/DeletedMessageSentTableViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "This message has been deleted"; ObjectID = 
+"j3D-OC-PiZ"; */
+"j3D-OC-PiZ.text" = "Ang mensaheng ito ay tinanggal na";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Table 
+View Cells/Chat/Common/en.lproj/LoadingMoreTableViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Loading more messages..."; ObjectID = 
+"MkL-m8-DI3"; */
+"MkL-m8-DI3.text" = "Naglo-load ng higit pang mga mensahe...";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Keyboard Accessory Views/en.lproj/ChatAccessoryView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Slide to cancel"; ObjectID = "iLc-z6-RUC"; 
+*/
+"iLc-z6-RUC.text" = "I-slide para kanselahin";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Video Call Views/en.lproj/JoinVideoCallView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "VIDEO"; ObjectID = "1dd-eP-y7r"; */
+"1dd-eP-y7r.text" = "VIDEO";
+
+
+/* Class = "UILabel"; text = "JOIN CALL BY ..."; ObjectID = "HpA-EW-kei"; 
+*/
+"HpA-EW-kei.text" = "SUMALI SA TAWAG NI ...";
+
+
+/* Class = "UILabel"; text = "COPY LINK"; ObjectID = "VWO-or-LC3"; */
+"VWO-or-LC3.text" = "KOPYAHIN ANG LINK";
+
+
+/* Class = "UILabel"; text = "AUDIO"; ObjectID = "cgF-Zn-a7l"; */
+"cgF-Zn-a7l.text" = "AUDIO";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Link Preview Views/en.lproj/TribeLinkPreviewView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "SEE TRIBE"; ObjectID = "CqD-fw-U0a"; */
+"CqD-fw-U0a.text" = "TINGNAN ANG TRIBO";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Link Preview Views/en.lproj/ContactLinkPreviewView.strings~~
+
+
+/* Class = "UILabel"; text = "ADD CONTACT"; ObjectID = "lRf-of-dIg"; */
+"lRf-of-dIg.text" = "MAGDAGDAG NG CONTACT";
+
+
+/* Class = "UILabel"; text = "New Contact"; ObjectID = "usc-2z-GcC"; */
+"usc-2z-GcC.text" = "Bagong Contact";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Paid Attachments/en.lproj/PaidAttachmentView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Processing payment..."; ObjectID = 
+"8g0-gq-jaf"; */
+"8g0-gq-jaf.text" = "Pinoproseso ang Bayad...";
+
+
+/* Class = "UILabel"; text = "Purchase Succeeded"; ObjectID = 
+"DbX-b0-czT"; */
+"DbX-b0-czT.text" = "Nagtagumpay ang Pagbili";
+
+
+/* Class = "UILabel"; text = "PAY"; ObjectID = "l1j-i5-mZA"; */
+"l1j-i5-mZA.text" = "MAGBAYAD";
+
+
+/* Class = "UILabel"; text = "Purchase Denied"; ObjectID = "sRP-LE-M0I"; 
+*/
+"sRP-LE-M0I.text" = "Tinanggihan ang Pagbili";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Tribe Member/en.lproj/TribeMemberProfileView.strings~~
+
+
+/* Class = "UILabel"; text = "Twitter:"; ObjectID = "EmP-GM-zJF"; */
+"EmP-GM-zJF.text" = "Twitter:";
+
+
+/* Class = "UILabel"; text = "Send Sats"; ObjectID = "Gx0-Ka-gEI"; */
+"Gx0-Ka-gEI.text" = "Magpadala ng Sats";
+
+
+/* Class = "UILabel"; text = "Coding Languages:"; ObjectID = "UC6-pY-l3d"; 
+*/
+"UC6-pY-l3d.text" = "Mga Lenguahe sa Coding:";
+
+
+/* Class = "UILabel"; text = "Github:"; ObjectID = "ocu-Vn-YXc"; */
+"ocu-Vn-YXc.text" = "Github:";
+
+
+/* Class = "UILabel"; text = "Posts:"; ObjectID = "osi-cQ-o2N"; */
+"osi-cQ-o2N.text" = "Mga Post:";
+
+
+/* Class = "UILabel"; text = "Price to meet:"; ObjectID = "yPE-dF-xP1"; */
+"yPE-dF-xP1.text" = "Presyo dapat matugunan:";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Chat/Custom 
+Views/Tribe Member/en.lproj/TribeMemberPopupView.strings~~
+
+
+/* Class = "UIButton"; normalTitle = "Send Sats"; ObjectID = "veM-Gb-Qy2"; 
+*/
+"veM-Gb-Qy2.normalTitle" = "Magpadala ng Sats";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Newsletter 
+Feed/en.lproj/NewsletterFeed.strings~~
+
+
+/* Class = "UILabel"; text = "CLOSE"; ObjectID = "Jqh-Vj-c4r"; */
+"Jqh-Vj-c4r.text" = "ISARA";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Contacts/en.lproj/Contacts.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "ADDRESS BOOK"; ObjectID = "0QV-li-AOO"; */
+"0QV-li-AOO.text" = "ADDRESS BOOK";
+
+
+/* Class = "UILabel"; text = "Address *"; ObjectID = "39P-Xw-u5x"; */
+"39P-Xw-u5x.text" = "Address *";
+
+
+"vHf-rK-nEW.text" = "Hint ng Ruta";
+
+
+/* Class = "UILabel"; text = "Nickname *"; ObjectID = "7eV-VN-bp2"; */
+"7eV-VN-bp2.text" = "Palayaw *";
+
+
+/* Class = "UIButton"; normalTitle = "SUBSCRIBE"; ObjectID = "OiJ-fJ-jK3"; 
+*/
+"OiJ-fJ-jK3.normalTitle" = "MAG-SUBSCRIBE";
+
+
+/* Class = "UILabel"; text = "Email *"; ObjectID = "WXR-op-lDc"; */
+"WXR-op-lDc.text" = "PIN ng Grupo *";
+
+
+/* Class = "UILabel"; text = "NEW CONTACT"; ObjectID = "fLm-O4-dUI"; */
+"fLm-O4-dUI.text" = "BAGONG CONTACT";
+
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "hvF-Lr-QK6"; 
+*/
+"hvF-Lr-QK6.placeholder" = "Maghanap";
+
+
+/* Class = "UILabel"; text = "SAVE TO CONTACTS"; ObjectID = "o1h-CK-PTE"; 
+*/
+"o1h-CK-PTE.text" = "I-SAVE SA MGA CONTACT";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Contacts/Custom 
+Views/en.lproj/GroupPinView.strings~~
+
+
+/* Class = "UILabel"; text = "Group PIN"; ObjectID = "nHw-HO-PXI"; */
+"nHw-HO-PXI.text" = "Setting ng Privacy";
+
+
+"RSH-gY-dua.text" = "Karaniwang PIN / PribadongPIN";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Groups/en.lproj/Groups.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "NEW PUBLIC GROUP"; ObjectID = "09K-rw-bxW"; 
+*/
+"09K-rw-bxW.text" = "BAGONG TRIBO";
+
+
+/* Class = "UIButton"; normalTitle = "Private Group"; ObjectID = 
+"0jO-Oq-zlh"; */
+"0jO-Oq-zlh.normalTitle" = "Pribadong Grupo";
+
+
+/* Class = "UILabel"; text = "Price per Message"; ObjectID = "1AU-Kq-NxC"; 
+*/
+"1AU-Kq-NxC.text" = "Presyo bawat Mensahe";
+
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "2pl-oP-RXu"; */
+"2pl-oP-RXu.normalTitle" = "SUSUNOD";
+
+
+/* Class = "UILabel"; text = "Uploaded: 0%"; ObjectID = "2zj-we-RkJ"; */
+"2zj-we-RkJ.text" = "Na-upload: 0%";
+
+
+/* Class = "UILabel"; text = "Description *"; ObjectID = "3RB-pb-8A5"; */
+"3RB-pb-8A5.text" = "Paglalarawan*";
+
+
+/* Class = "UITextField"; placeholder = "Search Group Members"; ObjectID = 
+"3Rf-Vh-ZtY"; */
+"3Rf-Vh-ZtY.placeholder" = "Maghanap ng mga Miyembro ng Grupo";
+
+
+/* Class = "UILabel"; text = "Pay Group Members"; ObjectID = "7HA-dj-Isx"; 
+*/
+"7HA-dj-Isx.text" = "Bayarang ang mga Miyembro ng Grupo";
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "COk-lR-gi7"; */
+"COk-lR-gi7.normalTitle" = "TAPOS";
+
+
+/* Class = "UILabel"; text = "JOIN PUBLIC GROUP"; ObjectID = "FSe-ea-ym5"; 
+*/
+"FSe-ea-ym5.text" = "SUMALI SA TRIBO";
+
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "JYV-Fj-Rzu"; */
+"JYV-Fj-Rzu.normalTitle" = "KANSELAHIN";
+
+
+/* Class = "UITextField"; placeholder = "Search People"; ObjectID = 
+"K3Z-8Q-JIa"; */
+"K3Z-8Q-JIa.placeholder" = "Maghanap ng mga Tao";
+
+
+/* Class = "UILabel"; text = "NEW GROUP"; ObjectID = "NhF-8s-bSd"; */
+"NhF-8s-bSd.text" = "BAGONG GRUPO";
+
+
+/* Class = "UILabel"; text = "Group Details"; ObjectID = "O1K-P2-cv9"; */
+"O1K-P2-cv9.text" = "Mga Detalye ng Grupo";
+
+
+/* Class = "UILabel"; text = "Uploading Image..."; ObjectID = 
+"Qmc-Nz-Qwz"; */
+"Qmc-Nz-Qwz.text" = "Nag-a-upload ng Imahe...";
+
+
+/* Class = "UIButton"; normalTitle = "Public Group"; ObjectID = 
+"Uer-jc-pey"; */
+"Uer-jc-pey.normalTitle" = "Pampublikong Grupo";
+
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "b5K-e6-WAd"; */
+"b5K-e6-WAd.normalTitle" = "SUSUNOD";
+
+
+/* Class = "UITextField"; placeholder = "Group Name"; ObjectID = 
+"blf-J3-yxP"; */
+"blf-J3-yxP.placeholder" = "Pangalan ng Grupo";
+
+
+/* Class = "UILabel"; text = "Time to Stake: (hours)"; ObjectID = 
+"bwz-DD-5Qu"; */
+"bwz-DD-5Qu.text" = "Oras para sa Stake: (oras)";
+
+
+/* Class = "UILabel"; text = "Loading Group info..."; ObjectID = 
+"c99-Vi-65m"; */
+"c99-Vi-65m.text" = "Nilo-load ang impormasyon ng Tribo...";
+
+
+/* Class = "UIButton"; normalTitle = "CREATE GROUP"; ObjectID = 
+"cf2-1k-Ril"; */
+"cf2-1k-Ril.normalTitle" = "GUMAWA NG TRIBO";
+
+
+/* Class = "UILabel"; text = "Select Contacts"; ObjectID = "cgj-ca-WOq"; 
+*/
+"cgj-ca-WOq.text" = "Piliin ang Mga Contact";
+
+
+/* Class = "UILabel"; text = "Tags"; ObjectID = "dbS-d6-I3s"; */
+"dbS-d6-I3s.text" = "Tags";
+
+
+/* Class = "UILabel"; text = "Amount to Stake:"; ObjectID = "gVi-4b-hTN"; 
+*/
+"gVi-4b-hTN.text" = "Halaga sa Stake:";
+
+
+/* Class = "UIButton"; normalTitle = "JOIN GROUP"; ObjectID = 
+"jpH-eJ-Dbz"; */
+"jpH-eJ-Dbz.normalTitle" = "SUMALI SA TRIBO";
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "m8D-yB-Qoq"; */
+"m8D-yB-Qoq.normalTitle" = "TAPOS";
+
+
+/* Class = "UILabel"; text = "Price per Message:"; ObjectID = 
+"osg-OM-VAr"; */
+"osg-OM-VAr.text" = "Price per Message:";
+
+
+/* Class = "UILabel"; text = "Price to Join:"; ObjectID = "qvX-dy-6Gx"; */
+"qvX-dy-6Gx.text" = "Presyo sa Pagsali:";
+
+
+/* Class = "UILabel"; text = "Price to Join"; ObjectID = "rC4-MQ-7tj"; */
+"rC4-MQ-7tj.text" = "Presyo sa Pagsali";
+
+
+/* Class = "UILabel"; text = "Group Image"; ObjectID = "rTn-ps-L7c"; */
+"rTn-ps-L7c.text" = "Imahe";
+
+
+/* Class = "UILabel"; text = "Amount to Stake"; ObjectID = "tF7-eB-zYG"; 
+*/
+"tF7-eB-zYG.text" = "Halaga para sa Stake";
+
+
+/* Class = "UILabel"; text = "Name *"; ObjectID = "tKb-aq-70S"; */
+"tKb-aq-70S.text" = "Pangalan *";
+
+
+/* Class = "UILabel"; text = "Time to Stake (hours)"; ObjectID = 
+"tvJ-jS-VqC"; */
+"tvJ-jS-VqC.text" = "Oras para sa Stake (oras)";
+
+
+"xZk-s2-JIf.text" = "App Url";
+
+
+"XEl-j5-cm2.text" = "Feed Url";
+
+
+"xEP-Yp-HDB.text" = "Uri ng Nilalaman ng Feed";
+
+
+/* Class = "UILabel"; text = "New Group Chat"; ObjectID = "uMU-CU-DoL"; */
+"uMU-CU-DoL.text" = "Bagong Pang-grupong Chat";
+
+
+"IjR-gq-j9u.text" = "Listahan sa tribes.sphinx.chat?";
+
+
+"9fz-nc-HRb.text" = "Aprubahan ang bawat kahilingan para sa membership?";
+
+
+"9fa-JQ-04V.text" = "Nag-a-upload ng larawan...";
+
+
+"TWz-rt-SOH.text" = "MAGDAGDAG NG MIYEMBRO SA GRUPO";
+
+
+"1aq-Kg-Gvl.text" = "Alyas *";
+
+
+"WbN-e3-yid.text" = "Larawan ng Miyembro ng Tribo";
+
+
+"6Ml-t1-tHR.text" = "Pampublikong Susi*";
+
+
+"IOB-X9-wYC.text" = "Hint ng Ruta";
+
+
+"Hzg-6R-zf4.text" = "Susing Pang-contact *";
+
+
+"Kjs-er-Gfs.normalTitle" = "Magdagdag ng Miyembro";
+
+
+"2R1-bw-8cr.text" = "Nag-a-upload ng Imahe...X";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Groups/Public 
+Groups/Custom Views/en.lproj/TribeMemberInfoView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "My Picture"; ObjectID = "TBo-qO-YPB"; */
+"TBo-qO-YPB.text" = "Larawan sa Profile";
+
+
+/* Class = "UILabel"; text = "Alias"; ObjectID = "hDK-Gq-EAB"; */
+"hDK-Gq-EAB.text" = "Alyas";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Welcome/en.lproj/Welcome.strings~~
+
+
+"YtW-6G-FRm.text" = " Mag-diskubre ng mga Tribo";
+
+
+"LOo-lS-kW4.text" = "Walang Nahanap na Resulta";
+
+
+"TsO-mV-85A.text" = "Tags";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Recommendations/Recommendations 
+Player/Recommendation 
+Cell/en.lproj/RecommendationsHeaderCollectionReusableView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Recommendations"; ObjectID = "Ivx-H6-IB1"; 
+*/
+"Ivx-H6-IB1.text" = "Mga Rekomendasyon";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Subscriptions/en.lproj/Subscription.strings~~
+
+
+/* Class = "UILabel"; text = "sat / month"; ObjectID = "egx-me-iNi"; */
+"egx-me-iNi.text" = "sat / buwan";
+
+
+/* Class = "UIButton"; normalTitle = "SUBSCRIBE"; ObjectID = "j5w-7K-euL"; 
+*/
+"j5w-7K-euL.normalTitle" = "MAG-SUBSCRIBE";
+
+
+/* Class = "UILabel"; text = "RECURRING"; ObjectID = "sHc-7M-z7f"; */
+"sHc-7M-z7f.text" = "INUULIT-ULIT";
+
+
+/* Class = "UILabel"; text = "Pay until:"; ObjectID = "tPr-km-QZm"; */
+"tPr-km-QZm.text" = "Magbayad hanggang:";
+
+
+/* Class = "UILabel"; text = "ACTIVE"; ObjectID = "tX4-KT-z3P"; */
+"tX4-KT-z3P.text" = "AKTIBO";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Subscriptions/Custom 
+Views/en.lproj/SubscriptionAmountView.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "6kD-b4-dmx"; */
+"6kD-b4-dmx.normalTitle" = "TAPOS";
+
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "OW6-Fc-9Ei"; */
+"OW6-Fc-9Ei.normalTitle" = "KANSELAHIN";
+
+
+/* Class = "UILabel"; text = "Custom amount:"; ObjectID = "Z49-ZY-yl7"; */
+"Z49-ZY-yl7.text" = "Mag-sadya ng halaga:";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Subscriptions/Custom 
+Views/en.lproj/SubscriptionTimeIntervalView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Weekly"; ObjectID = "8qG-zu-P4U"; */
+"8qG-zu-P4U.text" = "Lingguhan";
+
+
+/* Class = "UILabel"; text = "Monthly"; ObjectID = "D1Q-ch-K0W"; */
+"D1Q-ch-K0W.text" = "Buwanan";
+
+
+/* Class = "UILabel"; text = "Daily"; ObjectID = "TC2-KU-45W"; */
+"TC2-KU-45W.text" = "Araw-araw";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Subscriptions/Custom 
+Views/en.lproj/SubscriptionEndRuleView.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "GbQ-xN-c4F"; */
+"GbQ-xN-c4F.normalTitle" = "KANSELAHIN";
+
+
+/* Class = "UILabel"; text = "Pay until"; ObjectID = "MtN-hi-VeI"; */
+"MtN-hi-VeI.text" = "Magbayad hanggang";
+
+
+/* Class = "UILabel"; text = "Payments"; ObjectID = "XDq-qi-RaU"; */
+"XDq-qi-RaU.text" = "Mga Pagbabayad";
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "Zh5-LL-F2J"; */
+"Zh5-LL-F2J.normalTitle" = "TAPOS";
+
+
+/* Class = "UILabel"; text = "Make"; ObjectID = "dIl-Hs-vmD"; */
+"dIl-Hs-vmD.text" = "Gawin";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Left 
+Menu/en.lproj/LeftMenu.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "8Et-S7-VDq"; */
+"8Et-S7-VDq.normalTitle" = "TAPOS";
+
+
+/* Class = "UIButton"; normalTitle = "Send Message"; ObjectID = 
+"VUd-ZZ-tSV"; */
+"VUd-ZZ-tSV.normalTitle" = "Magpadala ng Mensahe";
+
+
+/* Class = "UITextView"; text = "Describe your problem here..."; ObjectID 
+= "bKo-Co-okt"; */
+"bKo-Co-okt.text" = "Ipaliwanag ang iyong problema dito...";
+
+
+/* Class = "UILabel"; text = "SUPPORT"; ObjectID = "gKM-ns-Slb"; */
+"gKM-ns-Slb.text" = "SUPORTA";
+
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "mmQ-nD-ZJe"; */
+"mmQ-nD-ZJe.normalTitle" = "KANSELAHIN";
+
+
+/* Class = "UIButton"; normalTitle = "Support"; ObjectID = "qb1-rZ-TSG"; 
+*/
+"qb1-rZ-TSG.normalTitle" = "Suporta";
+
+
+/* Class = "UIButton"; normalTitle = "Copy Logs"; ObjectID = "rQP-gW-ald"; 
+*/
+"rQP-gW-ald.normalTitle" = "Kopyahin ang Logs";
+
+
+"oxd-6a-boA.text" = "MAGDAGDAG NG  SATS";
+
+
+"naX-fJ-3cb.text" = "Para sa/kay";
+
+
+"4Q5-5T-a5h.normalTitle" = "KOPYA";
+
+
+"it3-mD-nqd.text" = "Mangyaring magpadala sa pagitan ng 0.0005 at 0.005 
+Bitcoin. Pagkatapos makumpirma ang transaksyon, idadagdag ito sa iyong 
+account.";
+
+
+"rHy-Kt-UHY.text" = "BUKSAN";
+
+
+"mhE-Dp-blS.text" = "Nag-gegenerate ng address...";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Dashboard/en.lproj/Dashboard.strings~~
+
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "ef7-It-4Rs"; 
+*/
+"ef7-It-4Rs.placeholder" = "Maghanap";
+
+
+/* Class = "UIButton"; configuration.title = "Add Tribe"; ObjectID = 
+"vfi-ch-n2c"; */
+"vfi-ch-n2c.configuration.title" = "Mag-dagdag ng Tribo";
+
+
+"Re9-Eb-2Gh.title" = "ISARA"
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Dashboard/Feeds/Feed 
+Content/Recommendations/en.lproj/LoadingRecommendationsCollectionViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Loading Recommendations..."; ObjectID = 
+"hpu-2c-Qbo"; */
+"hpu-2c-Qbo.text" = "Naglo-load ng Mga Rekomendasyon...";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Dashboard/Feeds/Feed 
+Content/Recommendations/en.lproj/NoRecommendationsCollectionViewCell.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "No Recommendations found"; ObjectID = 
+"tHO-dq-WgS"; */
+"tHO-dq-WgS.text" = "Walang nakitang Rekomendasyon";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Dashboard/Custom 
+Views/en.lproj/RestoreProgressView.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Resuming Restore..."; ObjectID = 
+"NOq-cH-hgj"; */
+"NOq-cH-hgj.text" = "Ipagpatuloy ang Pagpapanumbalik
+...";
+
+
+/* Class = "UIButton"; normalTitle = "FINISH RESTORING"; ObjectID = 
+"NtL-An-bdW"; */
+"NtL-An-bdW.normalTitle" = "MAGPATULOY MAMAYA";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Invite/en.lproj/Invite.strings~~
+
+
+/* Class = "UITextField"; placeholder = "Set Your Name"; ObjectID = 
+"1ma-e3-9jK"; */
+"1ma-e3-9jK.placeholder" = "Itakda ang Iyong Pangalan";
+
+
+/* Class = "UILabel"; text = "Select Image"; ObjectID = "2P2-S1-noc"; */
+"2P2-S1-noc.text" = "Pumili ng Imahe";
+
+
+/* Class = "UIButton"; normalTitle = "New to Sphinx"; ObjectID = 
+"3rN-VK-zKy"; */
+"3rN-VK-zKy.normalTitle" = "Bago sa Sphinx";
+
+
+/* Class = "UILabel"; text = "ADD FRIEND"; ObjectID = "4Mg-Nw-7iA"; */
+"4Mg-Nw-7iA.text" = "MAG-DAGDAG NG KAIBIGAN";
+
+
+/* Class = "UILabel"; text = "INCLUDE A MESSAGE..."; ObjectID = 
+"DsE-7M-zzl"; */
+"DsE-7M-zzl.text" = "MAGSAMA NG MENSAHE...";
+
+
+/* Class = "UIButton"; normalTitle = "Already on Sphinx"; ObjectID = 
+"Mi0-in-ems"; */
+"Mi0-in-ems.normalTitle" = "Nasa Sphinx na";
+
+
+/* Class = "UILabel"; text = "FINISH"; ObjectID = "Oe8-KJ-BtX"; */
+"Oe8-KJ-BtX.text" = "TAPOS NA";
+
+
+/* Class = "UITextField"; placeholder = "Enter code..."; ObjectID = 
+"QEu-hq-fQQ"; */
+"QEu-hq-fQQ.placeholder" = "Ipasok ang code...";
+
+
+/* Class = "UILabel"; text = "Restore from Keychain"; ObjectID = 
+"RQP-ey-bcd"; */
+"RQP-ey-bcd.text" = "I-restore mula sa Keychain";
+
+
+/* Class = "UILabel"; text = "SHARE"; ObjectID = "UO4-zg-C4j"; */
+"UO4-zg-C4j.text" = "IBAHAGI";
+
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "URL-hB-8Yz"; */
+"URL-hB-8Yz.normalTitle" = "SUSUNOD";
+
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "VS5-RC-luB"; */
+"VS5-RC-luB.text" = "Maligayang pagdating";
+
+
+/* Class = "UILabel"; text = "You're ready\nto use Sphinx!"; ObjectID = 
+"c8r-pr-tER"; */
+"c8r-pr-tER.text" = "Handa ka ng gamitin ang Sphinx!";
+
+
+/* Class = "UIButton"; normalTitle = "NEXT"; ObjectID = "fJ5-mk-nZs"; */
+"fJ5-mk-nZs.normalTitle" = "SUSUNOD";
+
+
+/* Class = "UITextView"; text = "Welcome to Sphinx!"; ObjectID = 
+"iUT-7o-yHP"; */
+"iUT-7o-yHP.text" = "Maligayang pagdating sa Sphinx!";
+
+
+/* Class = "UIButton"; normalTitle = "Create Invitation"; ObjectID = 
+"k95-oK-Zox"; */
+"k95-oK-Zox.normalTitle" = "Gumawa ng Imbitasyon";
+
+
+/* Class = "UILabel"; text = "ESTIMATED COST"; ObjectID = "kW7-Wb-3DM"; */
+"kW7-Wb-3DM.text" = "TINATAYANG HALAGA";
+
+
+/* Class = "UILabel"; text = "Your Name"; ObjectID = "klr-jZ-Odd"; */
+"klr-jZ-Odd.text" = "Ang pangalan mo";
+
+
+/* Class = "UILabel"; text = "TAP TO COPY"; ObjectID = "pgo-lA-YWw"; */
+"pgo-lA-YWw.text" = "I-TAP UPANG MAKOPYA";
+
+
+/* Class = "UILabel"; text = "ADD FRIEND"; ObjectID = "rLb-IH-R1w"; */
+"rLb-IH-R1w.text" = "MAGDAGDAG NG KAIBIGAN";
+
+
+/* Class = "UILabel"; text = "SHARE INVITATION CODE"; ObjectID = 
+"vd2-aU-H2Y"; */
+"vd2-aU-H2Y.text" = "IBAHAGI ANG INVITATION CODE";
+
+
+/* Class = "UILabel"; text = "\"Welcome to Sphinx!\""; ObjectID = 
+"vl8-eB-4he"; */
+"vl8-eB-4he.text" = "\"Welcome to Sphinx!\"";
+
+
+/* Class = "UILabel"; text = "You've been invited\nto join Sphinx!"; 
+ObjectID = "xrd-8B-iyR"; */
+"xrd-8B-iyR.text" = "Inimbitahan ka upang sumali sa Sphinx!";
+
+
+/* Class = "UILabel"; text = "NICKNAME"; ObjectID = "xrn-Sz-iM3"; */
+"xrn-Sz-iM3.text" = "PALAYAW";
+
+
+/* Class = "UILabel"; text = "Get Started"; ObjectID = "zc0-Xh-U1c"; */
+"zc0-Xh-U1c.text" = "Magsimula";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Invite/Custom 
+Views/en.lproj/AddFriendRowButton.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "Add Friend"; ObjectID = "29C-Oy-Bxb"; */
+"29C-Oy-Bxb.text" = "Magdagdag ng Kaibigan";
+
+
+/* Class = "UILabel"; text = "Create Group"; ObjectID = "LZc-5P-LQX"; */
+"LZc-5P-LQX.text" = "Gumawa ng Grupo";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/New User 
+Signup/en.lproj/NewUserSignup.strings~~
+
+
+
+
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Profile/en.lproj/Profile.strings~~
+
+
+/* Class = "UILabel"; text = "PROFILE"; ObjectID = "41O-R2-bE7"; */
+"41O-R2-bE7.text" = "PROFILE";
+
+
+/* Class = "UILabel"; text = "Meeting Server"; ObjectID = "8d4-ou-aLA"; */
+"8d4-ou-aLA.text" = "Meeting Server";
+
+
+/* Class = "UILabel"; text = "Invite Server"; ObjectID = "9WV-Bo-DnX"; */
+"9WV-Bo-DnX.text" = "Mag-imbita ng Server";
+
+
+/* Class = "UILabel"; text = "User Name"; ObjectID = "ETI-Y9-dAa"; */
+"ETI-Y9-dAa.text" = "User Name";
+
+
+/* Class = "UILabel"; text = "Share my profile photo with contacts"; 
+ObjectID = "Esr-uH-D1R"; */
+"Esr-uH-D1R.text" = "Ibahagi ang aking larawan sa profile sa mga contact";
+
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "FfL-nl-BnP"; */
+"FfL-nl-BnP.normalTitle" = "TAPOS";
+
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "Gwy-FV-c0D"; */
+"Gwy-FV-c0D.normalTitle" = "KANSELAHIN";
+
+
+/* Class = "UILabel"; text = "File Server"; ObjectID = "MsM-st-6dn"; */
+"MsM-st-6dn.text" = "File Server";
+
+
+"aS3-Fj-p1j.text" = "Mag-sync ng higit pang mga aparato";
+
+
+"sX0-os-LQi.normalTitle" = "I-backup ang iyong susi";
+
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "faG-bF-oVt"; */
+"faG-bF-oVt.text" = "Address";
+
+
+"0Wh-WY-PvB.text" = "Hint ng Ruta";
+
+
+/* Class = "UILabel"; text = "Default tip amount"; ObjectID = 
+"jJs-A6-b1l"; */
+"jJs-A6-b1l.text" = "Mag-default na halaga ng tip";
+
+
+/* Class = "UILabel"; text = "Appearance"; ObjectID = "p1B-4h-bVu"; */
+"p1B-4h-bVu.text" = "Hitsura";
+
+
+"jxx-Fl-kXP.text" = "Notipikasyon para sa Tunog";
+
+
+"X8L-GC-hmH.text" = "Notipikasyon para sa Tunog";
+
+
+"gAs-58-jhi.normalTitle" = "KUMPIRMAHIN";
+
+
+"gjh-2S-Wpi.text" = "Sukat";
+
+
+"WVe-8j-tgh.text" = "Server URL";
+
+
+"2YG-L7-D9J.text" = "Palitan ang PIN";
+
+
+"rlD-nH-ZkP.text" = "PIN Timeout";
+
+
+"YQw-Cm-DzX.text" = "Magtakda ng Pribadong PIN";
+
+
+"IQP-Z6-eAF.text" = "Magtakda ng Github Personal Access Token";
+
+
+"z8e-Oe-Tdt.text" = "Mag-setup ng Signing Device";
+
+
+"Uah-nc-EPN.text" = "Mga Rekomendasyon para sa Feed";
+
+
+"mU1-dY-IRh.text" = "Awtomatikong na-download na mga episode ng podcast";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Profile/Custom 
+Views/en.lproj/AppSizeView.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "Big"; ObjectID = "YVn-ix-g9Q"; */
+"YVn-ix-g9Q.normalTitle" = "Malaki";
+
+
+/* Class = "UIButton"; normalTitle = "Small"; ObjectID = "bFw-d1-vd8"; */
+"bFw-d1-vd8.normalTitle" = "Maliit";
+
+
+/* Class = "UIButton"; normalTitle = "Medium"; ObjectID = "tPS-mJ-Jxa"; */
+"tPS-mJ-Jxa.normalTitle" = "Katamtaman";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Profile/Custom 
+Views/en.lproj/SettingsTabsView.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "Basic"; ObjectID = "I5t-ra-mE4"; */
+"I5t-ra-mE4.normalTitle" = "Basic";
+
+
+/* Class = "UIButton"; normalTitle = "Advanced"; ObjectID = "dxC-MV-YVW"; 
+*/
+"dxC-MV-YVW.normalTitle" = "Advanced";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Profile/Custom 
+Views/en.lproj/AppAppearenceView.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "Light"; ObjectID = "eDT-he-L0Q"; */
+"eDT-he-L0Q.normalTitle" = "Maliwanag";
+
+
+/* Class = "UIButton"; normalTitle = "Dark"; ObjectID = "mNb-Ed-DhZ"; */
+"mNb-Ed-DhZ.normalTitle" = "Madilim";
+
+
+/* Class = "UIButton"; normalTitle = "System"; ObjectID = "uWS-ao-oEr"; */
+"uWS-ao-oEr.normalTitle" = "System";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/QR Code 
+Scanner/en.lproj/QRCodeScanner.strings~~
+
+
+
+
+/* Class = "UILabel"; text = "OR ENTER MANUALLY"; ObjectID = "2Jt-PW-cnd"; 
+*/
+"2Jt-PW-cnd.text" = "O MANUAL NA IPASOK";
+
+
+/* Class = "UIButton"; normalTitle = "PAY"; ObjectID = "GWX-p0-Vj0"; */
+"GWX-p0-Vj0.normalTitle" = "MAGBAYAD";
+
+
+/* Class = "UILabel"; text = "To"; ObjectID = "IJc-Gb-Lrv"; */
+"IJc-Gb-Lrv.text" = "Para sa/kay";
+
+
+/* Class = "UILabel"; text = "Expiration Date: "; ObjectID = "Npg-6J-BTg"; 
+*/
+"Npg-6J-BTg.text" = "Petsa ng pagkawalang bisa: ";
+
+
+/* Class = "UITextField"; placeholder = "Enter Address"; ObjectID = 
+"Y8I-bB-gmm"; */
+"Y8I-bB-gmm.placeholder" = "Ilagay ang Address";
+
+
+/* Class = "UILabel"; text = "Memo: "; ObjectID = "dnH-AU-ysf"; */
+"dnH-AU-ysf.text" = "Memo: ";
+
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "ui2-4D-gqX"; 
+*/
+"ui2-4D-gqX.normalTitle" = "KOMPIRMAHIN";
+
+
+/* Class = "UILabel"; text = "Invoice amount: "; ObjectID = "vAY-Bq-YBg"; 
+*/
+"vAY-Bq-YBg.text" = "Halaga ng Invoice: ";
+
+
+/* Class = "UILabel"; text = "INVOICE DETAILS"; ObjectID = "vuM-l5-Wfj"; 
+*/
+"vuM-l5-Wfj.text" = "MGA DETALYE NG INVOICE";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/People/Custom 
+Views/en.lproj/PeopleTorActionsView.strings~~
+
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "Za3-GB-giv"; */
+"Za3-GB-giv.normalTitle" = "I-SAVE";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/People/Custom 
+Views/en.lproj/AuthExternalView.strings~~
+
+
+/* Class = "UIButton"; normalTitle = "AUTHORIZE"; ObjectID = "NTY-E1-Rbf"; 
+*/
+"NTY-E1-Rbf.normalTitle" = "PAHINTULUTAN";
+
+
+/* Class = "UILabel"; text = "Do you want to authorize with"; ObjectID = 
+"PLf-Qq-gka"; */
+"PLf-Qq-gka.text" = "Gusto mo bang pahintulutan ang";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/People/Custom 
+Views/en.lproj/PersonModalView.strings~~
+
+
+/* Class = "UIButton"; normalTitle = "CONNECT"; ObjectID = "TMb-DK-P6W"; 
+*/
+"TMb-DK-P6W.normalTitle" = "KONEKTA";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/History/en.lproj/History.strings~~
+
+
+/* Class = "UILabel"; text = "TRANSACTIONS"; ObjectID = "Qdx-XD-Mbl"; */
+"Qdx-XD-Mbl.text" = "MGA TRANSAKSIYON";
+
+
+/* Class = "UILabel"; text = "No transactions found"; ObjectID = 
+"stK-eH-Bki"; */
+"stK-eH-Bki.text" = "Walang nakitang mga transaksyon";
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Stakwork 
+Login/en.lproj/Stakwork.strings~~
+
+
+
+
+/* Class = "UIButton"; normalTitle = "AUTHORIZE"; ObjectID = "OsM-qt-t4R"; 
+*/
+"OsM-qt-t4R.normalTitle" = "PAHINTULUTAN";
+
+
+/* Class = "UILabel"; text = "AUTHORIZE WITH"; ObjectID = "Vdr-Qe-v8u"; */
+"Vdr-Qe-v8u.text" = "PAHINTULUTAN SA";
+
+----------
+
+
+~~/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx/Scenes/Stakwork 
+Login/en.lproj/Stakwork.strings~~
+
