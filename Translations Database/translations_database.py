@@ -1,6 +1,7 @@
 import sqlite3
 import fnmatch
 import os
+import pprint
 
 def find_localization_files(root_dir):
     """
@@ -117,6 +118,36 @@ def extract_strings_from_xml(xml_string):
         result[name] = value
     return result
 
+def create_xml_from_strings(strings_dict):
+    xml = '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n'
+    for name, translation in strings_dict.items():
+        xml += f'    <string name="{name}">{translation}</string>\n'
+    xml += '</resources>'
+    return xml
+
+def translate_each_android_file():
+    for dirpath, dirnames, filenames in os.walk("/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/"):
+        for filename in [f for f in filenames if f.endswith("strings.xml")]:
+            #print('filename:')
+            #print(filename)
+            newPath = os.path.join(dirpath, filename)
+            #print(newPath)
+            if("values-b+fil" in newPath):
+                print(newPath)
+                f = open(newPath, "r")
+                fileContents = f.read()
+                #print(fileContents)
+                strings = extract_strings_from_xml(fileContents)
+                #print(strings)
+                filipino,no_translation = translate_to_filipino(strings)
+                #print("Filipino:")
+                #pprint.pprint(filipino)
+                #print("No translations:")
+                #pprint.pprint(no_translation)
+                print(create_xml_from_strings(filipino))
+                print("~"*10)
+
+
 localization_files = find_localization_files('./')
 for file_path in localization_files:
     print(file_path)
@@ -127,10 +158,9 @@ for file_path in localization_files:
 
 print_table_values('translations')
 
-xml_string = '<?xml version="1.0" encoding="utf-8"?>\n<resources>\n    <string name="add_member_header_name">ADD TRIBE MEMBER</string>\n    <string name="add_member">Add Member</string>\n    <string name="member_alias">Alias *</string>\n    <string name="member_image">Tribe member image</string>\n    <string name="member_public_key">Public Key *</string>\n    <string name="member_route_hint">Route Hint</string>\n    <string name="member_contact_key">Contact Key *</string>\n    <string name="bottom_menu_member_pic_header_text">Member Picture</string>\n    <string name="member_info_required">Alias, Public Key and Contact Key are required</string>\n    <string name="invalid_public_key">Invalid Public Key</string>\n    <string name="invalid_route_hint">Invalid Route Hint</string>\n    <string name="failed_to_add_member">Failed to add member</string>\n    <string name="failed_to_process_image">Failed to process image</string>\n</resources>'
-strings = extract_strings_from_xml(xml_string)
-print(strings)
 
-filipino,no_translation = translate_to_filipino(strings)
-print(filipino)
-print(no_translation)
+
+translate_each_android_file()
+
+
+
