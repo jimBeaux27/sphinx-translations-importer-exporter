@@ -40,6 +40,8 @@ def add_localization_to_database(path, lang_code):
     conn.commit()
     conn.close()
 
+
+
 def print_table_values(table_name):
     # Open a connection to the database
     conn = sqlite3.connect('translations.db')
@@ -128,35 +130,85 @@ def create_xml_from_strings(strings_dict):
 def translate_each_android_file():
     for dirpath, dirnames, filenames in os.walk("/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/"):
         for filename in [f for f in filenames if f.endswith("strings.xml")]:
-            #print('filename:')
-            #print(filename)
             newPath = os.path.join(dirpath, filename)
-            #print(newPath)
             if("values-b+fil" in newPath):
                 print(newPath)
-                f = open(newPath, "r")
-                fileContents = f.read()
-                #print(fileContents)
-                strings = extract_strings_from_xml(fileContents)
-                #print(strings)
-                filipino,no_translation = translate_to_filipino(strings)
-                #print("Filipino:")
-                #pprint.pprint(filipino)
-                #print("No translations:")
-                #pprint.pprint(no_translation)
-                print(create_xml_from_strings(filipino))
-                print("~"*10)
+                try:
+                    with open(newPath, "r+") as f:
+                        fileContents = f.read()
+                        strings = extract_strings_from_xml(fileContents)
+                        filipino, no_translation = translate_to_filipino(strings)
+                        xml = create_xml_from_strings(filipino)
+                        f.seek(0)
+                        f.write(xml)
+                        f.truncate()
+                        print("No Translations")
+                        print(no_translation)
+                    print("Translated strings written to file:", newPath)
+                    print("~"*10)
+                except:
+                    pass
+
+def scan_and_populate_from_ios_ui_files(lang_code):
+    conn = sqlite3.connect('translations.db')
+    c = conn.cursor()
+
+    for dirpath, dirnames, filenames in os.walk("/Users/jamescarucci/Documents/GitLab/sphinx-ios/sphinx"):
+        for filename in [f for f in filenames if f.endswith(".strings") and lang_code in dirpath]:
+            with open(os.path.join(dirpath, filename)) as f:
+                for line in f:
+                    line = line.strip()
+                    if line.startswith('"') and '=' in line:
+                        try:
+                            translation_id, value = line.split('=')
+                            translation_id = translation_id.strip('"').replace('"',"")
+                            value = value.strip().strip('"').replace('";','')
+
+                            # Check if the translation_id already exists in the database
+                            c.execute("SELECT * FROM translations WHERE translation_id=?", (translation_id,))
+                            row = c.fetchone()
+
+                            if row:
+                                # Update the existing row with the new translation
+                                if lang_code == "en.lproj":
+                                    c.execute("UPDATE translations SET en=? WHERE id=?", (value, row[0]))
+                                elif lang_code == "es.lproj":
+                                    c.execute("UPDATE translations SET es=? WHERE id=?", (value, row[0]))
+                                elif lang_code == "fil.lproj":
+                                    c.execute("UPDATE translations SET fil=? WHERE id=?", (value, row[0]))
+                            else:
+                                # Insert a new row with the translation
+                                if lang_code == "en.lproj":
+                                    c.execute("INSERT INTO translations (translation_id, en) VALUES (?, ?)", (translation_id, value))
+                                elif lang_code == "es.lproj":
+                                    c.execute("INSERT INTO translations (translation_id, es) VALUES (?, ?)", (translation_id, value))
+                                elif lang_code == "fil.lproj":
+                                    c.execute("INSERT INTO translations (translation_id, fil) VALUES (?, ?)", (translation_id, value))
+                        except ValueError:
+                            print(f"Error processing line: {line}")
+
+    conn.commit()
+    conn.close()
 
 
-localization_files = find_localization_files('./')
-for file_path in localization_files:
-    print(file_path)
+
+
+
+
+# init_db()
+# localization_files = find_localization_files('./')
+# for file_path in localization_files:
+#     print(file_path)
 
 # add_localization_to_database('./en.lproj/Localizable.strings', 'en')
 # add_localization_to_database('./es.lproj/Localizable.strings', 'es')
 # add_localization_to_database('./fil.lproj/Localizable.strings', 'fil')
 
-print_table_values('translations')
+# scan_and_populate_from_ios_ui_files("en.lproj")
+# scan_and_populate_from_ios_ui_files("es.lproj")
+# scan_and_populate_from_ios_ui_files("fil.lproj")
+
+# print_table_values('translations')
 
 
 
