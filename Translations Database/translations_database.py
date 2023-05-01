@@ -98,7 +98,7 @@ def translate_to_filipino(data):
     for key, value in data.items():
         c.execute("SELECT fil FROM translations WHERE en=?", (value,))
         row = c.fetchone()
-        if row:
+        if row and translations[key] != None:
             translations[key] = row[0]
         else:
             translations[key] = value
@@ -127,7 +127,11 @@ def create_xml_from_strings(strings_dict):
     xml += '</resources>'
     return xml
 
+import pprint
+
 def translate_each_android_file():
+    output_file = open("no_translation.txt", "a")
+    
     for dirpath, dirnames, filenames in os.walk("/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/"):
         for filename in [f for f in filenames if f.endswith("strings.xml")]:
             newPath = os.path.join(dirpath, filename)
@@ -138,18 +142,27 @@ def translate_each_android_file():
                         fileContents = f.read()
                         strings = extract_strings_from_xml(fileContents)
                         filipino, no_translation = translate_to_filipino(strings)
+                        
+                        if no_translation or filipino == None:
+                            output_file.write(f"\n{newPath}:\n")
+                            pprint.pprint(no_translation, stream=output_file, width=180)
+                            output_file.write("-"*15)
                         xml = create_xml_from_strings(filipino)
                         f.seek(0)
                         f.write(xml)
                         f.truncate()
-                        print("No Translations")
-                        print(no_translation)
+                        
                     print("Translated strings written to file:", newPath)
                     print("~"*10)
-                except:
-                    pass
+                    
+                except Exception as e:
+                    print(f"Error processing file: {newPath}. {e}")
+                    
+    output_file.close()
 
-def scan_and_populate_from_ios_ui_files(lang_code):
+
+
+def scan_and_populate_db_from_ios_ui_files(lang_code):
     conn = sqlite3.connect('translations.db')
     c = conn.cursor()
 
@@ -191,28 +204,161 @@ def scan_and_populate_from_ios_ui_files(lang_code):
     conn.close()
 
 
+def translate_mac_main_localization_file_to_filipino():
+    print('translate_mac_file_to_filipino')
+    # Connect to the database
+    conn = sqlite3.connect('translations.db')
+    c = conn.cursor()
+    # Define the file to read
+    filename = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj/Localizable.strings'
 
+    # Read the file contents
+    with open(filename) as f:
+        content = f.readlines()
+    pass_count = 0
+    iterations = 0
+    # Process each line of the file
+    for line in content:
+        # Check if the line contains a string to be translated
+        if '=' in line:
+            # Split the line into key-value pairs
+            key, value = line.strip().split('=')
+            key = key.strip('"')
+            value = value.strip().strip(';').strip('"')
+
+            # Look up the Filipino translation in the database
+            c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
+            result = c.fetchone()
+
+            if result is None:
+                c.execute('SELECT fil FROM translations WHERE translation_id = ?', (key,))
+                result = c.fetchone()
+            # If a Filipino translation is found, replace the English value with it
+            if result is not None:
+                filipino = result[0]
+                new_line = f'"{key} = "{filipino}";\n'
+                content[content.index(line)] = new_line
+                pass_count += 1
+            iterations+=1
+    # Write the modified contents back to the file
+    with open(filename, 'w') as f:
+         f.writelines(content)
+    pprint.pprint(content)
+    print(f"Number of iterations: {iterations}")
+    print(f"Number of passes: {pass_count}")
+    # Close the database connection
+    conn.close()
+
+# def translate_swift_files_to_filipino():
+#     # Connect to the database
+#     conn = sqlite3.connect('translations.db')
+#     c = conn.cursor()
+
+#     # Scan for files to translate
+#     for dirpath, dirnames, filenames in os.walk("/Users/jamescarucci/Documents/GitLab/sphinx-mac"):
+#         print(filenames)
+#         for filename in [f for f in filenames if f.endswith(".strings") and "fil.lproj" in dirpath]:
+#             filepath = os.path.join(dirpath, filename)
+
+#             # Read the file contents
+#             with open(filepath) as f:
+#                 content = f.readlines()
+
+#             # Process each line of the file
+#             for i, line in enumerate(content):
+#                 # Check if the line contains a string to be translated
+#                 if '=' in line:
+#                     # Split the line into key-value pairs
+#                     key, value = line.strip().split('=', 1)
+#                     key = key.strip('"')
+#                     value = value.strip().strip(';').strip('"')
+
+#                     # Look up the English translation in the database
+#                     c.execute('SELECT en FROM translations WHERE fil = ?', (value,))
+#                     result = c.fetchone()
+
+#                     # If an English translation is found, replace the Filipino value with it
+#                     if result is not None:
+#                         english = result[0]
+#                         new_line = f'"{key}" = "{english}";\n'
+#                         content[i] = new_line
+
+#             # Write the modified contents back to the file
+#             # with open(filepath, 'w') as f:
+#             #     f.writelines(content)
+#             pprint.pprint(content)
+#     # Close the database connection
+#     conn.close()
+
+import os
+import re
+
+def translate_swift_files_to_filipino():
+    # Connect to the database
+    conn = sqlite3.connect('translations.db')
+    c = conn.cursor()
+
+    # Define the path to search for Swift files
+    path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac'
+
+    # Define the regular expression to match localized strings
+    localized_string_regex = re.compile(r'(?<=\")(.*?)(?=\"\s*=\s*\")(.*?)(?=\";)')
+    no_translations = {}
+    # Walk through the directory tree and find all Swift files
+    for dirpath, dirnames, filenames in os.walk(path):
+        for filename in [f for f in filenames if f.endswith(".strings") and "fil.lproj" in dirpath]:
+            with open(os.path.join(dirpath, filename)) as f:
+                content = f.read()
+
+            # Find all the localized strings in the file using the regular expression
+            matches = re.findall(localized_string_regex, content)
+
+            # Loop through the matches and translate each string
+            for key, value in matches:
+                # Look up the Filipino translation in the database
+                c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
+                result = c.fetchone()
+
+                # If a Filipino translation is found, replace the English value with it
+                if result is not None and result is not "None":
+                    filipino = result[0]
+                    content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
+                else:
+                    c.execute('SELECT fil FROM translations WHERE fil = ?', (value,))
+                    result = c.fetchone()
+                    if result is None:
+                        print(f"No filipino translation for {value}")      
+
+
+            # Write the modified contents back to the file
+            # with open(os.path.join(dirpath, filename), 'w') as f:
+            #     f.write(content)
+            # pprint.pprint(content)
+
+    # Close the database connection
+    conn.close()
 
 
 
 # init_db()
 # localization_files = find_localization_files('./')
-# for file_path in localization_files:
-#     print(file_path)
+# # for file_path in localization_files:
+# #     print(file_path)
 
 # add_localization_to_database('./en.lproj/Localizable.strings', 'en')
 # add_localization_to_database('./es.lproj/Localizable.strings', 'es')
 # add_localization_to_database('./fil.lproj/Localizable.strings', 'fil')
 
-# scan_and_populate_from_ios_ui_files("en.lproj")
-# scan_and_populate_from_ios_ui_files("es.lproj")
-# scan_and_populate_from_ios_ui_files("fil.lproj")
+# scan_and_populate_db_from_ios_ui_files("en.lproj")
+# scan_and_populate_db_from_ios_ui_files("es.lproj")
+# scan_and_populate_db_from_ios_ui_files("fil.lproj")
 
-# print_table_values('translations')
-
-
-
-translate_each_android_file()
+#print_table_values('translations')
 
 
 
+# translate_each_android_file()
+
+#translate_mac_main_localization_file_to_filipino()
+
+translate_swift_files_to_filipino()
