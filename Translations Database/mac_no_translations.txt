@@ -1,0 +1,2130 @@
+Tomas Timinskas
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Back
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+TT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Copy your keys from your  mobile app and paste it here.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+NEW USER
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+You are now on the\nlightning network!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+WELCOME
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Back
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Don't you have Sphinx on your phone?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj)
+------
+A message from your friend...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+Susan Johnson
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+TT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+WELCOME!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+GET STARTED
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+Tomas Timinskas
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+Back
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+Drag and drop Image
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+CONNECTING...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+You can send messages,\nspend 1000 sats,\nor receive up to 10 000 sats.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+YOU'RE READY\nTO USE SPHINX!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/fil.lproj)
+------
+INCLUDE A MESSAGE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/fil.lproj)
+------
+-
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/fil.lproj)
+------
+help_outline
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/Custom View/fil.lproj)
+------
+Select PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/Custom View/fil.lproj)
+------
+Standard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/Custom View/fil.lproj)
+------
+Private
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/Custom View/fil.lproj)
+------
+Time to stake: (hours)
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Price per message:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+SAVE TRIBE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Created on...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Amount to stake:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Uploaded 0%
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Price to join:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Uploaded 0%
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+Loading Info...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj)
+------
+My Alias
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj)
+------
+My Picture
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj)
+------
+GROUP PAYMENT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/WebApps/Views/fil.lproj)
+------
+verified_user
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/WebApps/Views/fil.lproj)
+------
+...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/WebApps/Views/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/WebApps/Views/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+50
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj)
+------
+2500
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+6:05 AM
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+2500
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+What if the label has more text
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+lock
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+6:05 AM
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+Expires in 20 minutes
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+Monday 06:05 PM
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj)
+------
+Delete group
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Groups/fil.lproj)
+------
+The admin has removed \nyou from this group
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Groups/fil.lproj)
+------
+Monday 06:05 PM
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Sent/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Sent/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Sent/fil.lproj)
+------
+2500
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Sent/fil.lproj)
+------
+06:05 AM
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Sent/fil.lproj)
+------
+10 SAT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Paid Attachments/fil.lproj)
+------
+error_outline
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Paid Attachments/fil.lproj)
+------
+check
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Paid Attachments/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+STICKERS
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+RECENT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+Search GIFs on Giphy
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+Powered by
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+GIFS
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Giphy Search/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Notifications/fil.lproj)
+------
+Notification Level
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Notifications/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Notifications/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Notifications/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Notifications/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Custom Views/Notifications/fil.lproj)
+------
+cached
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+UPGRADE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+mic
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+navigate_next
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+CLICK TO COPY
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Contact Name
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+person_add
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+asdjhasdkjh128376123gsdjaksdjhh3271623gasdjhasdkjh128
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+apps
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+done
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+expand_more
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Price:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+flash_on
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+0:00
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Open a conversation to start messaging
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
++1
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+verified_user
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Remaining Budget: N/A
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+lock
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+navigate_before
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+verified_user
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Save Profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+verified_user
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Price to meet: 0 sats
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Initial message to Unknown
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+Box
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+This is the description\ntest
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/People/Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Custom Views/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Custom Views/fil.lproj)
+------
+Drag Image or Video here
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Custom Views/fil.lproj)
+------
+CLICK TO COPY
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Invite/fil.lproj)
+------
+asdjhsad6jhaskjsad78asd7dsjhasjhsd78as
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Invite/fil.lproj)
+------
+0
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+Track actions
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+-
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+Share my profile photo\nwith contacts
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+Save changes
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/fil.lproj)
+------
+12 hours
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Profile/Custom Views/fil.lproj)
+------
+No Agenda
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Podcast/fil.lproj)
+------
+DeFi & Smart Contracts On The Bitcoin Network  Gabriel Kurman 
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Podcast/fil.lproj)
+------
+Podcast
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Podcast/fil.lproj)
+------
+2 hrs 19 min
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Podcast/fil.lproj)
+------
+3 Apr 2022
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Podcast/fil.lproj)
+------
+Note
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Customize Toolbar…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Find
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Lower
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Raise
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Transformations
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Spelling
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use Default
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Speech
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Tighten
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Find
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Enter Full Screen
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Quit Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Edit
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Copy Style
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+About Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Popcorn
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Redo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Correct Spelling Automatically
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Writing Direction
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Substitutions
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Smart Copy/Paste
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Main Menu
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Tweet
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Preferences…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+\tLeft to Right
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Save As…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Close
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Spelling and Grammar
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Logout
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Help
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+com.stakwork.sphinx.desktop Help
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Text
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Substitutions
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Bold
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Format
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use Default
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Font
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Writing Direction
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+View
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Text Replacement
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Spelling and Grammar
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Horn
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+View
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Subscript
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Open…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Window
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Justify
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Revert to Saved
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Glass
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show All
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Bring All to Front
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Paste Ruler
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+\tLeft to Right
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Copy Ruler
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Services
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+\tDefault
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Minimize
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Baseline
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Hide Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Find Previous
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Stop Speaking
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Bigger
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Fonts
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Zoom
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+\tRight to Left
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Banner
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Superscript
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Select All
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Jump to Selection
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Sound
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Window
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Capitalize
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Center
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Hide Others
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Italic
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Edit
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Underline
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+New
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Paste and Match Style
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Aurora
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Find…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Find and Replace…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+\tDefault
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Start Speaking
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Align Left
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Paragraph
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Print…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Window
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Font
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use Default
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Colors
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use Selection for Find
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Transformations
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Selection
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Smart Links
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Make Lower Case
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Text
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Undo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+TriTone (default)
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Notification Type
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Smart Quotes
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Check Document Now
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Services
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Smaller
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Remove account from this computer
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Baseline
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Kern
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+\tRight to Left
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Format
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Sidebar
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Synth
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Check Grammar With Spelling
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Banner + Sound
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Bamboo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Ligatures
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Open Recent
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Loosen
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Delete
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Save…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Bell
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Find Next
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+System 
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Page Setup…
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Check Spelling While Typing
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Smart Dashes
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Toolbar
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Data Detectors
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Open Recent
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Kern
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Cut
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Paste Style
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Ruler
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Clear Menu
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Make Upper Case
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Ligatures
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Align Right
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Help
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Use All
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Notification Type
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Speech
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Bells
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Show Substitutions
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+Off
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Main/fil.lproj)
+------
+"  = "Tagumpay
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mali
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "May mali. Paki ulit sa ilang saglit.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+The message could not be sent due to an encryption error.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kumpirma
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Babala
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "TAPOS
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "SUSUNOD
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "KUMPIRMAHIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+continue
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-SAVE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kanselahin
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Na-upload: %d %%
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pampublikong susi
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ikaw
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi makilala
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "UK
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ngayon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Contact
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Profile changes successfully saved
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ipasa
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+finish
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Patunayan
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Pay
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Make Payment
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kumunekta sa Node
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi available ang Live updates
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "HIndi makakunekta sa Node
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "May nangyaring kamalian, Paki contact ang suporta
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+The network connection is lost. Please check your network and try again later.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabigo ang bagong pagsubok sa URL, ibinabalik ang dating setting...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sinusubukan ang bagong URL...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Dashboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mga contact
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ilarawan ang iyong problema dito...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakopya ang mga log sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang iyong mensahe ay naipadala na
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mga Detalye ng Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mga Detalye ng Tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-UNSELECT LAHAT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "PILIIN LAHAT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+You can't add more than %d members
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naabot mo na ang limitasyon ng mga miyembro ng grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Imahe ng Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mangyaring pumili ng opsyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Walang laman ang ilan sa mga kinakailangang field
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Magdagdag ng Kontak
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pumili ng mga Kontak
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MGA KONTAK
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Malapit nang sumali sa grupo ang mga bagong miyembro
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "HIndi Makilalang Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ginawa noong %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MGA MIYEMBRO NG GRUPO
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mga Pagpipilian ng miyembro
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-Edit ang Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tanggalin ang Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Lumabas sa Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong lumabas at tanggalin ang grupo?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tanggalin ang Grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Are you sure you want to delete the group?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong lumabas at tanggalin ang tribo?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "QR code sa Pagsali sa Tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+TRIBE QR CODE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong tanggalin ang tribo?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Profile Image
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-EDIT ANG GRUPO
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Si %@ ay kakaalis lang sa grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Si %@ ay kakaalis lang sa tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Si %@ ay sumali sa grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Si %@ ay sumali sa tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naidagdag si %@ sa grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Inalis ka ng admin sa tribong ito
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tinanggal ng admin ang kanyang tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+%@ wants to\njoin the tribe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+The admin \ndeclined your request
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Maligayang pagdating! Miyembro ka na ngayon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Inaprubahan mo ang kahilingan mula sa/kay %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tinanggihan mo ang kahilingan mula sa/kay %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naghihintay ng pag-apruba ng admin
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Deleted Tribe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+The admin has deleted this tribe. You won't be able to send or receive messages anymore. Exit and delete tribe from details view.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Join Tribe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Lumabas sa Tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Are you sure you want to exit tribe?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ibahagi ang QR code ng tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tanggalin ang Tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-Edit ang Tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mga titik, numero at underscore lamang ang pinapayagan sa mga alias ng tribo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong umalis at mawala ang anumang hindi na-save na mga pagbabago?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "NAKA-PAUSE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "NATAPOS
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "AKTIBO
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Amount, Time Interval and End Rule are required.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong tanggalin ang subscription na ito?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "HALAGA
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "TIME INTERVAL
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "END RULE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kabuuang halaga ng mga babayaran:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Magbayad hanggang:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naka-subscribe ka na.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi maaaring walang laman ang value
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "SUBSCRIBE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "%@ kopyahin sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kahilingan sa Pagbabayad
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Invoice Amount:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Expiration Date:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Invoice String
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Copy Invoice String
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Copy Invoice Image
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Bagong kontak
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "EDIT CONTACT
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "SUBSCRIBED
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "SUBSCRIBE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kinakailangan ang Palayaw at Address.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Di-wastong pampublikong Susi
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+A contact with this public key already exists in your Address Book.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Magdagdag ng mga Tao
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Whoops!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Maligayang Pagdating
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Maligayang Pagdating!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagkaproblema. Mangyaring makipag-ugnayan sa aming suporta sa support@stakwork.com
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Paste the invitation text\nor scan the QR code
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Paste your invitation code...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Idikit ang iyong mga susi...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Di-wastong PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Isang mensahe mula sa iyong kaibigan..
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+skip
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+get it now
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+select image
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+change image
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Palayaw
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Baguhin ang Larawan
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi maaaring walang laman ang palayaw.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Handa ka nang gamitin ang Sphinx!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "handa na
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Maaari kang magpadala ng mga mensahe, gumastos ng %@ sats, o makatanggap ng hanggang %@ sats.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "%@ sats,
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "%@ sats.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Higit pang sats ang kailangan para hilingin ang imbitasyong ito
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakopya ang code sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong permanenteng tanggalin ang node na ito sa keychain? I-double check na hindi ka nakakonekta sa node na ito mula sa ibang aparato, dahil aalisin nito ang impormasyon mula sa keychain na nagiging sanhi ng pagkawala ng koneksyong iyon.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagkaroon ng pagkakamali sa pag-babalik mula sa Keychain.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+This looks like a pubkey, to sign up you'll need an invite code from https://sphinx.chat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+This looks like an invoice, to sign up you'll need an invite code from https://sphinx.chat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+We don't recognize this code, to sign up you'll need an invite code from https://sphinx.chat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+There was an error claiming this QR code. Please try again.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+We don't recognize this code, to restore you'll need to copy your keys from mobile app and paste it here
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "May pagkakamali  sa koneksyon ng Tor
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Establishing Tor circuit...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mangyaring maghintay. Maaaring tumagal ng ilang minuto ang prosesong ito...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Copy your keys from your\nmobile app and paste it here.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Paste your invitation code\ninto Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kopyahin ang iyong mga susi
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Idikit
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+invitation code
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Set Nickname
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Set PIN (6 digits)
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Confirm PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Don't you have Sphinx on your phone?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Sphinx on your phone
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakopya ang address sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ilagay ang iyong PIN para i-encrypt ang iyong mga susi. Kakailanganin mo ito kapag ibinabalik ang account sa ibang aparato.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mga Susi sa Pag-export
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kokopyahin ang iyong mga susi sa clipboard. I-save ang string na ito at tandaan ang iyong pin bago burahin ang app o mawawala ang lahat ng data.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-export ang mga key na kinopya sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Matagumpay na na-update ang URL ng server
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Drag Image
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pampublikong susi
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Route Hint
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Privacy PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Standard PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "PUMILI NG PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "KUMPIRMAHIN ANG PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+PIN doesn't match
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+PINS do not match
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Old PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+New PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Confirm new PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Na-update na ang iyong PIN. Mangyaring muling i-export ang iyong mga susi gamit ang bagong PIN.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi mo magagamit ang iyong pangunahing PIN bilang PIN ng grupo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Itakda ang Privacy PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Baguhin ang Privacy PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naitakda na ang iyong Privacy PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang iyong Privacy PIN ay na-update na
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi maaaring magkapareho ang iyong PIN at ang iyong Privacy PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kung aktibo ang setting ng privacy, ipapakita lamang ang kontak kapag ginamit ang tamang PIN sa privacy upang mag-log in sa Sphinx. Kailangan mo munang magtakda ng Privacy PIN mula sa Profile para magamit ang katangian na ito.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Baguhin ang PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong palitan ang iyong PIN?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong baguhin ang iyong Privacy PIN?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagkaroon ng pagkakamali sa paglo-load ng listahan ng mga transaksyon. Subukang muli sa ibang pagkakataon.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naglo-load ng higit pang mga transaksyon...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAG-SCAN NG QR CODE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-paste ang Invoice o Subscription code
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "CONTACT ADDRESS
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ilagay ang Address
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-SCAN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ipasok ang Code
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Paumanhin
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi namin nakikilala ang ganitong uri ng code.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nag-expire na: 
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Invoice
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong bayaran ang invoice na ito?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "NABIGO ANG PAGBAYAD
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tinanggihan mo ang mga pahintulot sa mikropono. Pumunta sa Mga Setting -> Sphinx at paganahin silang mag-record ng mga mensaheng audio.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naka-mute na ang chat. Hindi ka makakatanggap ng mga push notipikasyon para sa mga papasok na mensahe sa chat na ito
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Magbayad para sa imbitasyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabigo ang pagbabayad, subukang muli sa ibang pagkakataon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mag-e-expire sa %@ minuto
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagbayad ng Invoice sa %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nag-expire ang mga termino ng media
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabigo ang Mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Paanyaya: %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Maligayang pagdating sa Sphinx!
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naglo-load ng higit pang mga mensahe...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mensahe...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kinansela ang mensaheng audio
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nilo-load ang Preview...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi available ang pamagat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi available ang paglalarawan
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi available ang preview
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakopya ang text sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakopya ang link sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang pampublikong susi ay nakopya sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakopya ang Call Link sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang pampublikong susi ay nakopya sa clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Na kopya sa clipboard ang Pahiwatig na Ruta
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Invoice copied to clipboard
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kinukuha ang mga lumang mensahe. Mangyaring maghintay...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kinukuha ang mga bagong mensahe. Mangyaring maghintay...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Presyo ng bawat Mensahe: %@ sat - Halaga sa Stake: %@ sat
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sumali sa Tawag
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pagde-decrypt ng mensahe...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "May Pagkakamali Encryption
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi ma-load ang data ng mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Magbayad para i-unlock ang Mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naglo-load ng mensahe...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kopyahin ang Text
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kopyahin ang Link
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kopyahin ang Pampublikong susi
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kopyahin ang Link ng Tawag
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sumagot
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-Save ang File
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tanggalin ang Mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Resend
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "natanggap
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "naipadala
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Message %@ deleted
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pagbabayad
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang pagbabayad ng %@ ay ipinadala sa %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagpadala si %@ ng bayad na %@ sa %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Larawan
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Gif
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Video
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Audio
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Bayad na Mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi suportado ang mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "mula sa
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Bumili ng item %@
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabili ang item
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tinanggihan ang pagbili ng item
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kumpirmahin ang Pagbili
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sigurado ka bang gusto mong bilhin ang item na ito?
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sagot ng Bot
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "File
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagda-download ng file...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Masyadong mababa ang halaga
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Masyadong mataas ang halaga
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Link not supported
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Sagot ng Bot
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "mga gumagamit
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Opsyonal na Mensahe...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kinakailangan ang presyo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kinakailangan ang mensahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAGPADALA NG GIF
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAGPADALA NG LARAWAN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAGPADALA NG BAYAD NA MENSAHE
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAGPADALA NG VIDEO
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAGTAKDA NG PRESYO
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Para sa/kay
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mula sa/kay
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "MAGPADALA NG BAYAD
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "HUMILING NG HALAGA
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Masyadong mababa ang balanse
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kabuuan
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Matagumpay na ipinadala ang iyong bayad.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Masyadong malaki ang memo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "mga pahina
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "pahina
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "PDF - %@ - pahina %d ng %d
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Lumikha ng Tawag
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pumili ng call mode
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Audio
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Video or Audio
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mag-login sa iyong account
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi maipadala ang email mula sa aparato na ito. 
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Binawi mo ang mga pahintulot sa Photo Library. Pumunta sa Mga Setting -> Sphinx upang paganahin muli ang mga ito.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang %@ ay matagumpay na nai-save.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagkaroon ng pagkakamali sa pag-save ng %@, pakisubukang muli sa ibang pagkakataon.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "imahe
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "video
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-dismiss
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Bayad na ang Invoice
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Halaga
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Memo
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Camera
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Photo Library
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Walang available na camera sa aparato na ito
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakatanggap ka ng bayad na %d sats
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Paunang mensahe kay 
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagtagumpay ang Awtorisasyon. Mangyaring bumalik sa website upang kumpletuhin ang iyong profile.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabigong Awtorisasyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naka konekta ka na sa taong ito
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Presyo dapat matugunan: 
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Do you want to authorize with:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-redeem ang %d sats mula sa:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-save ang Profile mula sa:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tanggalin ang Profile mula sa:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabigo ang pag-save ng Profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nabigo ang pagtanggal ng Profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Matagumpay na na-save ang profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Matagumpay na natanggal ang profile
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kunin ang Badge Token mula sa:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Matagumpay na nakuha ang Badge Token
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi makuha ang Badge Token
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagtagumpay ang Pagbili
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Tinanggihan ang pagbili
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pinoproseso
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakabinbin
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+ Looking for an available node for %@...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ipinadala ang bayad, naghihintay ng kumpirmasyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+ Tap to pay and activate the invite
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+ Ready! Tap to share. Expires in 24 hrs
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+ %@ is signing on
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+ Expired
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+ Signup complete
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Bagong user
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kasalukuyang user
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Connect
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nag-expire na ang imbitasyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Mag-e-expire ang mga imbitasyon pagkatapos ng 24 na oras. Mangyaring lumikha ng bagong imbitasyon.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nakabinbing imbitasyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Paumanhin sa pag kaantala. Pinoproseso ang iyong imbitasyon.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kasalukuyang isinasagawa ang imbitasyon
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Nagsa-sign on si %@.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kasalukuyang isinasagawa ang pagbabayad
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pinoproseso ang iyong bayad.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Message
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Logout
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Are you sure you want to logout? All data and preferences will be deleted.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "None
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Podcast Details & Options
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Code not supported
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Enter Restore PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Share Invite Code
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Open a conversation to start using Sphinx
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Drag image or video in the chat view to send. Sending and Receiving payments are not supported in groups yet
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Audio too short
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ipagpatuloy ang Pagpapa Numbalik...
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ibinabalik:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pagpapanumbalik ng nilalaman:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Pagpapanumbalik ng mga mensahe:
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "mga episode
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Presyo bawat minuto: %d sats
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Na-ambag: %d sats
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Naipon: %d sats
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Podcast: sats per minute
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ang iminungkahing halaga (%d sats) ay higit sa pinakamataas
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "I-download
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Kopyahin ang Link
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Mark As Played
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Ibahagi
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Markahan bilang hindi na-play
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Erase from Device
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Hindi kailanman nangangailangan ng PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+"  = "Laging nangangailangan ng PIN
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+Link Issue
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------
+There was an issue with the link. This is usually because you do not have access to the tribe in question.
+(/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj)
+------

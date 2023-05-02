@@ -1020,3 +1020,738 @@
 /Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom/src/main/res/values-b+fil/strings.xml:
 {'menu_bottom_cancel': 'Kanselahin', 'menu_bottom_dismiss': 'I-dismiss', 'menu_bottom_header_subtext': 'Mangyaring pumili ng opsyon'}
 ---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/chat-detail/tribe-detail/src/main/res/values-b+fil/strings.xml:
+{'alert_confirm_delete_tribe_heading': 'Delete %s',
+ 'alert_confirm_delete_tribe_message': 'Are you sure you want to delete the tribe?',
+ 'alert_confirm_exit_tribe_heading': 'Exit %s',
+ 'alert_confirm_exit_tribe_message': 'Are you sure you want to exit the tribe?',
+ 'alias': 'Alyas',
+ 'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+ 'failed_to_delete_tribe': 'Failed to delete tribe',
+ 'failed_to_exit_tribe': 'Failed to exit tribe',
+ 'failed_to_update_profile_alias': 'Failed to update tribe alias',
+ 'failed_to_update_profile_pic': 'Failed to update tribe profile picture',
+ 'podcast_sats_per_minute': 'Podcast: sats per minute',
+ 'profile_picture': 'Larawan sa Profile',
+ 'qr_code_title': 'Join Tribe Link',
+ 'tribe_badges': 'Mga Badge ng Tribo',
+ 'tribe_costs': 'Price per message: %d sat - Amount to Stake: %d sat',
+ 'tribe_created_on': 'Created on %s',
+ 'tribe_detail_header_name': 'TRIBE DETAIL',
+ 'tribe_members_list': 'MEMBERS LIST'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-receive/payment-receive/src/main/res/values-b+fil/strings.xml:
+{'payment_receive_header_name': 'HUMILING NG HALAGA', 'requested_amount_too_high': 'Requested amount is too high'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-template/payment-template/src/main/res/values-b+fil/strings.xml:
+{'payment_template_header_name': 'PAYMENT TEMPLATE', 'text_view_message_place_holder': 'Walang Mensahe'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-common/payment-common/src/main/res/values-b+fil/strings.xml:
+{'add_message_hint': 'Magdagdag ng Mensahe',
+ 'alert_confirm_payment_send_message': 'Are you sure you want to send a payment of %1$d sat to %2$s?',
+ 'alert_confirm_payment_send_title': 'None',
+ 'balance_too_low': 'Masyadong mababa ang balanse',
+ 'confirm_button': 'KUMPIRMAHIN',
+ 'continue_button': 'IPAGPATULOY',
+ 'destination_key': 'Pampublikong susi',
+ 'error_processing_payment': 'There was an error processing payment, please try again later.',
+ 'payment_common_header_name': 'MAGPADALA NG BAYAD',
+ 'payment_sent': 'Payment of %1$d sat sent to %2$s'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-send/payment-send/src/main/res/values-b+fil/strings.xml:
+{'amount_too_high': 'Amount is too high', 'invalid_node_pub_key_qr_code': 'QR code is not a Lightning Node Public Key', 'payment_send_header_name': 'MAGPADALA NG BAYAD'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/contact/new-contact/src/main/res/values-b+fil/strings.xml:
+{'new_contact_header_name': 'BAGONG CONTACT', 'save_to_contacts_button': 'I-SAVE SA MGA CONTACT'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/notification-level/notification-level/src/main/res/values-b+fil/strings.xml:
+{'notification_level_failed': 'Failed to set notification level',
+ 'notification_level_header_name': 'NOTIFICATIONS',
+ 'notification_level_mute_chat': 'Mute chat',
+ 'notification_level_only_mentions': 'Only mentions',
+ 'notification_level_see_all': 'See all'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/join-tribe/join-tribe/src/main/res/values-b+fil/strings.xml:
+{'alias_edit_text_label': 'Alyas',
+ 'amount_to_stake_label': 'Amount to stake:',
+ 'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+ 'error_joining': 'There was an error joining tribe. Please try again later',
+ 'failed_to_process_image': 'Failed to process image',
+ 'invalid_tribe': 'Invalid Tribe',
+ 'join_tribe_alias_empty': 'Alias is required.',
+ 'join_tribe_button': 'SUMALI SA TRIBO',
+ 'join_tribe_header_name': 'SUMALI SA TRIBO',
+ 'loading_tribe_text_view': 'Nilo-load ang impormasyon ng Tribo...',
+ 'price_per_message_label': 'Price per message:',
+ 'price_to_join_label': 'Price to join:',
+ 'profile_picture': 'Larawan sa Profile',
+ 'time_to_stake_label': 'Time to stake (hours):'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/newsletter-detail/newsletter-detail/src/main/res/values-b+fil/strings.xml:
+{'articles': 'Mga Artikulo', 'newsletter': 'NEWSLETTER'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/camera/camera/src/main/res/values-b+fil/strings.xml:
+{'camera_cancel': 'Kanselahin',
+ 'camera_permissions_required': 'Camera and Audio Permissions are required to use this feature, please enable them in Settings.',
+ 'camera_retake': 'Retake',
+ 'camera_shutter_instruction': 'Tap for picture, hold for video',
+ 'camera_use_photo': 'Use Photo',
+ 'camera_use_video': 'Use Video'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-members-list/tribe-members-list/src/main/res/values-b+fil/strings.xml:
+{'delete_member': 'Delete',
+ 'loading_more': 'Loading more...',
+ 'pending_tribe_members_header': 'PENDING MEMBERS',
+ 'tribe_members_list': 'MEMBERS LIST',
+ 'tribe_members_list_header': 'MGA MIYEMBRO NG TRIBO'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/qr-code/qr-code/src/main/res/values-b+fil/strings.xml:
+{'copy': 'Kopya',
+ 'paid': 'BINAYARAN',
+ 'qr_code_notify_copied': '%s copied to clipboard',
+ 'share': 'Ibahagi',
+ 'share_qr_code_as_image_plus_text': 'Share QR Code as Image+Text',
+ 'share_qr_code_as_text': 'Share QR Code as Text'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/transactions/transactions/src/main/res/values-b+fil/strings.xml:
+{'loading_more': 'Loading more...', 'transactions_header_name': 'MGA TRANSAKSIYON'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/invite-friend/invite-friend/src/main/res/values-b+fil/strings.xml:
+{'invite_failed': 'Invite failed. Please try again later.',
+ 'invite_friend_create_invitation_button': 'Gumawa ng Imbitasyon',
+ 'invite_friend_estimated_cost_text_view': 'TINATAYANG HALAGA',
+ 'invite_friend_header_name': 'INVITE FRIEND',
+ 'invite_friend_message_hint': 'Maligayang pagdating sa Sphinx!',
+ 'invite_friend_message_label': 'MAGSAMA NG MENSAHE...',
+ 'invite_friend_nickname_empty': 'Nickname can not be empty',
+ 'invite_friend_nickname_label': 'PALAYAW'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/video-screen/video-screen/src/main/res/values-b+fil/strings.xml:
+{'delete_download': 'Delete Download', 'label_text_videos_list_header': 'Videos'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/web-view/web-view/src/main/res/values-b+fil/strings.xml:
+{'web_view_header_name': 'WEB VIEW'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/add-friend/add-friend/src/main/res/values-b+fil/strings.xml:
+{'add_friend_header_name': 'MAG-DAGDAG NG KAIBIGAN', 'already_on_sphinx_button': 'Nasa Sphinx na', 'new_to_sphinx_button': 'Bago sa Sphinx'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/common-player/src/main/res/values-b+fil/strings.xml:
+{'error_loading_recommendations': 'Error loading recommendations. Please try again later.', 'error_playing_clip': "This clip can\\'t be played."}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-badge/src/main/res/values-b+fil/strings.xml:
+{'badge_already_exist': 'You already have a badge of this type. You can manage it in the Existing Badges section'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/scanner/scanner/src/main/res/values-b+fil/strings.xml:
+{'scanner_bottom_content_label': 'O MANUAL NA IPASOK',
+ 'scanner_edit_text_hint': 'Code',
+ 'scanner_header_name': 'I-SCAN',
+ 'scanner_notify_permissions_needed': 'Camera Permissions are required to use this feature, please enable them in Settings',
+ 'scanner_verify_button': 'VERIFY'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/podcast-player/podcast-player/src/main/res/values-b+fil/strings.xml:
+{'boost_sent': 'Boost sent', 'label_text_episodes_list_header': 'Episodes', 'podcast_sats_per_minute': 'Sats bawat minuto'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/support-ticket/support-ticket/src/main/res/values-b+fil/strings.xml:
+{'copy_logs': 'Kopyahin ang Logs',
+ 'describe_your_problem_here': 'Describe your problem here…',
+ 'fetch_logs_failed': 'Failed to fetch logs',
+ 'logs_copied_to_clipboard': 'Nakopya ang mga log sa clipboard',
+ 'message_required': 'Message required',
+ 'no_logs_loaded': 'No logs loaded',
+ 'send_message': 'Magpadala ng Mensahe',
+ 'support_ticket_header_name': 'SUPORTA'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/splash/splash/src/main/res/values-b+fil/strings.xml:
+{'on_board_edit_text_hint_code': 'Enter Code…',
+ 'on_board_edit_text_hint_decrypt': 'Enter PIN…',
+ 'on_board_welcome': 'Maligayang Pagdating',
+ 'on_board_welcome_info_code': 'Paste the connection string\\nor scan the QR code',
+ 'on_board_welcome_info_decrypt': 'Enter PIN\\nto decrypt',
+ 'side_effect_decryption_failure': 'Failed to decrypt',
+ 'side_effect_empty_input': 'Input must not be empty',
+ 'side_effect_feature_not_implemented': 'That feature is not yet implemented',
+ 'side_effect_generate_token_failed': 'Generate token failed',
+ 'side_effect_invalid_code': 'Invalid Code',
+ 'side_effect_invalid_pin': 'Di-wastong PIN',
+ 'side_effect_pin_length': 'Invalid PIN length'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-picture/src/main/res/values-b+fil/strings.xml:
+{'on_board_picture_bottom_menu_header': 'Larawan sa Profile', 'on_board_picture_side_effect_upload_failure': 'Failed to upload image', 'on_board_select_picture': 'Pumili ng Imahe'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-resources/src/main/res/values-b+fil/strings.xml:
+{'on_board_connect': 'Connect',
+ 'on_board_connect_paste_connection_code': 'Idikit ang iyong code ng koneksyon...',
+ 'on_board_connect_paste_keys': 'Idikit ang iyong mga susi...',
+ 'on_board_connected_subtitle': 'Your app is now connected',
+ 'on_board_connecting': 'Kumokonekta...',
+ 'on_board_continue': 'Magpatuloy',
+ 'on_board_desktop_get_it_now': 'Kunin Ito Ngayon',
+ 'on_board_desktop_skip': 'Laktawan',
+ 'on_board_desktop_title': '"Don\'t you have\\nSphinx for desktop?"',
+ 'on_board_edit_text_hint_decrypt': 'Enter PIN…',
+ 'on_board_existing_user': 'Existing User',
+ 'on_board_finish_button': 'Finish',
+ 'on_board_friend_message': 'A message from your friend…',
+ 'on_board_get_started_button': 'Magsimula',
+ 'on_board_lightning_title': '"You are now on the\\nLightning Network!"',
+ 'on_board_new_user': 'New User',
+ 'on_board_next_button': 'Next',
+ 'on_board_paste_connection_code': '"Paste your connection code\\ninto Sphinx"',
+ 'on_board_paste_keys': '"Copy your keys from your\\ndesktop app and paste it here"',
+ 'on_board_submit': 'Ipasa',
+ 'on_board_welcome': 'Maligayang Pagdating',
+ 'on_board_welcome_info_decrypt': 'Enter PIN\\nto decrypt',
+ 'side_effect_create_inviter_failed': 'Failed to create inviter',
+ 'side_effect_decryption_failure': 'Failed to decrypt',
+ 'side_effect_empty_input': 'Input must not be empty',
+ 'side_effect_generate_token_failed': 'Generate token failed',
+ 'side_effect_get_contacts_failed': 'Failed to retrieve main contact',
+ 'side_effect_invalid_code': 'Invalid Code',
+ 'side_effect_invalid_invite': 'Invalid Invite',
+ 'side_effect_invalid_pin': 'Di-wastong PIN',
+ 'side_effect_pin_length': 'Invalid PIN length',
+ 'side_effect_update_owner_failed': 'Failed to update main contact',
+ 'sign_up_name_edit_text_hint': 'Itakda ang Iyong Pangalan',
+ 'sign_up_name_text_view': 'Ang pangalan mo',
+ 'sphinx_ready_balance_label': '"You can send messages,\\nspend %d sats, or receive\\nup to %d sats."',
+ 'sphinx_ready_label': '"You\\\'re ready\\nto use Sphinx!"',
+ 'sphinx_ready_loading_balance': 'Loading node balance…'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/address-book/address-book/src/main/res/values-b+fil/strings.xml:
+{'add_friend': 'Magdagdag ng Kaibigan',
+ 'add_icon': '\ue145',
+ 'address_book_header_name': 'Address Book',
+ 'alert_confirm_block_contact': 'Sigurado ka bang gusto mong i-block ang kontak na ito?',
+ 'alert_confirm_block_contact_title': 'I-block ang Kontak',
+ 'alert_confirm_delete_contact': 'Sigurado ka bang gusto mong tanggalin ang kontak na ito?',
+ 'alert_confirm_delete_contact_title': 'Tanggalin ang Kontak',
+ 'alert_confirm_unblock_contact': 'Sigurado ka bang gusto mong i-unblock ang Kontak na ito?',
+ 'alert_confirm_unblock_contact_title': 'I-unblock ang Kontak',
+ 'block_contact': 'Block',
+ 'delete_contact': 'Delete',
+ 'search': 'Maghanap',
+ 'swipe_left_to_delete': 'Swipe left to delete or block contact',
+ 'unblock_contact': 'Unblock'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication-resources/src/main/res/values-b+fil/strings.xml:
+{'sphinx_authentication_enter_pin': 'IPASOK ANG PIN'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication/src/main/res/values-b+fil/strings.xml:
+{'enter_pin_encrypt': 'Enter your PIN to encrypt your keys. You will need it when restoring your account on another device',
+ 'flow_response_decrypting_key': 'Validating PIN',
+ 'flow_response_encrypting_key_with_new_pin': 'Re-encrypting your key with new PIN',
+ 'flow_response_generating_encrypting_key': 'Generating and encrypting your key',
+ 'header_confirm_pin': 'Confirm PIN',
+ 'header_enter_pin': 'Enter PIN',
+ 'header_reset_step_1': 'Enter New PIN',
+ 'header_reset_step_2': 'Confirm New PIN',
+ 'wrong_pin': 'Wrong PIN',
+ 'wrong_pin_one_more_attempt': '1 more attempt before being locked out',
+ 'wrong_pin_pin_does_not_match': 'PIN did not match'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-tribe/src/main/res/values-b+fil/strings.xml:
+{'bottom_menu_tribe_header_text': 'Mga Pagpipilian ng Tribo',
+ 'bottom_menu_tribe_option_add_member': 'mag-dagdag ng Miyembro',
+ 'bottom_menu_tribe_option_delete_tribe': 'Tanggalin ang Tribo',
+ 'bottom_menu_tribe_option_edit_tribe': 'I-Edit ang Tribo',
+ 'bottom_menu_tribe_option_exit_tribe': 'Lumabas sa Tribo',
+ 'bottom_menu_tribe_option_share_tribe': 'Share Tribe QR code'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-share-qr-code/src/main/res/values-b+fil/strings.xml:
+{'bottom_menu_share_qr_code_header_text': 'Share QR Code Options',
+ 'bottom_menu_share_qr_code_option_save_and_share_image': 'Save and Share Image',
+ 'bottom_menu_share_qr_code_option_share_text': 'Share Text'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom/src/main/res/values-b+fil/strings.xml:
+{'menu_bottom_cancel': 'Kanselahin', 'menu_bottom_dismiss': 'I-dismiss', 'menu_bottom_header_subtext': 'Mangyaring pumili ng opsyon'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/chat-detail/tribe-detail/src/main/res/values-b+fil/strings.xml:
+{'alert_confirm_delete_tribe_heading': 'Delete %s',
+ 'alert_confirm_delete_tribe_message': 'Are you sure you want to delete the tribe?',
+ 'alert_confirm_exit_tribe_heading': 'Exit %s',
+ 'alert_confirm_exit_tribe_message': 'Are you sure you want to exit the tribe?',
+ 'alias': 'Alyas',
+ 'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+ 'failed_to_delete_tribe': 'Failed to delete tribe',
+ 'failed_to_exit_tribe': 'Failed to exit tribe',
+ 'failed_to_update_profile_alias': 'Failed to update tribe alias',
+ 'failed_to_update_profile_pic': 'Failed to update tribe profile picture',
+ 'podcast_sats_per_minute': 'Podcast: sats per minute',
+ 'profile_picture': 'Larawan sa Profile',
+ 'qr_code_title': 'Join Tribe Link',
+ 'tribe_badges': 'Mga Badge ng Tribo',
+ 'tribe_costs': 'Price per message: %d sat - Amount to Stake: %d sat',
+ 'tribe_created_on': 'Created on %s',
+ 'tribe_detail_header_name': 'TRIBE DETAIL',
+ 'tribe_members_list': 'MEMBERS LIST'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-receive/payment-receive/src/main/res/values-b+fil/strings.xml:
+{'payment_receive_header_name': 'HUMILING NG HALAGA', 'requested_amount_too_high': 'Requested amount is too high'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-template/payment-template/src/main/res/values-b+fil/strings.xml:
+{'payment_template_header_name': 'PAYMENT TEMPLATE', 'text_view_message_place_holder': 'Walang Mensahe'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-common/payment-common/src/main/res/values-b+fil/strings.xml:
+{'add_message_hint': 'Magdagdag ng Mensahe',
+ 'alert_confirm_payment_send_message': 'Are you sure you want to send a payment of %1$d sat to %2$s?',
+ 'alert_confirm_payment_send_title': 'None',
+ 'balance_too_low': 'Masyadong mababa ang balanse',
+ 'confirm_button': 'KUMPIRMAHIN',
+ 'continue_button': 'IPAGPATULOY',
+ 'destination_key': 'Pampublikong susi',
+ 'error_processing_payment': 'There was an error processing payment, please try again later.',
+ 'payment_common_header_name': 'MAGPADALA NG BAYAD',
+ 'payment_sent': 'Payment of %1$d sat sent to %2$s'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-send/payment-send/src/main/res/values-b+fil/strings.xml:
+{'amount_too_high': 'Amount is too high', 'invalid_node_pub_key_qr_code': 'QR code is not a Lightning Node Public Key', 'payment_send_header_name': 'MAGPADALA NG BAYAD'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/contact/new-contact/src/main/res/values-b+fil/strings.xml:
+{'new_contact_header_name': 'BAGONG CONTACT', 'save_to_contacts_button': 'I-SAVE SA MGA CONTACT'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/notification-level/notification-level/src/main/res/values-b+fil/strings.xml:
+{'notification_level_failed': 'Failed to set notification level',
+ 'notification_level_header_name': 'NOTIFICATIONS',
+ 'notification_level_mute_chat': 'Mute chat',
+ 'notification_level_only_mentions': 'Only mentions',
+ 'notification_level_see_all': 'See all'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/join-tribe/join-tribe/src/main/res/values-b+fil/strings.xml:
+{'alias_edit_text_label': 'Alyas',
+ 'amount_to_stake_label': 'Amount to stake:',
+ 'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+ 'error_joining': 'There was an error joining tribe. Please try again later',
+ 'failed_to_process_image': 'Failed to process image',
+ 'invalid_tribe': 'Invalid Tribe',
+ 'join_tribe_alias_empty': 'Alias is required.',
+ 'join_tribe_button': 'SUMALI SA TRIBO',
+ 'join_tribe_header_name': 'SUMALI SA TRIBO',
+ 'loading_tribe_text_view': 'Nilo-load ang impormasyon ng Tribo...',
+ 'price_per_message_label': 'Price per message:',
+ 'price_to_join_label': 'Price to join:',
+ 'profile_picture': 'Larawan sa Profile',
+ 'time_to_stake_label': 'Time to stake (hours):'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/newsletter-detail/newsletter-detail/src/main/res/values-b+fil/strings.xml:
+{'articles': 'Mga Artikulo', 'newsletter': 'NEWSLETTER'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/camera/camera/src/main/res/values-b+fil/strings.xml:
+{'camera_cancel': 'Kanselahin',
+ 'camera_permissions_required': 'Camera and Audio Permissions are required to use this feature, please enable them in Settings.',
+ 'camera_retake': 'Retake',
+ 'camera_shutter_instruction': 'Tap for picture, hold for video',
+ 'camera_use_photo': 'Use Photo',
+ 'camera_use_video': 'Use Video'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-members-list/tribe-members-list/src/main/res/values-b+fil/strings.xml:
+{'delete_member': 'Delete',
+ 'loading_more': 'Loading more...',
+ 'pending_tribe_members_header': 'PENDING MEMBERS',
+ 'tribe_members_list': 'MEMBERS LIST',
+ 'tribe_members_list_header': 'MGA MIYEMBRO NG TRIBO'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/qr-code/qr-code/src/main/res/values-b+fil/strings.xml:
+{'copy': 'Kopya',
+ 'paid': 'BINAYARAN',
+ 'qr_code_notify_copied': '%s copied to clipboard',
+ 'share': 'Ibahagi',
+ 'share_qr_code_as_image_plus_text': 'Share QR Code as Image+Text',
+ 'share_qr_code_as_text': 'Share QR Code as Text'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/transactions/transactions/src/main/res/values-b+fil/strings.xml:
+{'loading_more': 'Loading more...', 'transactions_header_name': 'MGA TRANSAKSIYON'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/invite-friend/invite-friend/src/main/res/values-b+fil/strings.xml:
+{'invite_failed': 'Invite failed. Please try again later.',
+ 'invite_friend_create_invitation_button': 'Gumawa ng Imbitasyon',
+ 'invite_friend_estimated_cost_text_view': 'TINATAYANG HALAGA',
+ 'invite_friend_header_name': 'INVITE FRIEND',
+ 'invite_friend_message_hint': 'Maligayang pagdating sa Sphinx!',
+ 'invite_friend_message_label': 'MAGSAMA NG MENSAHE...',
+ 'invite_friend_nickname_empty': 'Nickname can not be empty',
+ 'invite_friend_nickname_label': 'PALAYAW'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/video-screen/video-screen/src/main/res/values-b+fil/strings.xml:
+{'delete_download': 'Delete Download', 'label_text_videos_list_header': 'Videos'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/web-view/web-view/src/main/res/values-b+fil/strings.xml:
+{'web_view_header_name': 'WEB VIEW'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/add-friend/add-friend/src/main/res/values-b+fil/strings.xml:
+{'add_friend_header_name': 'MAG-DAGDAG NG KAIBIGAN', 'already_on_sphinx_button': 'Nasa Sphinx na', 'new_to_sphinx_button': 'Bago sa Sphinx'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/common-player/src/main/res/values-b+fil/strings.xml:
+{'error_loading_recommendations': 'Error loading recommendations. Please try again later.', 'error_playing_clip': "This clip can\\'t be played."}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-badge/src/main/res/values-b+fil/strings.xml:
+{'badge_already_exist': 'You already have a badge of this type. You can manage it in the Existing Badges section'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/scanner/scanner/src/main/res/values-b+fil/strings.xml:
+{'scanner_bottom_content_label': 'O MANUAL NA IPASOK',
+ 'scanner_edit_text_hint': 'Code',
+ 'scanner_header_name': 'I-SCAN',
+ 'scanner_notify_permissions_needed': 'Camera Permissions are required to use this feature, please enable them in Settings',
+ 'scanner_verify_button': 'VERIFY'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/podcast-player/podcast-player/src/main/res/values-b+fil/strings.xml:
+{'boost_sent': 'Boost sent', 'label_text_episodes_list_header': 'Episodes', 'podcast_sats_per_minute': 'Sats bawat minuto'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/support-ticket/support-ticket/src/main/res/values-b+fil/strings.xml:
+{'copy_logs': 'Kopyahin ang Logs',
+ 'describe_your_problem_here': 'Describe your problem here…',
+ 'fetch_logs_failed': 'Failed to fetch logs',
+ 'logs_copied_to_clipboard': 'Nakopya ang mga log sa clipboard',
+ 'message_required': 'Message required',
+ 'no_logs_loaded': 'No logs loaded',
+ 'send_message': 'Magpadala ng Mensahe',
+ 'support_ticket_header_name': 'SUPORTA'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/splash/splash/src/main/res/values-b+fil/strings.xml:
+{'on_board_edit_text_hint_code': 'Enter Code…',
+ 'on_board_edit_text_hint_decrypt': 'Enter PIN…',
+ 'on_board_welcome': 'Maligayang Pagdating',
+ 'on_board_welcome_info_code': 'Paste the connection string\\nor scan the QR code',
+ 'on_board_welcome_info_decrypt': 'Enter PIN\\nto decrypt',
+ 'side_effect_decryption_failure': 'Failed to decrypt',
+ 'side_effect_empty_input': 'Input must not be empty',
+ 'side_effect_feature_not_implemented': 'That feature is not yet implemented',
+ 'side_effect_generate_token_failed': 'Generate token failed',
+ 'side_effect_invalid_code': 'Invalid Code',
+ 'side_effect_invalid_pin': 'Di-wastong PIN',
+ 'side_effect_pin_length': 'Invalid PIN length'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-picture/src/main/res/values-b+fil/strings.xml:
+{'on_board_picture_bottom_menu_header': 'Larawan sa Profile', 'on_board_picture_side_effect_upload_failure': 'Failed to upload image', 'on_board_select_picture': 'Pumili ng Imahe'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-resources/src/main/res/values-b+fil/strings.xml:
+{'on_board_connect': 'Connect',
+ 'on_board_connect_paste_connection_code': 'Idikit ang iyong code ng koneksyon...',
+ 'on_board_connect_paste_keys': 'Idikit ang iyong mga susi...',
+ 'on_board_connected_subtitle': 'Your app is now connected',
+ 'on_board_connecting': 'Kumokonekta...',
+ 'on_board_continue': 'Magpatuloy',
+ 'on_board_desktop_get_it_now': 'Kunin Ito Ngayon',
+ 'on_board_desktop_skip': 'Laktawan',
+ 'on_board_desktop_title': '"Don\'t you have\\nSphinx for desktop?"',
+ 'on_board_edit_text_hint_decrypt': 'Enter PIN…',
+ 'on_board_existing_user': 'Existing User',
+ 'on_board_finish_button': 'Finish',
+ 'on_board_friend_message': 'A message from your friend…',
+ 'on_board_get_started_button': 'Magsimula',
+ 'on_board_lightning_title': '"You are now on the\\nLightning Network!"',
+ 'on_board_new_user': 'New User',
+ 'on_board_next_button': 'Next',
+ 'on_board_paste_connection_code': '"Paste your connection code\\ninto Sphinx"',
+ 'on_board_paste_keys': '"Copy your keys from your\\ndesktop app and paste it here"',
+ 'on_board_submit': 'Ipasa',
+ 'on_board_welcome': 'Maligayang Pagdating',
+ 'on_board_welcome_info_decrypt': 'Enter PIN\\nto decrypt',
+ 'side_effect_create_inviter_failed': 'Failed to create inviter',
+ 'side_effect_decryption_failure': 'Failed to decrypt',
+ 'side_effect_empty_input': 'Input must not be empty',
+ 'side_effect_generate_token_failed': 'Generate token failed',
+ 'side_effect_get_contacts_failed': 'Failed to retrieve main contact',
+ 'side_effect_invalid_code': 'Invalid Code',
+ 'side_effect_invalid_invite': 'Invalid Invite',
+ 'side_effect_invalid_pin': 'Di-wastong PIN',
+ 'side_effect_pin_length': 'Invalid PIN length',
+ 'side_effect_update_owner_failed': 'Failed to update main contact',
+ 'sign_up_name_edit_text_hint': 'Itakda ang Iyong Pangalan',
+ 'sign_up_name_text_view': 'Ang pangalan mo',
+ 'sphinx_ready_balance_label': '"You can send messages,\\nspend %d sats, or receive\\nup to %d sats."',
+ 'sphinx_ready_label': '"You\\\'re ready\\nto use Sphinx!"',
+ 'sphinx_ready_loading_balance': 'Loading node balance…'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/address-book/address-book/src/main/res/values-b+fil/strings.xml:
+{'add_friend': 'Magdagdag ng Kaibigan',
+ 'add_icon': '\ue145',
+ 'address_book_header_name': 'Address Book',
+ 'alert_confirm_block_contact': 'Sigurado ka bang gusto mong i-block ang kontak na ito?',
+ 'alert_confirm_block_contact_title': 'I-block ang Kontak',
+ 'alert_confirm_delete_contact': 'Sigurado ka bang gusto mong tanggalin ang kontak na ito?',
+ 'alert_confirm_delete_contact_title': 'Tanggalin ang Kontak',
+ 'alert_confirm_unblock_contact': 'Sigurado ka bang gusto mong i-unblock ang Kontak na ito?',
+ 'alert_confirm_unblock_contact_title': 'I-unblock ang Kontak',
+ 'block_contact': 'Block',
+ 'delete_contact': 'Delete',
+ 'search': 'Maghanap',
+ 'swipe_left_to_delete': 'Swipe left to delete or block contact',
+ 'unblock_contact': 'Unblock'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication-resources/src/main/res/values-b+fil/strings.xml:
+{'sphinx_authentication_enter_pin': 'IPASOK ANG PIN'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication/src/main/res/values-b+fil/strings.xml:
+{'enter_pin_encrypt': 'Enter your PIN to encrypt your keys. You will need it when restoring your account on another device',
+ 'flow_response_decrypting_key': 'Validating PIN',
+ 'flow_response_encrypting_key_with_new_pin': 'Re-encrypting your key with new PIN',
+ 'flow_response_generating_encrypting_key': 'Generating and encrypting your key',
+ 'header_confirm_pin': 'Confirm PIN',
+ 'header_enter_pin': 'Enter PIN',
+ 'header_reset_step_1': 'Enter New PIN',
+ 'header_reset_step_2': 'Confirm New PIN',
+ 'wrong_pin': 'Wrong PIN',
+ 'wrong_pin_one_more_attempt': '1 more attempt before being locked out',
+ 'wrong_pin_pin_does_not_match': 'PIN did not match'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-tribe/src/main/res/values-b+fil/strings.xml:
+{'bottom_menu_tribe_header_text': 'Mga Pagpipilian ng Tribo',
+ 'bottom_menu_tribe_option_add_member': 'mag-dagdag ng Miyembro',
+ 'bottom_menu_tribe_option_delete_tribe': 'Tanggalin ang Tribo',
+ 'bottom_menu_tribe_option_edit_tribe': 'I-Edit ang Tribo',
+ 'bottom_menu_tribe_option_exit_tribe': 'Lumabas sa Tribo',
+ 'bottom_menu_tribe_option_share_tribe': 'Share Tribe QR code'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-share-qr-code/src/main/res/values-b+fil/strings.xml:
+{'bottom_menu_share_qr_code_header_text': 'Share QR Code Options',
+ 'bottom_menu_share_qr_code_option_save_and_share_image': 'Save and Share Image',
+ 'bottom_menu_share_qr_code_option_share_text': 'Share Text'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom/src/main/res/values-b+fil/strings.xml:
+{'menu_bottom_cancel': 'Kanselahin', 'menu_bottom_dismiss': 'I-dismiss', 'menu_bottom_header_subtext': 'Mangyaring pumili ng opsyon'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/chat-detail/tribe-detail/src/main/res/values-b+fil/strings.xml:
+{'alert_confirm_delete_tribe_heading': 'Delete %s',
+ 'alert_confirm_delete_tribe_message': 'Are you sure you want to delete the tribe?',
+ 'alert_confirm_exit_tribe_heading': 'Exit %s',
+ 'alert_confirm_exit_tribe_message': 'Are you sure you want to exit the tribe?',
+ 'alias': 'Alyas',
+ 'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+ 'failed_to_delete_tribe': 'Failed to delete tribe',
+ 'failed_to_exit_tribe': 'Failed to exit tribe',
+ 'failed_to_update_profile_alias': 'Failed to update tribe alias',
+ 'failed_to_update_profile_pic': 'Failed to update tribe profile picture',
+ 'podcast_sats_per_minute': 'Podcast: sats per minute',
+ 'profile_picture': 'Larawan sa Profile',
+ 'qr_code_title': 'Join Tribe Link',
+ 'tribe_badges': 'Mga Badge ng Tribo',
+ 'tribe_costs': 'Price per message: %d sat - Amount to Stake: %d sat',
+ 'tribe_created_on': 'Created on %s',
+ 'tribe_detail_header_name': 'TRIBE DETAIL',
+ 'tribe_members_list': 'MEMBERS LIST'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-receive/payment-receive/src/main/res/values-b+fil/strings.xml:
+{'payment_receive_header_name': 'HUMILING NG HALAGA', 'requested_amount_too_high': 'Requested amount is too high'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-template/payment-template/src/main/res/values-b+fil/strings.xml:
+{'payment_template_header_name': 'PAYMENT TEMPLATE', 'text_view_message_place_holder': 'Walang Mensahe'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-common/payment-common/src/main/res/values-b+fil/strings.xml:
+{'add_message_hint': 'Magdagdag ng Mensahe',
+ 'alert_confirm_payment_send_message': 'Are you sure you want to send a payment of %1$d sat to %2$s?',
+ 'alert_confirm_payment_send_title': 'None',
+ 'balance_too_low': 'Masyadong mababa ang balanse',
+ 'confirm_button': 'KUMPIRMAHIN',
+ 'continue_button': 'IPAGPATULOY',
+ 'destination_key': 'Pampublikong susi',
+ 'error_processing_payment': 'There was an error processing payment, please try again later.',
+ 'payment_common_header_name': 'MAGPADALA NG BAYAD',
+ 'payment_sent': 'Payment of %1$d sat sent to %2$s'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/payments/payment-send/payment-send/src/main/res/values-b+fil/strings.xml:
+{'amount_too_high': 'Amount is too high', 'invalid_node_pub_key_qr_code': 'QR code is not a Lightning Node Public Key', 'payment_send_header_name': 'MAGPADALA NG BAYAD'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/contact/new-contact/src/main/res/values-b+fil/strings.xml:
+{'new_contact_header_name': 'BAGONG CONTACT', 'save_to_contacts_button': 'I-SAVE SA MGA CONTACT'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/notification-level/notification-level/src/main/res/values-b+fil/strings.xml:
+{'notification_level_failed': 'Failed to set notification level',
+ 'notification_level_header_name': 'NOTIFICATIONS',
+ 'notification_level_mute_chat': 'Mute chat',
+ 'notification_level_only_mentions': 'Only mentions',
+ 'notification_level_see_all': 'See all'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/join-tribe/join-tribe/src/main/res/values-b+fil/strings.xml:
+{'alias_edit_text_label': 'Alyas',
+ 'amount_to_stake_label': 'Amount to stake:',
+ 'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+ 'error_joining': 'There was an error joining tribe. Please try again later',
+ 'failed_to_process_image': 'Failed to process image',
+ 'invalid_tribe': 'Invalid Tribe',
+ 'join_tribe_alias_empty': 'Alias is required.',
+ 'join_tribe_button': 'SUMALI SA TRIBO',
+ 'join_tribe_header_name': 'SUMALI SA TRIBO',
+ 'loading_tribe_text_view': 'Nilo-load ang impormasyon ng Tribo...',
+ 'price_per_message_label': 'Price per message:',
+ 'price_to_join_label': 'Price to join:',
+ 'profile_picture': 'Larawan sa Profile',
+ 'time_to_stake_label': 'Time to stake (hours):'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/newsletter-detail/newsletter-detail/src/main/res/values-b+fil/strings.xml:
+{'articles': 'Mga Artikulo', 'newsletter': 'NEWSLETTER'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/camera/camera/src/main/res/values-b+fil/strings.xml:
+{'camera_cancel': 'Kanselahin',
+ 'camera_permissions_required': 'Camera and Audio Permissions are required to use this feature, please enable them in Settings.',
+ 'camera_retake': 'Retake',
+ 'camera_shutter_instruction': 'Tap for picture, hold for video',
+ 'camera_use_photo': 'Use Photo',
+ 'camera_use_video': 'Use Video'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-members-list/tribe-members-list/src/main/res/values-b+fil/strings.xml:
+{'delete_member': 'Delete',
+ 'loading_more': 'Loading more...',
+ 'pending_tribe_members_header': 'PENDING MEMBERS',
+ 'tribe_members_list': 'MEMBERS LIST',
+ 'tribe_members_list_header': 'MGA MIYEMBRO NG TRIBO'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/qr-code/qr-code/src/main/res/values-b+fil/strings.xml:
+{'copy': 'Kopya',
+ 'paid': 'BINAYARAN',
+ 'qr_code_notify_copied': '%s copied to clipboard',
+ 'share': 'Ibahagi',
+ 'share_qr_code_as_image_plus_text': 'Share QR Code as Image+Text',
+ 'share_qr_code_as_text': 'Share QR Code as Text'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/transactions/transactions/src/main/res/values-b+fil/strings.xml:
+{'loading_more': 'Loading more...', 'transactions_header_name': 'MGA TRANSAKSIYON'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/invite-friend/invite-friend/src/main/res/values-b+fil/strings.xml:
+{'invite_failed': 'Invite failed. Please try again later.',
+ 'invite_friend_create_invitation_button': 'Gumawa ng Imbitasyon',
+ 'invite_friend_estimated_cost_text_view': 'TINATAYANG HALAGA',
+ 'invite_friend_header_name': 'INVITE FRIEND',
+ 'invite_friend_message_hint': 'Maligayang pagdating sa Sphinx!',
+ 'invite_friend_message_label': 'MAGSAMA NG MENSAHE...',
+ 'invite_friend_nickname_empty': 'Nickname can not be empty',
+ 'invite_friend_nickname_label': 'PALAYAW'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/video-screen/video-screen/src/main/res/values-b+fil/strings.xml:
+{'delete_download': 'Delete Download', 'label_text_videos_list_header': 'Videos'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/web-view/web-view/src/main/res/values-b+fil/strings.xml:
+{'web_view_header_name': 'WEB VIEW'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/add-friend/add-friend/src/main/res/values-b+fil/strings.xml:
+{'add_friend_header_name': 'MAG-DAGDAG NG KAIBIGAN', 'already_on_sphinx_button': 'Nasa Sphinx na', 'new_to_sphinx_button': 'Bago sa Sphinx'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/common-player/src/main/res/values-b+fil/strings.xml:
+{'error_loading_recommendations': 'Error loading recommendations. Please try again later.', 'error_playing_clip': "This clip can\\'t be played."}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/tribe-badge/src/main/res/values-b+fil/strings.xml:
+{'badge_already_exist': 'You already have a badge of this type. You can manage it in the Existing Badges section'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/scanner/scanner/src/main/res/values-b+fil/strings.xml:
+{'scanner_bottom_content_label': 'O MANUAL NA IPASOK',
+ 'scanner_edit_text_hint': 'Code',
+ 'scanner_header_name': 'I-SCAN',
+ 'scanner_notify_permissions_needed': 'Camera Permissions are required to use this feature, please enable them in Settings',
+ 'scanner_verify_button': 'VERIFY'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/podcast-player/podcast-player/src/main/res/values-b+fil/strings.xml:
+{'boost_sent': 'Boost sent', 'label_text_episodes_list_header': 'Episodes', 'podcast_sats_per_minute': 'Sats bawat minuto'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens-detail/support-ticket/support-ticket/src/main/res/values-b+fil/strings.xml:
+{'copy_logs': 'Kopyahin ang Logs',
+ 'describe_your_problem_here': 'Describe your problem here…',
+ 'fetch_logs_failed': 'Failed to fetch logs',
+ 'logs_copied_to_clipboard': 'Nakopya ang mga log sa clipboard',
+ 'message_required': 'Message required',
+ 'no_logs_loaded': 'No logs loaded',
+ 'send_message': 'Magpadala ng Mensahe',
+ 'support_ticket_header_name': 'SUPORTA'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/splash/splash/src/main/res/values-b+fil/strings.xml:
+{'on_board_edit_text_hint_code': 'Enter Code…',
+ 'on_board_edit_text_hint_decrypt': 'Enter PIN…',
+ 'on_board_welcome': 'Maligayang Pagdating',
+ 'on_board_welcome_info_code': 'Paste the connection string\\nor scan the QR code',
+ 'on_board_welcome_info_decrypt': 'Enter PIN\\nto decrypt',
+ 'side_effect_decryption_failure': 'Failed to decrypt',
+ 'side_effect_empty_input': 'Input must not be empty',
+ 'side_effect_feature_not_implemented': 'That feature is not yet implemented',
+ 'side_effect_generate_token_failed': 'Generate token failed',
+ 'side_effect_invalid_code': 'Invalid Code',
+ 'side_effect_invalid_pin': 'Di-wastong PIN',
+ 'side_effect_pin_length': 'Invalid PIN length'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-picture/src/main/res/values-b+fil/strings.xml:
+{'on_board_picture_bottom_menu_header': 'Larawan sa Profile', 'on_board_picture_side_effect_upload_failure': 'Failed to upload image', 'on_board_select_picture': 'Pumili ng Imahe'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/onboard/onboard-resources/src/main/res/values-b+fil/strings.xml:
+{'on_board_connect': 'Connect',
+ 'on_board_connect_paste_connection_code': 'Idikit ang iyong code ng koneksyon...',
+ 'on_board_connect_paste_keys': 'Idikit ang iyong mga susi...',
+ 'on_board_connected_subtitle': 'Your app is now connected',
+ 'on_board_connecting': 'Kumokonekta...',
+ 'on_board_continue': 'Magpatuloy',
+ 'on_board_desktop_get_it_now': 'Kunin Ito Ngayon',
+ 'on_board_desktop_skip': 'Laktawan',
+ 'on_board_desktop_title': '"Don\'t you have\\nSphinx for desktop?"',
+ 'on_board_edit_text_hint_decrypt': 'Enter PIN…',
+ 'on_board_existing_user': 'Existing User',
+ 'on_board_finish_button': 'Finish',
+ 'on_board_friend_message': 'A message from your friend…',
+ 'on_board_get_started_button': 'Magsimula',
+ 'on_board_lightning_title': '"You are now on the\\nLightning Network!"',
+ 'on_board_new_user': 'New User',
+ 'on_board_next_button': 'Next',
+ 'on_board_paste_connection_code': '"Paste your connection code\\ninto Sphinx"',
+ 'on_board_paste_keys': '"Copy your keys from your\\ndesktop app and paste it here"',
+ 'on_board_submit': 'Ipasa',
+ 'on_board_welcome': 'Maligayang Pagdating',
+ 'on_board_welcome_info_decrypt': 'Enter PIN\\nto decrypt',
+ 'side_effect_create_inviter_failed': 'Failed to create inviter',
+ 'side_effect_decryption_failure': 'Failed to decrypt',
+ 'side_effect_empty_input': 'Input must not be empty',
+ 'side_effect_generate_token_failed': 'Generate token failed',
+ 'side_effect_get_contacts_failed': 'Failed to retrieve main contact',
+ 'side_effect_invalid_code': 'Invalid Code',
+ 'side_effect_invalid_invite': 'Invalid Invite',
+ 'side_effect_invalid_pin': 'Di-wastong PIN',
+ 'side_effect_pin_length': 'Invalid PIN length',
+ 'side_effect_update_owner_failed': 'Failed to update main contact',
+ 'sign_up_name_edit_text_hint': 'Itakda ang Iyong Pangalan',
+ 'sign_up_name_text_view': 'Ang pangalan mo',
+ 'sphinx_ready_balance_label': '"You can send messages,\\nspend %d sats, or receive\\nup to %d sats."',
+ 'sphinx_ready_label': '"You\\\'re ready\\nto use Sphinx!"',
+ 'sphinx_ready_loading_balance': 'Loading node balance…'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/address-book/address-book/src/main/res/values-b+fil/strings.xml:
+{'add_friend': 'Magdagdag ng Kaibigan',
+ 'add_icon': '\ue145',
+ 'address_book_header_name': 'Address Book',
+ 'alert_confirm_block_contact': 'Sigurado ka bang gusto mong i-block ang kontak na ito?',
+ 'alert_confirm_block_contact_title': 'I-block ang Kontak',
+ 'alert_confirm_delete_contact': 'Sigurado ka bang gusto mong tanggalin ang kontak na ito?',
+ 'alert_confirm_delete_contact_title': 'Tanggalin ang Kontak',
+ 'alert_confirm_unblock_contact': 'Sigurado ka bang gusto mong i-unblock ang Kontak na ito?',
+ 'alert_confirm_unblock_contact_title': 'I-unblock ang Kontak',
+ 'block_contact': 'Block',
+ 'delete_contact': 'Delete',
+ 'search': 'Maghanap',
+ 'swipe_left_to_delete': 'Swipe left to delete or block contact',
+ 'unblock_contact': 'Unblock'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication-resources/src/main/res/values-b+fil/strings.xml:
+{'sphinx_authentication_enter_pin': 'IPASOK ANG PIN'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/screens/authentication/authentication/src/main/res/values-b+fil/strings.xml:
+{'enter_pin_encrypt': 'Enter your PIN to encrypt your keys. You will need it when restoring your account on another device',
+ 'flow_response_decrypting_key': 'Validating PIN',
+ 'flow_response_encrypting_key_with_new_pin': 'Re-encrypting your key with new PIN',
+ 'flow_response_generating_encrypting_key': 'Generating and encrypting your key',
+ 'header_confirm_pin': 'Confirm PIN',
+ 'header_enter_pin': 'Enter PIN',
+ 'header_reset_step_1': 'Enter New PIN',
+ 'header_reset_step_2': 'Confirm New PIN',
+ 'wrong_pin': 'Wrong PIN',
+ 'wrong_pin_one_more_attempt': '1 more attempt before being locked out',
+ 'wrong_pin_pin_does_not_match': 'PIN did not match'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-tribe/src/main/res/values-b+fil/strings.xml:
+{'bottom_menu_tribe_header_text': 'Mga Pagpipilian ng Tribo',
+ 'bottom_menu_tribe_option_add_member': 'mag-dagdag ng Miyembro',
+ 'bottom_menu_tribe_option_delete_tribe': 'Tanggalin ang Tribo',
+ 'bottom_menu_tribe_option_edit_tribe': 'I-Edit ang Tribo',
+ 'bottom_menu_tribe_option_exit_tribe': 'Lumabas sa Tribo',
+ 'bottom_menu_tribe_option_share_tribe': 'Share Tribe QR code'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom-share-qr-code/src/main/res/values-b+fil/strings.xml:
+{'bottom_menu_share_qr_code_header_text': 'Share QR Code Options',
+ 'bottom_menu_share_qr_code_option_save_and_share_image': 'Save and Share Image',
+ 'bottom_menu_share_qr_code_option_share_text': 'Share Text'}
+---------------
+/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/application/common/menus/menu-bottom/src/main/res/values-b+fil/strings.xml:
+{'menu_bottom_cancel': 'Kanselahin', 'menu_bottom_dismiss': 'I-dismiss', 'menu_bottom_header_subtext': 'Mangyaring pumili ng opsyon'}
+---------------

@@ -160,6 +160,39 @@ def translate_each_android_file():
                     
     output_file.close()
 
+import xml.etree.ElementTree as ET
+
+#pulls key value pairs from translated tagalog txt file
+def update_android_translations():
+    conn = sqlite3.connect('translations.db')
+    c = conn.cursor()
+
+    with open('no_translations_android.txt', 'w') as output_file:
+        for dirpath, dirnames, filenames in os.walk('/Users/jamescarucci/Documents/GitLab/sphinx-kotlin/sphinx/'):
+            for filename in [f for f in filenames if f.endswith('.xml')]:
+                if 'values-b+fil' in dirpath:
+                    xml_path = os.path.join(dirpath, filename)
+                    print(f"Processing {xml_path}")
+                    try:
+                        tree = ET.parse(xml_path)
+                        root = tree.getroot()
+                        for string_element in root.findall("./string"):
+                            key = string_element.get("name")
+                            value = string_element.text
+
+                            c.execute('SELECT id FROM translations WHERE translation_id=?', (key,))
+                            row = c.fetchone()
+                            if row is not None:
+                                translation_id = row[0]
+                                c.execute('UPDATE translations SET fil=? WHERE id=?', (value, translation_id))
+                                print(f"Updated translation for {key}")
+                            else:
+                                output_file.write(f"No translation found for {key} in {xml_path}\n")
+                                print(f"No translation found for {key} in {xml_path}")
+                    except Exception as e:
+                        print(f"Error processing file {xml_path}: {e}")
+    conn.commit()
+    conn.close()
 
 
 def scan_and_populate_db_from_ios_ui_files(lang_code):
@@ -292,6 +325,7 @@ def translate_mac_main_localization_file_to_filipino():
 
 import os
 import re
+import string
 
 def translate_swift_files_to_filipino():
     # Connect to the database
@@ -299,11 +333,11 @@ def translate_swift_files_to_filipino():
     c = conn.cursor()
 
     # Define the path to search for Swift files
-    path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac'
+    path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop'
 
     # Define the regular expression to match localized strings
     localized_string_regex = re.compile(r'(?<=\")(.*?)(?=\"\s*=\s*\")(.*?)(?=\";)')
-    no_translations = {}
+    no_translation = ""
     # Walk through the directory tree and find all Swift files
     for dirpath, dirnames, filenames in os.walk(path):
         for filename in [f for f in filenames if f.endswith(".strings") and "fil.lproj" in dirpath]:
@@ -316,27 +350,95 @@ def translate_swift_files_to_filipino():
             # Loop through the matches and translate each string
             for key, value in matches:
                 # Look up the Filipino translation in the database
+                if(len(value.split('" = "'))>1):
+                    value = value.split('" = "')[1]
                 c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
                 result = c.fetchone()
 
                 # If a Filipino translation is found, replace the English value with it
-                if result is not None and result is not "None":
+                if result is not None:
                     filipino = result[0]
                     content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
                 else:
-                    c.execute('SELECT fil FROM translations WHERE fil = ?', (value,))
-                    result = c.fetchone()
-                    if result is None:
-                        print(f"No filipino translation for {value}")      
-
+                    # Exclude the equals sign and double quotes before the string value
+                    print(f"no translation for: {value}")
+                    print(f"at dirpath:{dirpath}")
+                    no_translation+=(value)
+                    no_translation+=("\n")
+                    no_translation+=("(" + dirpath + ")")
+                    no_translation+=("\n")
+                    no_translation+=("------")
+                    no_translation+=("\n")
 
             # Write the modified contents back to the file
             # with open(os.path.join(dirpath, filename), 'w') as f:
             #     f.write(content)
-            # pprint.pprint(content)
+
+            with open(os.path.join("/Users/jamescarucci/Documents/GitLab/sphinx-translations-importer-exporter/Translations Database", "mac_no_translations.txt"), 'w') as f:
+                f.write(no_translation)
 
     # Close the database connection
     conn.close()
+
+
+import ast
+
+def sanitize_string(s):
+    """Sanitizes a string by removing any non-printable characters"""
+    return ''.join(filter(lambda x: x in string.printable, s))
+
+def import_dictionary_based_translations_to_db():
+    filename = 'android_translations.txt'
+    # Connect to the database
+    conn = sqlite3.connect('translations.db')
+    c = conn.cursor()
+
+    with open(filename, 'r') as f:
+        content = f.read()
+
+        # Split the file content into individual dictionaries
+        dictionaries = content.split('---------------\n')
+
+        # Loop through the dictionaries and extract the key-value pairs
+        for dictionary_str in dictionaries:
+            # Skip empty dictionaries
+            if not dictionary_str.strip():
+                continue
+
+            # Convert the dictionary string to a dictionary object
+            try:
+                dictionary = ast.literal_eval(dictionary_str.strip())
+            except SyntaxError as e:
+                print(f'Error parsing dictionary: {e}')
+                continue
+
+            # Loop through the key-value pairs and insert/update them in the database
+            for key, value in dictionary.items():
+                # Sanitize the key and value strings
+                key = sanitize_string(key)
+                value = sanitize_string(value)
+
+                # Look up the translation_id in the database
+                c.execute('SELECT id FROM translations WHERE translation_id = ?', (key,))
+                result = c.fetchone()
+
+                # If no row exists, create a new one with the translation_id and Filipino translation
+                if result is None:
+                    c.execute('INSERT INTO translations (translation_id, fil) VALUES (?, ?)', (key, value))
+                    print(f'Inserted {key} into db')
+                else:
+                    # Otherwise, update the existing row with the Filipino translation
+                    id = result[0]
+                    c.execute('UPDATE translations SET fil = ? WHERE id = ?', (value, id))
+                    print(f'Updated {key} in db')
+
+        # Commit the changes to the database
+        conn.commit()
+
+    # Close the database connection
+    conn.close()
+
+
 
 
 
@@ -360,5 +462,16 @@ def translate_swift_files_to_filipino():
 # translate_each_android_file()
 
 #translate_mac_main_localization_file_to_filipino()
+
+#translate_swift_files_to_filipino()
+
+
+#import_dictionary_based_translations_to_db()
+
+
+# update_android_translations()
+# translate_each_android_file()
+
+#import_dictionary_based_translations_to_db()
 
 translate_swift_files_to_filipino()

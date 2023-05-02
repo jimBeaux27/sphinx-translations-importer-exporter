@@ -1,0 +1,98 @@
+
+{'add_member': 'mag-add ng Miyembro',
+'add_member_header_name': 'MAG-ADD NG MIYEMBRO SA GRUPO',
+'bottom_menu_member_pic_header_text': 'Litrato ng Miyembro',
+'failed_to_add_member': 'Nabigong Pag-add ng miyembro',
+'failed_to_process_image': 'Nabigong i-proseso ang larawan',
+'invalid_public_key': 'Di-wastong Public Key',
+'invalid_route_hint': Di-wastong Route Hint',
+'member_alias': 'Alyas *',
+'member_contact_key': Key Pang-contact *',
+'member_image': 'Imahe ng miyembro ng grupo',
+'member_info_required': 'Kinakailangan ang Alyas, Public Key at Contact Key',
+'member_public_key': 'Public Key*'}
+---------------
+
+{'alert_confirm_delete_tribe_heading': 'Burahin %s',
+'alert_confirm_delete_tribe_message': 'Sigurado ka bang gusto mong tanggalin ang tribo?',
+'alert_confirm_exit_tribe_heading': 'Exit %s',
+'alert_confirm_exit_tribe_message': 'Sigurado ka bang gusto mong mag-exit sa tribo?',
+'alias': 'Alyas',
+'bottom_menu_tribe_profile_pic_header_text': 'Profile Picture ng Tribo',
+'failed_to_delete_tribe': 'Nabigong I-delete ang tribo',
+'failed_to_exit_tribe': 'Nabigong pag-exit sa tribo',
+'failed_to_update_profile_alias': Nabigong i-update ang alyas ng tribo',
+'failed_to_update_profile_pic': 'Nabigong i-update ang profile picture ng tribo',
+'podcast_sats_per_minute': 'Podcast: sats bawat minuto',
+'profile_picture': 'Profile Picture',
+'qr_code_title': 'Sumali sa Tribe Link',
+'tribe_badges': Badges ng Tribo',
+'tribe_costs': 'Price per message: %d sat - Amount to Stake: %d sat',
+'tribe_created_on': 'Nilikha noong %s',
+'tribe_detail_header_name': 'DETALYE NG TRIBO',
+'tribe_members_list': 'MEMBERS LIST'}
+---------------
+{'payment_receive_header_name': 'HUMILING NG HALAGA', 'requested_amount_too_high': 'Masyadong mataas ang hinihiling na halaga'}
+---------------
+{'payment_template_header_name': 'TEMPLATE NG PAGBAYAD', 'text_view_message_place_holder': 'Walang Mensahe'}
+---------------
+{'add_message_hint': 'Mag-add ng Mensahe',
+'alert_confirm_payment_send_message': 'Sure ka bang gusto mo mag-send ng bayad %1$d sat sa %2$s?',
+'alert_confirm_payment_send_title': 'Wala',
+'balance_too_low': 'Napakababa ng balanse',
+'confirm_button': 'KUMPIRMAHIN',
+'continue_button': 'IPAGPATULOY',
+'destination_key': 'Public key',
+'error_processing_payment': 'Nagkaroon ng error sa pagproseso ng pagbabayad, please try mo ulit later.',
+'payment_common_header_name': 'MAG-SEND NG BAYAD',
+'payment_sent': 'Payment of %1$d sat sent to %2$s'}
+---------------
+{'amount_too_high': 'Amount is too high', 'invalid_node_pub_key_qr_code': 'QR code is not a Lightning Node Public Key', 'payment_send_header_name': 'MAG-SEND NG BAYAD'}
+---------------
+{'new_contact_header_name': 'BAGONG CONTACT', 'save_to_contacts_button': 'I-SAVE SA MGA CONTACT'}
+---------------
+{'save_contact_button': 'I-SAVE'}
+---------------
+{'edit_contact_header_subscribe_button': 'Subscribe',
+'edit_contact_header_subscribed_button': 'Subscribed',
+'failed_to_update_contact': 'Nabigong i-save ang contact',
+'new_contact_address_label': 'Wala',
+'new_contact_invalid_public_key_error': 'Di-wastong Public Key',
+'new_contact_invalid_route_hint_error': 'Wala',
+'new_contact_nickname_address_empty': 'Kinakailangan ang Palayaw at Address',
+'new_contact_nickname_label': 'Palayaw *',
+'new_contact_privacy_setting_help': 'Kung aktibo ang setting ng privacy, ipakita lamang ang contact pag ginamit ang tamang PIN sa privacy upang mag-log in sa Sphinx. Kailangan mo 
+munang itakda '
+'Privacy PIN from Profile to use this feature'}
+---------------
+{'notification_level_failed': 'Nabigong –set ang antas ng notification',
+'notification_level_header_name': 'NOTIFICATIONS',
+'notification_level_mute_chat': 'I-Mute ang chat',
+'notification_level_only_mentions': ‘Mentions lamang',
+'notification_level_see_all': 'Ipakita lahat'}
+---------------
+{'alias_edit_text_label': 'Alyas',
+'amount_to_stake_label': 'Amount to stake:',
+'bottom_menu_tribe_profile_pic_header_text': 'Tribe Profile Picture',
+'error_joining': 'Nagkaron ng error sa pagsali sa tribo. Please try again later',
+'failed_to_process_image': 'Nabigong i-proseso ang Imahe,
+'invalid_tribe': 'Invalid Tribe',
+'join_tribe_alias_empty': 'Kailangan ang Alyas.',
+'join_tribe_button': 'SUMALI SA TRIBO',
+'join_tribe_header_name': 'SUMALI SA TRIBO',
+'loading_tribe_text_view': 'Nilo-load ang impormasyon ng Tribo...',
+'price_per_message_label': ‘Presyo kada mensahe:',
+'price_to_join_label': ‘Presyo para sumali:',
+'profile_picture': 'Larawan sa Profile',
+'time_to_stake_label': 'Oras para mag-stake (oras):'}
+---------------
+{'articles': 'Mga Artikulo', 'newsletter': 'NEWSLETTER'}
+---------------
+{'camera_cancel': 'Kanselahin',
+'camera_permissions_required': 'Kinakailangan ang Mga Pahintulot sa Camera at Audio upang magamit ang feature na ito, mangyaring paganahin ang mga ito sa Settings.',
+'camera_retake': 'Retake',
+'camera_shutter_instruction': 'Tap para sa Photo, hold para sa video',
+'camera_use_photo': 'Use Photo ',
+'camera_use_video': 'Use Video'}
+---------------
+
