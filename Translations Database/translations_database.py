@@ -334,48 +334,67 @@ def translate_swift_files_to_filipino():
 
     # Define the path to search for Swift files
     path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop'
-
+    file_paths = [
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Pin/fil.lproj/Pin.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Pin/Views/fil.lproj/PinView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/fil.lproj/Signup.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj/FriendMessageView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj/WelcomeView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj/NamePinView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj/ProfileImageView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj/ConnectingView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Signup/Custom Views/fil.lproj/SphinxReady.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/fil.lproj/Contacts.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Contacts/Custom View/fil.lproj/GroupPinView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/fil.lproj/Groups.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj/TribeMemberInfoView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Groups/Views/fil.lproj/GroupMembersView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/WebApps/Views/fil.lproj/AuthorizeAppView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj/CommonPaymentView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj/PaymentTemplatesView.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj/ExpiredInvoiceReceivedCollectionViewItem.strings'
+        ]
     # Define the regular expression to match localized strings
     localized_string_regex = re.compile(r'(?<=\")(.*?)(?=\"\s*=\s*\")(.*?)(?=\";)')
     no_translation = ""
     # Walk through the directory tree and find all Swift files
-    for dirpath, dirnames, filenames in os.walk(path):
-        for filename in [f for f in filenames if f.endswith(".strings") and "fil.lproj" in dirpath]:
-            with open(os.path.join(dirpath, filename)) as f:
-                content = f.read()
+    #for dirpath, dirnames, filenames in os.walk(path):
+    for filename in file_paths:
+        with open(os.path.join(filename)) as f:
+            content = f.read()
 
-            # Find all the localized strings in the file using the regular expression
-            matches = re.findall(localized_string_regex, content)
+        # Find all the localized strings in the file using the regular expression
+        matches = re.findall(localized_string_regex, content)
 
-            # Loop through the matches and translate each string
-            for key, value in matches:
-                # Look up the Filipino translation in the database
-                if(len(value.split('" = "'))>1):
-                    value = value.split('" = "')[1]
-                c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
-                result = c.fetchone()
+        # Loop through the matches and translate each string
+        for key, value in matches:
+            # Look up the Filipino translation in the database
+            if(len(value.split('" = "'))>1):
+                value = value.split('" = "')[1]
+            c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
+            result = c.fetchone()
 
-                # If a Filipino translation is found, replace the English value with it
-                if result is not None:
-                    filipino = result[0]
-                    content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
-                else:
-                    # Exclude the equals sign and double quotes before the string value
-                    print(f"no translation for: {value}")
-                    print(f"at dirpath:{dirpath}")
-                    no_translation+=(value)
-                    no_translation+=("\n")
-                    no_translation+=("(" + dirpath + ")")
-                    no_translation+=("\n")
-                    no_translation+=("------")
-                    no_translation+=("\n")
+            # If a Filipino translation is found, replace the English value with it
+            if result is not None:
+                filipino = result[0]
+                content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
+            else:
+                # Exclude the equals sign and double quotes before the string value
+                print(f"no translation for: {value}")
+                print(f"at dirpath:{dirpath}")
+                no_translation+=(value)
+                no_translation+=("\n")
+                no_translation+=("(" + dirpath + ")")
+                no_translation+=("\n")
+                no_translation+=("------")
+                no_translation+=("\n")
 
-            # Write the modified contents back to the file
-            # with open(os.path.join(dirpath, filename), 'w') as f:
-            #     f.write(content)
+        # Write the modified contents back to the file
+        # with open(os.path.join(dirpath, filename), 'w') as f:
+        #     f.write(content)
 
-            with open(os.path.join("/Users/jamescarucci/Documents/GitLab/sphinx-translations-importer-exporter/Translations Database", "mac_no_translations.txt"), 'w') as f:
-                f.write(no_translation)
+        with open(os.path.join("/Users/jamescarucci/Documents/GitLab/sphinx-translations-importer-exporter/Translations Database", "mac_no_translations.txt"), 'w') as f:
+            f.write(no_translation)
 
     # Close the database connection
     conn.close()
@@ -387,56 +406,60 @@ def sanitize_string(s):
     """Sanitizes a string by removing any non-printable characters"""
     return ''.join(filter(lambda x: x in string.printable, s))
 
-def import_dictionary_based_translations_to_db():
-    filename = 'android_translations.txt'
+
+
+def translate_swift_files_to_filipino():
     # Connect to the database
     conn = sqlite3.connect('translations.db')
     c = conn.cursor()
 
-    with open(filename, 'r') as f:
-        content = f.read()
+    # Define the path to search for Swift files
+    path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop'
 
-        # Split the file content into individual dictionaries
-        dictionaries = content.split('---------------\n')
+    # Define the regular expression to match localized strings
+    localized_string_regex = re.compile(r'(?<=\")(.*?)(?=\"\s*=\s*\")(.*?)(?=\";)')
 
-        # Loop through the dictionaries and extract the key-value pairs
-        for dictionary_str in dictionaries:
-            # Skip empty dictionaries
-            if not dictionary_str.strip():
-                continue
+    # Loop through all files in the directory and find files with "fil.lproj" in their filepath
+    for dirpath, dirnames, filenames in os.walk(path):
+        for filename in filenames:
+            if "fil.lproj" in dirpath:
+                # Only process .strings files
+                if filename.endswith(".strings"):
+                    file_path = os.path.join(dirpath, filename)
+                    with open(file_path) as f:
+                        content = f.read()
 
-            # Convert the dictionary string to a dictionary object
-            try:
-                dictionary = ast.literal_eval(dictionary_str.strip())
-            except SyntaxError as e:
-                print(f'Error parsing dictionary: {e}')
-                continue
+                    # Find all the localized strings in the file using the regular expression
+                    matches = re.findall(localized_string_regex, content)
 
-            # Loop through the key-value pairs and insert/update them in the database
-            for key, value in dictionary.items():
-                # Sanitize the key and value strings
-                key = sanitize_string(key)
-                value = sanitize_string(value)
+                    # Loop through the matches and translate each string
+                    for key, value in matches:
+                        # Look up the Filipino translation in the database
+                        if(len(value.split('" = "'))>1):
+                            value = value.split('" = "')[1]
+                        c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
+                        result = c.fetchone()
 
-                # Look up the translation_id in the database
-                c.execute('SELECT id FROM translations WHERE translation_id = ?', (key,))
-                result = c.fetchone()
+                        # If a Filipino translation is found, replace the English value with it
+                        if result is not None and result[0] is not None:
+                            if(value == "Privacy Setting"):
+                                print("Privacy Setting")
+                                print(result)
+                                return
+                            filipino = result[0]
+                            content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
+                        else:
+                            # Print a message indicating that there is no translation for the string
+                            print(f"no translation for: {value}")
+                            print(f"at file path:{file_path}")
 
-                # If no row exists, create a new one with the translation_id and Filipino translation
-                if result is None:
-                    c.execute('INSERT INTO translations (translation_id, fil) VALUES (?, ?)', (key, value))
-                    print(f'Inserted {key} into db')
-                else:
-                    # Otherwise, update the existing row with the Filipino translation
-                    id = result[0]
-                    c.execute('UPDATE translations SET fil = ? WHERE id = ?', (value, id))
-                    print(f'Updated {key} in db')
-
-        # Commit the changes to the database
-        conn.commit()
+                    # Write the modified contents back to the file
+                    with open(file_path, 'w') as f:
+                        f.write(content)
 
     # Close the database connection
     conn.close()
+
 
 
 
@@ -475,3 +498,14 @@ def import_dictionary_based_translations_to_db():
 #import_dictionary_based_translations_to_db()
 
 translate_swift_files_to_filipino()
+
+# path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop'
+
+
+# for root, dirs, files in os.walk(path):
+#     for file in files:
+#         if 'fil.lproj' in root:
+#             filepath = os.path.join(root, file)
+#             print(filepath)
+
+
