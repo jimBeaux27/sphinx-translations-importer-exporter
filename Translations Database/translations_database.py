@@ -377,21 +377,23 @@ def translate_swift_files_to_filipino():
             # If a Filipino translation is found, replace the English value with it
             if result is not None:
                 filipino = result[0]
-                content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
+                if filipino is not None:
+                    content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
+                    print(f'replacing {key} = {value} with {filipino}')
             else:
                 # Exclude the equals sign and double quotes before the string value
                 print(f"no translation for: {value}")
-                print(f"at dirpath:{dirpath}")
+                print(f"at filename:{filename}")
                 no_translation+=(value)
                 no_translation+=("\n")
-                no_translation+=("(" + dirpath + ")")
+                #no_translation+=("(" + dirpath + ")")
                 no_translation+=("\n")
                 no_translation+=("------")
                 no_translation+=("\n")
 
         # Write the modified contents back to the file
-        # with open(os.path.join(dirpath, filename), 'w') as f:
-        #     f.write(content)
+        with open(os.path.join(filename), 'w') as f:
+            f.write(content)
 
         with open(os.path.join("/Users/jamescarucci/Documents/GitLab/sphinx-translations-importer-exporter/Translations Database", "mac_no_translations.txt"), 'w') as f:
             f.write(no_translation)
@@ -406,62 +408,69 @@ def sanitize_string(s):
     """Sanitizes a string by removing any non-printable characters"""
     return ''.join(filter(lambda x: x in string.printable, s))
 
+def read_mac_no_translations_file(file_path):
+    with open(file_path, 'r') as file:
+        no_translations_text = file.read()
+        no_translations_array = no_translations_text.split('------\n')
+    return no_translations_array
+
+def parse_mac_no_translations_entry(entry):
+    lines = entry.split('\n')
+
+    # Extract the second line and the line before it
+    translation_id = lines[1]
+    en_text = lines[0].strip()
+
+    return (translation_id, en_text)
 
 
-def translate_swift_files_to_filipino():
-    # Connect to the database
-    conn = sqlite3.connect('translations.db')
-    c = conn.cursor()
+def insert_filipino_translations(tuples):
+    with sqlite3.connect('translations.db') as conn:
+        c = conn.cursor()
 
-    # Define the path to search for Swift files
-    path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop'
+        for tuple in tuples:
+            en, fil = tuple[1], tuple[2]
+            c.execute('''INSERT INTO translations (en, fil)
+                         VALUES (?, ?)''', (en, fil))
+            print(f'Inserted pair {(en,fil)} into db')
 
-    # Define the regular expression to match localized strings
-    localized_string_regex = re.compile(r'(?<=\")(.*?)(?=\"\s*=\s*\")(.*?)(?=\";)')
-
-    # Loop through all files in the directory and find files with "fil.lproj" in their filepath
-    for dirpath, dirnames, filenames in os.walk(path):
-        for filename in filenames:
-            if "fil.lproj" in dirpath:
-                # Only process .strings files
-                if filename.endswith(".strings"):
-                    file_path = os.path.join(dirpath, filename)
-                    with open(file_path) as f:
-                        content = f.read()
-
-                    # Find all the localized strings in the file using the regular expression
-                    matches = re.findall(localized_string_regex, content)
-
-                    # Loop through the matches and translate each string
-                    for key, value in matches:
-                        # Look up the Filipino translation in the database
-                        if(len(value.split('" = "'))>1):
-                            value = value.split('" = "')[1]
-                        c.execute('SELECT fil FROM translations WHERE en = ?', (value,))
-                        result = c.fetchone()
-
-                        # If a Filipino translation is found, replace the English value with it
-                        if result is not None and result[0] is not None:
-                            if(value == "Privacy Setting"):
-                                print("Privacy Setting")
-                                print(result)
-                                return
-                            filipino = result[0]
-                            content = content.replace(f'"{key}" = "{value}"', f'"{key}" = "{filipino}"')
-                        else:
-                            # Print a message indicating that there is no translation for the string
-                            print(f"no translation for: {value}")
-                            print(f"at file path:{file_path}")
-
-                    # Write the modified contents back to the file
-                    with open(file_path, 'w') as f:
-                        f.write(content)
-
-    # Close the database connection
-    conn.close()
+        conn.commit()
 
 
 
+####Start recover translations for mac##
+
+# no_translations_array = read_mac_no_translations_file('original_english_flie.txt')
+# translations_array = read_mac_no_translations_file('new_filipino_file.txt')
+
+# tuples = []
+# filipino_tuples = []
+# for entry in no_translations_array:
+#     if entry:
+#         parsed_entry = parse_mac_no_translations_entry(entry)
+#         tuples.append(parsed_entry)
+
+# for entry in translations_array:
+#     if entry:
+#         parsed_entry = parse_mac_no_translations_entry(entry)
+#         filipino_tuples.append(parsed_entry)
+
+# pprint.pprint(tuples)
+# pprint.pprint(filipino_tuples)
+
+# print(len(tuples))
+# print(len(filipino_tuples))
+
+# combined_tuples = []
+
+# for i in range(0,len(filipino_tuples) - 1):
+#     new_tuple = (tuples[i][0],tuples[i][1],filipino_tuples[i][1])
+#     combined_tuples.append(new_tuple)
+
+# print(combined_tuples)
+
+# insert_filipino_translations(combined_tuples)
+####END recover translations for mac##
 
 
 
@@ -481,12 +490,18 @@ def translate_swift_files_to_filipino():
 #print_table_values('translations')
 
 
+# db = sqlite3.connect('translations.db')
+# join_mac_translations_insert_into_db('translations.db', 'mac_no_translations copy.txt', 'mac_filipino_translations.txt')
+
+
+
+#insert_mac_english_translations('translations.db', 'mac_no_translations copy.txt')
 
 # translate_each_android_file()
 
 #translate_mac_main_localization_file_to_filipino()
 
-#translate_swift_files_to_filipino()
+translate_swift_files_to_filipino()
 
 
 #import_dictionary_based_translations_to_db()
@@ -497,7 +512,7 @@ def translate_swift_files_to_filipino():
 
 #import_dictionary_based_translations_to_db()
 
-translate_swift_files_to_filipino()
+#translate_swift_files_to_filipino()
 
 # path = '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop'
 
