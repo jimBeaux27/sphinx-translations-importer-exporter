@@ -1,10 +1,31 @@
 Tomas Timinskas
 
 ------
+Bumalik
+
+------
 TT
 
 ------
+Kahon
+
+------
 
+
+------
+Kahon
+
+------
+Kahon
+
+------
+Kahon
+
+------
+Kahon
+
+------
+Kahon
 
 ------
 
@@ -13,7 +34,25 @@ TT
 Copy your keys from your  mobile app and paste it here.
 
 ------
+BAGONG USER
+
+------
+Nasa\nlightning network ka na!
+
+------
 
+
+------
+Bumalik
+
+------
+Wala ka bang Sphinx sa iyong phone?
+
+------
+Kahon
+
+------
+Isang mensahe mula sa iyong kaibigan...
 
 ------
 Susan Johnson
@@ -31,10 +70,55 @@ WELCOME!
 Nakakonekta na ngayon ang iyong app.
 
 ------
+MAGSIMULA
+
+------
 
 
 ------
 Tomas Timinskas
+
+------
+Bumalik
+
+------
+I-drag at i-drop ang Imahe
+
+------
+Maaari kang magpadala ng mga mensahe,\nspend 1000 sats,\nor receive up to 10 000 sats.
+
+------
+HANDA KA NA\nGUMAMIT NG SPHINX!
+
+------
+MAGSAMA NG MENSAHE
+
+------
+Piliin ang PIN
+
+------
+Pribado
+
+------
+Oras sa stake: (oras)
+
+------
+Presyo per mensahe:
+
+------
+I-SAVE ANG TRIBU
+
+------
+Kahon
+
+------
+Nilikha noong...
+
+------
+Halaga sa stake:
+
+------
+Kahon
 
 ------
 Price to join:
@@ -44,6 +128,12 @@ I-SAVE
 
 ------
 
+
+------
+Aking Alyas
+
+------
+AkingLarawan
 
 ------
 
@@ -77,5 +167,986 @@ KUMPIRMAHIN
 
 ------
 
+
+------
+"  = "Tagumpay
+
+------
+"  = "Mali
+
+------
+"  = "May mali. Paki ulit sa ilang saglit.
+
+------
+"  = "Kumpirma
+
+------
+"  = "None
+
+------
+"  = "Babala
+
+------
+"  = "TAPOS
+
+------
+"  = "SUSUNOD
+
+------
+"  = "KUMPIRMAHIN
+
+------
+continue
+
+------
+"  = "I-SAVE
+
+------
+"  = "Kanselahin
+
+------
+"  = "Na-upload: %d %%
+
+------
+"  = "Pampublikong susi
+
+------
+"  = "Ikaw
+
+------
+"  = "Hindi makilala
+
+------
+"  = "UK
+
+------
+"  = "Ngayon
+
+------
+"  = "Profile
+
+------
+"  = "None
+
+------
+"  = "Ipasa
+
+------
+"  = "Patunayan
+
+------
+"  = "Kumunekta sa Node
+
+------
+"  = "Hindi available ang Live updates
+
+------
+"  = "HIndi makakunekta sa Node
+
+------
+"  = "May nangyaring kamalian, Paki contact ang suporta
+
+------
+The network connection is lost. Please check your network and try again later.
+
+------
+"  = "Nabigo ang bagong pagsubok sa URL, ibinabalik ang dating setting...
+
+------
+"  = "Sinusubukan ang bagong URL...
+
+------
+"  = "Dashboard
+
+------
+"  = "Mga contact
+
+------
+"  = "Profile
+
+------
+"  = "Ilarawan ang iyong problema dito...
+
+------
+"  = "Nakopya ang mga log sa clipboard
+
+------
+"  = "Ang iyong mensahe ay naipadala na
+
+------
+"  = "Mga Detalye ng Grupo
+
+------
+"  = "Mga Detalye ng Tribo
+
+------
+"  = "I-UNSELECT LAHAT
+
+------
+"  = "PILIIN LAHAT
+
+------
+You can't add more than %d members
+
+------
+"  = "Naabot mo na ang limitasyon ng mga miyembro ng grupo
+
+------
+"  = "Imahe ng Grupo
+
+------
+"  = "Mangyaring pumili ng opsyon
+
+------
+"  = "Walang laman ang ilan sa mga kinakailangang field
+
+------
+"  = "Magdagdag ng Kontak
+
+------
+"  = "Pumili ng mga Kontak
+
+------
+"  = "MGA KONTAK
+
+------
+"  = "Malapit nang sumali sa grupo ang mga bagong miyembro
+
+------
+"  = "HIndi Makilalang Grupo
+
+------
+"  = "Ginawa noong %@
+
+------
+"  = "MGA MIYEMBRO NG GRUPO
+
+------
+"  = "Mga Pagpipilian ng miyembro
+
+------
+"  = "I-Edit ang Grupo
+
+------
+"  = "Tanggalin ang Grupo
+
+------
+"  = "Lumabas sa Grupo
+
+------
+"  = "Sigurado ka bang gusto mong lumabas at tanggalin ang grupo?
+
+------
+"  = "Tanggalin ang Grupo
+
+------
+"  = "Sigurado ka bang gusto mong lumabas at tanggalin ang tribo?
+
+------
+"  = "QR code sa Pagsali sa Tribo
+
+------
+"  = "Sigurado ka bang gusto mong tanggalin ang tribo?
+
+------
+Profile Image
+
+------
+"  = "I-EDIT ANG GRUPO
+
+------
+"  = "Si %@ ay kakaalis lang sa grupo
+
+------
+"  = "Si %@ ay kakaalis lang sa tribo
+
+------
+"  = "Si %@ ay sumali sa grupo
+
+------
+"  = "Si %@ ay sumali sa tribo
+
+------
+"  = "Naidagdag si %@ sa grupo
+
+------
+"  = "Inalis ka ng admin sa tribong ito
+
+------
+"  = "Tinanggal ng admin ang kanyang tribo
+
+------
+"  = "Maligayang pagdating! Miyembro ka na ngayon
+
+------
+"  = "Inaprubahan mo ang kahilingan mula sa/kay %@
+
+------
+"  = "Tinanggihan mo ang kahilingan mula sa/kay %@
+
+------
+"  = "Naghihintay ng pag-apruba ng admin
+
+------
+"  = "Lumabas sa Tribo
+
+------
+"  = "Ibahagi ang QR code ng tribo
+
+------
+"  = "Tanggalin ang Tribo
+
+------
+"  = "I-Edit ang Tribo
+
+------
+"  = "Mga titik, numero at underscore lamang ang pinapayagan sa mga alias ng tribo
+
+------
+"  = "Sigurado ka bang gusto mong umalis at mawala ang anumang hindi na-save na mga pagbabago?
+
+------
+"  = "NAKA-PAUSE
+
+------
+"  = "NATAPOS
+
+------
+"  = "AKTIBO
+
+------
+Amount, Time Interval and End Rule are required.
+
+------
+"  = "Sigurado ka bang gusto mong tanggalin ang subscription na ito?
+
+------
+"  = "HALAGA
+
+------
+"  = "TIME INTERVAL
+
+------
+"  = "END RULE
+
+------
+"  = "Kabuuang halaga ng mga babayaran:
+
+------
+"  = "Magbayad hanggang:
+
+------
+"  = "Naka-subscribe ka na.
+
+------
+"  = "Hindi maaaring walang laman ang value
+
+------
+"  = "SUBSCRIBE
+
+------
+"  = "%@ kopyahin sa clipboard
+
+------
+"  = "Kahilingan sa Pagbabayad
+
+------
+Kopyahin ang Invoice String
+
+------
+Kopyahin ang Invoice Image
+
+------
+"  = "Bagong kontak
+
+------
+"  = "None
+
+------
+"  = "EDIT CONTACT
+
+------
+"  = "SUBSCRIBED
+
+------
+"  = "SUBSCRIBE
+
+------
+"  = "Kinakailangan ang Palayaw at Address.
+
+------
+"  = "Di-wastong pampublikong Susi
+
+------
+"  = "Magdagdag ng mga Tao
+
+------
+"  = "Whoops!
+
+------
+"  = "Maligayang Pagdating
+
+------
+"  = "Maligayang Pagdating!
+
+------
+"  = "Nagkaproblema. Mangyaring makipag-ugnayan sa aming suporta sa support@stakwork.com
+
+------
+"  = "Idikit ang iyong mga susi...
+
+------
+"  = "None
+
+------
+"  = "Di-wastong PIN
+
+------
+"  = "Isang mensahe mula sa iyong kaibigan..
+
+------
+"  = "Palayaw
+
+------
+"  = "Baguhin ang Larawan
+
+------
+"  = "Hindi maaaring walang laman ang palayaw.
+
+------
+"  = "Handa ka nang gamitin ang Sphinx!
+
+------
+"  = "handa na
+
+------
+"  = "Maaari kang magpadala ng mga mensahe, gumastos ng %@ sats, o makatanggap ng hanggang %@ sats.
+
+------
+"  = "%@ sats,
+
+------
+"  = "%@ sats.
+
+------
+"  = "Higit pang sats ang kailangan para hilingin ang imbitasyong ito
+
+------
+"  = "Nakopya ang code sa clipboard
+
+------
+"  = "Sigurado ka bang gusto mong permanenteng tanggalin ang node na ito sa keychain? I-double check na hindi ka nakakonekta sa node na ito mula sa ibang aparato, dahil aalisin nito ang impormasyon mula sa keychain na nagiging sanhi ng pagkawala ng koneksyong iyon.
+
+------
+"  = "Nagkaroon ng pagkakamali sa pag-babalik mula sa Keychain.
+
+------
+"  = "None
+
+------
+"  = "None
+
+------
+"  = "May pagkakamali  sa koneksyon ng Tor
+
+------
+"  = "Mangyaring maghintay. Maaaring tumagal ng ilang minuto ang prosesong ito...
+
+------
+Copy your keys from your\nmobile app and paste it here.
+
+------
+Paste your invitation code\ninto Sphinx
+
+------
+"  = "Kopyahin ang iyong mga susi
+
+------
+"  = "Idikit
+
+------
+"  = "None
+
+------
+"  = "Nakopya ang address sa clipboard
+
+------
+"  = "Ilagay ang iyong PIN para i-encrypt ang iyong mga susi. Kakailanganin mo ito kapag ibinabalik ang account sa ibang aparato.
+
+------
+"  = "Mga Susi sa Pag-export
+
+------
+"  = "Kokopyahin ang iyong mga susi sa clipboard. I-save ang string na ito at tandaan ang iyong pin bago burahin ang app o mawawala ang lahat ng data.
+
+------
+"  = "I-export ang mga key na kinopya sa clipboard
+
+------
+"  = "Matagumpay na na-update ang URL ng server
+
+------
+"  = "Pampublikong susi
+
+------
+"  = "Route Hint
+
+------
+"  = "None
+
+------
+"  = "None
+
+------
+"  = "PUMILI NG PIN
+
+------
+"  = "KUMPIRMAHIN ANG PIN
+
+------
+"  = "Na-update na ang iyong PIN. Mangyaring muling i-export ang iyong mga susi gamit ang bagong PIN.
+
+------
+"  = "Hindi mo magagamit ang iyong pangunahing PIN bilang PIN ng grupo
+
+------
+"  = "Itakda ang Privacy PIN
+
+------
+"  = "Baguhin ang Privacy PIN
+
+------
+"  = "Naitakda na ang iyong Privacy PIN
+
+------
+"  = "Ang iyong Privacy PIN ay na-update na
+
+------
+"  = "Hindi maaaring magkapareho ang iyong PIN at ang iyong Privacy PIN
+
+------
+"  = "Kung aktibo ang setting ng privacy, ipapakita lamang ang kontak kapag ginamit ang tamang PIN sa privacy upang mag-log in sa Sphinx. Kailangan mo munang magtakda ng Privacy PIN mula sa Profile para magamit ang katangian na ito.
+
+------
+"  = "Baguhin ang PIN
+
+------
+"  = "Sigurado ka bang gusto mong palitan ang iyong PIN?
+
+------
+"  = "Sigurado ka bang gusto mong baguhin ang iyong Privacy PIN?
+
+------
+"  = "Nagkaroon ng pagkakamali sa paglo-load ng listahan ng mga transaksyon. Subukang muli sa ibang pagkakataon.
+
+------
+"  = "Naglo-load ng higit pang mga transaksyon...
+
+------
+"  = "MAG-SCAN NG QR CODE
+
+------
+"  = "I-paste ang Invoice o Subscription code
+
+------
+"  = "CONTACT ADDRESS
+
+------
+"  = "Ilagay ang Address
+
+------
+"  = "I-SCAN
+
+------
+"  = "Ipasok ang Code
+
+------
+"  = "Paumanhin
+
+------
+"  = "Hindi namin nakikilala ang ganitong uri ng code.
+
+------
+"  = "Nag-expire na: 
+
+------
+"  = "Invoice
+
+------
+"  = "Sigurado ka bang gusto mong bayaran ang invoice na ito?
+
+------
+"  = "NABIGO ANG PAGBAYAD
+
+------
+"  = "Tinanggihan mo ang mga pahintulot sa mikropono. Pumunta sa Mga Setting -> Sphinx at paganahin silang mag-record ng mga mensaheng audio.
+
+------
+"  = "Naka-mute na ang chat. Hindi ka makakatanggap ng mga push notipikasyon para sa mga papasok na mensahe sa chat na ito
+
+------
+"  = "Magbayad para sa imbitasyon
+
+------
+"  = "Nabigo ang pagbabayad, subukang muli sa ibang pagkakataon
+
+------
+"  = "Mag-e-expire sa %@ minuto
+
+------
+"  = "Nagbayad ng Invoice sa %@
+
+------
+"  = "Nag-expire ang mga termino ng media
+
+------
+"  = "Nabigo ang Mensahe
+
+------
+"  = "Paanyaya: %@
+
+------
+"  = "Maligayang pagdating sa Sphinx!
+
+------
+"  = "Naglo-load ng higit pang mga mensahe...
+
+------
+"  = "Mensahe...
+
+------
+"  = "Kinansela ang mensaheng audio
+
+------
+"  = "Nilo-load ang Preview...
+
+------
+"  = "Hindi available ang pamagat
+
+------
+"  = "Hindi available ang paglalarawan
+
+------
+"  = "Hindi available ang preview
+
+------
+"  = "Nakopya ang text sa clipboard
+
+------
+"  = "Nakopya ang link sa clipboard
+
+------
+"  = "Ang pampublikong susi ay nakopya sa clipboard
+
+------
+"  = "Nakopya ang Call Link sa clipboard
+
+------
+"  = "Ang pampublikong susi ay nakopya sa clipboard
+
+------
+"  = "Na kopya sa clipboard ang Pahiwatig na Ruta
+
+------
+Invoice copied to clipboard
+
+------
+"  = "Kinukuha ang mga lumang mensahe. Mangyaring maghintay...
+
+------
+"  = "Kinukuha ang mga bagong mensahe. Mangyaring maghintay...
+
+------
+"  = "Presyo ng bawat Mensahe: %@ sat - Halaga sa Stake: %@ sat
+
+------
+"  = "Sumali sa Tawag
+
+------
+"  = "Pagde-decrypt ng mensahe...
+
+------
+"  = "May Pagkakamali Encryption
+
+------
+"  = "Hindi ma-load ang data ng mensahe
+
+------
+"  = "Magbayad para i-unlock ang Mensahe
+
+------
+"  = "Naglo-load ng mensahe...
+
+------
+"  = "Kopyahin ang Text
+
+------
+"  = "Kopyahin ang Link
+
+------
+"  = "Kopyahin ang Pampublikong susi
+
+------
+"  = "Kopyahin ang Link ng Tawag
+
+------
+"  = "Sumagot
+
+------
+"  = "I-Save ang File
+
+------
+"  = "Tanggalin ang Mensahe
+
+------
+"  = "natanggap
+
+------
+"  = "naipadala
+
+------
+"  = "Pagbabayad
+
+------
+"  = "Ang pagbabayad ng %@ ay ipinadala sa %@
+
+------
+"  = "Nagpadala si %@ ng bayad na %@ sa %@
+
+------
+"  = "Larawan
+
+------
+"  = "Gif
+
+------
+"  = "Video
+
+------
+"  = "Audio
+
+------
+"  = "Bayad na Mensahe
+
+------
+"  = "Hindi suportado ang mensahe
+
+------
+"  = "mula sa
+
+------
+"  = "Bumili ng item %@
+
+------
+"  = "Nabili ang item
+
+------
+"  = "Tinanggihan ang pagbili ng item
+
+------
+"  = "Kumpirmahin ang Pagbili
+
+------
+"  = "Sigurado ka bang gusto mong bilhin ang item na ito?
+
+------
+"  = "Sagot ng Bot
+
+------
+"  = "File
+
+------
+"  = "Nagda-download ng file...
+
+------
+"  = "Masyadong mababa ang halaga
+
+------
+"  = "Masyadong mataas ang halaga
+
+------
+"  = "Sagot ng Bot
+
+------
+"  = "mga gumagamit
+
+------
+"  = "Opsyonal na Mensahe...
+
+------
+"  = "Kinakailangan ang presyo
+
+------
+"  = "Kinakailangan ang mensahe
+
+------
+"  = "MAGPADALA NG GIF
+
+------
+"  = "MAGPADALA NG LARAWAN
+
+------
+"  = "MAGPADALA NG BAYAD NA MENSAHE
+
+------
+"  = "MAGPADALA NG VIDEO
+
+------
+"  = "MAGTAKDA NG PRESYO
+
+------
+"  = "Para sa/kay
+
+------
+"  = "Mula sa/kay
+
+------
+"  = "MAGPADALA NG BAYAD
+
+------
+"  = "HUMILING NG HALAGA
+
+------
+"  = "Masyadong mababa ang balanse
+
+------
+"  = "Kabuuan
+
+------
+"  = "Matagumpay na ipinadala ang iyong bayad.
+
+------
+"  = "Masyadong malaki ang memo
+
+------
+"  = "mga pahina
+
+------
+"  = "pahina
+
+------
+"  = "PDF - %@ - pahina %d ng %d
+
+------
+"  = "Lumikha ng Tawag
+
+------
+"  = "Pumili ng call mode
+
+------
+"  = "Audio
+
+------
+"  = "Video or Audio
+
+------
+"  = "Mag-login sa iyong account
+
+------
+"  = "Hindi maipadala ang email mula sa aparato na ito. 
+
+------
+"  = "Binawi mo ang mga pahintulot sa Photo Library. Pumunta sa Mga Setting -> Sphinx upang paganahin muli ang mga ito.
+
+------
+"  = "Ang %@ ay matagumpay na nai-save.
+
+------
+"  = "Nagkaroon ng pagkakamali sa pag-save ng %@, pakisubukang muli sa ibang pagkakataon.
+
+------
+"  = "imahe
+
+------
+"  = "video
+
+------
+"  = "I-dismiss
+
+------
+"  = "Bayad na ang Invoice
+
+------
+"  = "Halaga
+
+------
+"  = "Memo
+
+------
+"  = "Camera
+
+------
+"  = "Photo Library
+
+------
+"  = "Walang available na camera sa aparato na ito
+
+------
+"  = "Nakatanggap ka ng bayad na %d sats
+
+------
+"  = "Paunang mensahe kay 
+
+------
+"  = "Nagtagumpay ang Awtorisasyon. Mangyaring bumalik sa website upang kumpletuhin ang iyong profile.
+
+------
+"  = "Nabigong Awtorisasyon
+
+------
+"  = "Naka konekta ka na sa taong ito
+
+------
+"  = "Presyo dapat matugunan: 
+
+------
+"  = "I-redeem ang %d sats mula sa:
+
+------
+"  = "I-save ang Profile mula sa:
+
+------
+"  = "Tanggalin ang Profile mula sa:
+
+------
+"  = "Nabigo ang pag-save ng Profile
+
+------
+"  = "Nabigo ang pagtanggal ng Profile
+
+------
+"  = "Matagumpay na na-save ang profile
+
+------
+"  = "Matagumpay na natanggal ang profile
+
+------
+"  = "Kunin ang Badge Token mula sa:
+
+------
+"  = "Matagumpay na nakuha ang Badge Token
+
+------
+"  = "Hindi makuha ang Badge Token
+
+------
+"  = "Nagtagumpay ang Pagbili
+
+------
+"  = "Tinanggihan ang pagbili
+
+------
+"  = "Pinoproseso
+
+------
+"  = "Nakabinbin
+
+------
+ Looking for an available node for %@...
+
+------
+"  = "Ipinadala ang bayad, naghihintay ng kumpirmasyon
+
+------
+ Tap to pay and activate the invite
+
+------
+ Ready! Tap to share. Expires in 24 hrs
+
+------
+ %@ is signing on
+
+------
+ Expired
+
+------
+ Signup complete
+
+------
+"  = "Bagong user
+
+------
+"  = "Kasalukuyang user
+
+------
+"  = "Nag-expire na ang imbitasyon
+
+------
+"  = "Mag-e-expire ang mga imbitasyon pagkatapos ng 24 na oras. Mangyaring lumikha ng bagong imbitasyon.
+
+------
+"  = "Nakabinbing imbitasyon
+
+------
+"  = "Paumanhin sa pag kaantala. Pinoproseso ang iyong imbitasyon.
+
+------
+"  = "Kasalukuyang isinasagawa ang imbitasyon
+
+------
+"  = "Nagsa-sign on si %@.
+
+------
+"  = "Kasalukuyang isinasagawa ang pagbabayad
+
+------
+"  = "Pinoproseso ang iyong bayad.
+
+------
+"  = "None
+
+------
+"  = "None
+
+------
+"  = "Ipagpatuloy ang Pagpapa Numbalik...
+
+------
+"  = "Ibinabalik:
+
+------
+"  = "Pagpapanumbalik ng nilalaman:
+
+------
+"  = "Pagpapanumbalik ng mga mensahe:
+
+------
+"  = "mga episode
+
+------
+"  = "Presyo bawat minuto: %d sats
+
+------
+"  = "Na-ambag: %d sats
+
+------
+"  = "Naipon: %d sats
+
+------
+Podcast: sats kada minuto
+
+------
+"  = "Ang iminungkahing halaga (%d sats) ay higit sa pinakamataas
+
+------
+"  = "I-download
+
+------
+"  = "Kopyahin ang Link
+
+------
+Mark As Played
+
+------
+"  = "Ibahagi
+
+------
+"  = "Markahan bilang hindi na-play
+
+------
+"  = "Hindi kailanman nangangailangan ng PIN
+
+------
+"  = "Laging nangangailangan ng PIN
 
 ------

@@ -352,7 +352,8 @@ def translate_swift_files_to_filipino():
         '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/WebApps/Views/fil.lproj/AuthorizeAppView.strings',
         '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj/CommonPaymentView.strings',
         '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Payments/Views/fil.lproj/PaymentTemplatesView.strings',
-        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj/ExpiredInvoiceReceivedCollectionViewItem.strings'
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/Scenes/Dashboard/Chat/Collection View Items/Received/fil.lproj/ExpiredInvoiceReceivedCollectionViewItem.strings',
+        '/Users/jamescarucci/Documents/GitLab/sphinx-mac/com.stakwork.sphinx.desktop/fil.lproj/Localizable.strings' 
         ]
     # Define the regular expression to match localized strings
     localized_string_regex = re.compile(r'(?<=\")(.*?)(?=\"\s*=\s*\")(.*?)(?=\";)')
